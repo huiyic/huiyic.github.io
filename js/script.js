@@ -6,16 +6,16 @@ $(document).ready(function () {
 $(window).scroll(function () {
     if ($(window).scrollTop() == 0) {
         $('.menu').hide();
-        $('.msg').fadeIn(200);
+        $('.msg').fadeIn(500);
         $('.welcome').animate({
             height: "220px"
         }, 300);
         shown = false;
     } else if ($(window).scrollTop() > 0 && !shown) {
-        $('.menu').fadeIn(200);
+        $('.menu').fadeIn(500);
         $('.msg').hide();
         $('.welcome').animate({
-            height: "130px"
+            height: "80px"
         }, 300);
         shown = true;
     }

@@ -1,0 +1,133 @@
+.welcome {
+
+    height:220px;
+
+    width:100%;
+
+    background-color:rgba(59, 49, 64, 1);
+
+}
+
+.welcome stick {
+
+    z-index: 10;
+
+}
+
+.logo {
+    
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.h2 {
+
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+
+.glyphicon.glyphicon-user {
+    font-size: 0.8em;
+    color: #f9f9f9;
+    padding-right: 6px;
+}
+
+.glyphicon.glyphicon-pencil {
+    font-size: 0.8em;
+    color: #f9f9f9;
+    padding-right: 6px;
+}
+
+.glyphicon.glyphicon-briefcase {
+    font-size: 0.8em;
+    color: #f9f9f9;
+    padding-right: 6px;
+}
+
+.glyphicon.glyphicon-envelope {
+    font-size: 0.8em;
+    color: #f9f9f9;
+    padding-right: 6px;
+}
+
+.content {
+
+    height:auto;
+
+}
+
+.menubar {
+
+    height: 100px;
+}
+
+.stick {
+
+    position:fixed;
+
+    top:0px;
+
+}
+
+.menu {
+
+    display:none;
+
+    /*To hide it initially*/
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding-right: 50px;
+
+    padding-top: 8px;
+    
+    overflow: hidden;
+    
+
+}
+
+a {
+    color: #D97E7E
+
+}
+
+a:hover {
+
+    text-decoration: none;
+    color: #F2B9AC;
+
+} 
+
+.tabs {
+
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 900;
+    padding-left: 6px;
+    padding-right: 6px;
+    text-align: left;
+    
+}
+
+.tabs a {
+
+    display: inline-block;
+    width: 60px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+.tabs a:hover {
+
+    color: #BFB8A3;
+    text-decoration: none;
+
+}
