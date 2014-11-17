@@ -13,7 +13,10 @@
       }
     </style>
     <link href="/css/bootstrap-min.css" rel="stylesheet">
-
+      
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>      
+<script type="text/javascript" src="/js/script.js"></script>
+      
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -21,27 +24,53 @@
   </head>
 
   <body>
+ 
+<div class="content"></div>
+      
+           
+      <div class="welcome stick">
+     <h1>Welcome</h1>
+<span class="msg">
+    <h2>Make it work!</h2>
+    </span>
+    <ul class="menu">
+        <li><a href="http://0.0.0.0:4000/about">About</a>
 
-    <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          <a class="brand" href="#">Hui Yi C.</a>
-          <div class="nav-collapse collapse">
-            <ul class="nav">
-              <li class="active"><a href="/">Home</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
+        </li>
+        <li><a href="http://0.0.0.0:4000/">Blog</a>
 
+        </li>
+        <li><a href="http://0.0.0.0:4000/works">X</a>
+
+        </li>
+        <li><a href="http://0.0.0.0:4000/contact">Contact</a>
+
+        </li>
+    </ul>
+</div>
+
+   
     <div class="container">
-  <div class="row">
+  
+
+
+<div class="row">
+    <div class="col-md-4">
+    <h3>About Me</h3>
+
+<p>Donec libero libero, bibendum non condimentum ac, ullamcorper at sapien. Duis feugiat urna vel justo cursus facilisis. Vivamus ligula dui, convallis a varius vitae, facilisis eget magna.</p>
+
+<h3>Recent Posts</h3>
+
+<ul>
+  
+    <li><a href="/2014/11/15/Jekyll-test-2/">Consectetur Elit</a></li>
+  
+    <li><a href="/2014/11/15/Jekyll-test/">Lorem Ipsum Dolor Sit Amet</a></li>
+  
+</ul>
+  </div>  
+      
     <div class="col-md-8">
    
     <!-- This loops through the paginated posts -->
@@ -71,21 +100,7 @@
   
 </div>
   </div>
-  <div class="col-md-4">
-    <h3>About Me</h3>
-
-<p>Donec libero libero, bibendum non condimentum ac, ullamcorper at sapien. Duis feugiat urna vel justo cursus facilisis. Vivamus ligula dui, convallis a varius vitae, facilisis eget magna.</p>
-
-<h3>Recent Posts</h3>
-
-<ul>
   
-    <li><a href="/2014/11/15/Jekyll-test-2/">Consectetur Elit</a></li>
-  
-    <li><a href="/2014/11/15/Jekyll-test/">Lorem Ipsum Dolor Sit Amet</a></li>
-  
-</ul>
-  </div>
 </div>
  </div>
 
