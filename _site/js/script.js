@@ -8,7 +8,7 @@ $(window).scroll(function () {
         $('.menu').hide();
         $('.msg').fadeIn(500);
         $('.welcome').animate({
-            height: "200px"
+            height: "180px"
         }, 300);
         shown = false;
     } else if ($(window).scrollTop() > 0 && !shown) {
