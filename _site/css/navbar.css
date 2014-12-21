@@ -4,7 +4,7 @@ p {
     color: #5e5e5e;
     padding-left: 180px;
     padding-right: 180px;
-    line-height: 180%;
+    line-height: 170%;
 }
 
 h1 {
@@ -109,14 +109,14 @@ h1 {
 }
 
 a {
-    color: #D97E7E
+    color: #263238
 
 }
 
 a:hover {
 
     text-decoration: none;
-    color: #F2B9AC;
+    color: #546E7A;
 
 } 
 
