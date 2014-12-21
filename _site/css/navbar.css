@@ -20,9 +20,11 @@ h1 {
 
     width:100%;
 
-    background-color: black;
+    background-color: white;
     
-    opacity: 0.2;
+    opacity: 0.7;
+    
+    border-bottom: 1px solid #f9f9f9;
 }
 
 .welcome stick {
@@ -49,25 +51,25 @@ h1 {
 
 .glyphicon.glyphicon-user {
     font-size: 0.8em;
-    color: #f9f9f9;
+    color: #263238;
     padding-right: 6px;
 }
 
 .glyphicon.glyphicon-pencil {
     font-size: 0.8em;
-    color: #f9f9f9;
+    color: #263238;
     padding-right: 6px;
 }
 
 .glyphicon.glyphicon-briefcase {
     font-size: 0.8em;
-    color: #f9f9f9;
+    color: #263238;
     padding-right: 6px;
 }
 
 .glyphicon.glyphicon-envelope {
     font-size: 0.8em;
-    color: #f9f9f9;
+    color: #263238;
     padding-right: 6px;
 }
 
@@ -136,14 +138,14 @@ a:hover {
 
     display: inline-block;
     width: 60px;
-    color: #ffffff;
+    color: #263238;
     text-decoration: none;
 }
 
 
 .tabs a:hover {
 
-    color: #BFB8A3;
+    color: #546E7A;
     text-decoration: none;
 
 }
