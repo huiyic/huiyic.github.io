@@ -8,14 +8,14 @@ $(window).scroll(function () {
         $('.menu').hide();
         $('.msg').fadeIn(500);
         $('.welcome').animate({
-            height: "220px"
+            height: "200px"
         }, 300);
         shown = false;
     } else if ($(window).scrollTop() > 0 && !shown) {
         $('.menu').fadeIn(500);
         $('.msg').hide();
         $('.welcome').animate({
-            height: "80px"
+            height: "50px"
         }, 300);
         shown = true;
     }

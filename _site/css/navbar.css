@@ -1,16 +1,28 @@
 p {
     font-size: 20px;
     font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+    color: #5e5e5e;
+    padding-left: 180px;
+    padding-right: 180px;
+    line-height: 180%;
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 4.5rem;
+
 }
 
 .welcome {
 
-    height:220px;
+    height:200px;
 
     width:100%;
 
-    background-color:rgba(59, 49, 64, 1);
-
+    background-color: black;
+    
+    opacity: 0.2;
 }
 
 .welcome stick {
@@ -89,8 +101,7 @@ p {
     margin: 0;
 
     padding-right: 50px;
-
-    padding-top: 8px;
+    padding-top: 12px;
     
     overflow: hidden;
     
