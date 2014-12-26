@@ -2,10 +2,17 @@ p {
     font-size: 20px;
     font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
     color: #5e5e5e;
-    padding-left: 180px;
-    padding-right: 180px;
     line-height: 170%;
+    
 }
+
+p img {
+    
+    
+    width: 100%;
+
+}
+
 
 h1 {
 
