@@ -21,6 +21,10 @@ h1 {
 
 }
 
+.content {
+    max-width: 970px;
+}
+
 .welcome {
 
     height:170px;
