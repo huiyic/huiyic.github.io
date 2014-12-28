@@ -3,7 +3,7 @@ title: Where does this road lead to?
 layout: default
 ---
 
-![My helpful screenshot]({{ site.url }}/assets/post1.jpg)
+![My helpful screenshot](/assets/post1.jpg)
 
 28 more days.
 

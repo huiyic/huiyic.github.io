@@ -3,7 +3,7 @@ title: A VISIT TO AIRBNB
 layout: default
 ---
 
-![My helpful screenshot]({{ site.url }}/assets/post7.jpg)<br>
+![My helpful screenshot](/assets/post7.jpg)<br>
 
 
 I had an opportunity to visit Airbnb today and was super impressed with the effort put into the design of their office space and into creating a cohesive company culture. We were led around by their product design team and got a chance to view the spaces and gained some interesting insights.

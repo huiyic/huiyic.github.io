@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-![My helpful screenshot]({{ site.url }}/assets/post3.jpg)<br>
+![My helpful screenshot](/assets/post3.jpg)<br>
 
 <a href="http://natashaoakleyblog.com/back-in-bali/">Photo credits.</a>
 

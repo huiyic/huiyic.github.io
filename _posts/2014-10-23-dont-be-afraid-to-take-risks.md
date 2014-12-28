@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-![My helpful screenshot]({{ site.url }}/assets/post4.jpg)<br>
+![My helpful screenshot](/assets/post4.jpg)<br>
 
 
 <a href="http://99u.com/articles/14942/nest-co-founder-matt-rodgers-on-frustration-as-a-muse-and-learning-from-apples-mistakes">Photo credit.</a>

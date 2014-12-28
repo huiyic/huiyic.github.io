@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-![My helpful screenshot]({{ site.url }}/assets/post2.jpg)<br>
+![My helpful screenshot](/assets/post2.jpg)<br>
 
 
 <center>That’s why I couldn’t be happier<br>

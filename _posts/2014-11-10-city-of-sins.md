@@ -3,7 +3,7 @@ title: CITY OF SINS
 layout: default
 ---
 
-![My helpful screenshot]({{ site.url }}/assets/post6.jpg)<br>
+![My helpful screenshot](/assets/post6.jpg)<br>
 
 I had the opportunity to go Las Vegas just over last weekend.
 
