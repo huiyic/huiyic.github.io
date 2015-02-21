@@ -13,7 +13,7 @@ Event couldn’t have started better than with Matt Rogers from Nest Labs. I had
 
 1. Importance of having transparency with users - to assure users that their data is not being compromised and to be transparent about how and why the data would be used.
 
-2. It’s okay  to hire someone for the job today and train him/her up, rather than someone prepared for a role that will exist 2 years later.
+2. It’s okay to hire someone for the job today and train him/her up, rather than someone prepared for a role that will exist 2 years later.
 
 3. Do not outsource design; own the product yourself.
 
@@ -33,4 +33,4 @@ Event ended off with Biz Stone sharing on his Twitter founding experience, how t
 
 In a sense... I think it's easy to pick out people who  are passionate about what they're doing simply by listening to how they speak. People that struck me as such include Matt Rogers, Danae Ringelmann, Kevin Systrom, Biz Stone ... you could feel their excitement and love for their own startups simply by listening to them recount the experience, despite the fact that they might've repeated it countless times. But it's the fact that makes even more inspiring so.
 
-There are other very, very amazing speakers like Bill Maris (Google Ventures), Ramona Pierson (Declara), Sam Altman and a ton more; click <a href="http://startupgrind.com/2015/#Speakers">here</a> for the lineup of Startup Grind speakers, and <a href="https://www.youtube.com/user/StartupGrind">here</a> for Startup Grind videos.
+There are other very, very amazing speakers like Bill Maris (Google Ventures), Ramona Pierson (Declara), Sam Altman and a ton more during the Startup Grind session; click <a href="http://startupgrind.com/2015/#Speakers">here</a> for the lineup of Startup Grind speakers, and <a href="https://www.youtube.com/user/StartupGrind">here</a> for Startup Grind videos.
