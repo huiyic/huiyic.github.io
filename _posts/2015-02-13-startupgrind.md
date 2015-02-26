@@ -33,4 +33,6 @@ Event ended off with Biz Stone sharing on his Twitter founding experience, how t
 
 In a sense... I think it's easy to pick out people who  are truly passionate about what they're doing simply by listening to how they speak. People that struck me as such include Matt Rogers from Nest, Danae Ringelmann from IndieGogo, Kevin Systrom from Instagram, Biz Stone from Twitter ... you could feel their buzzing excitement and love for their own startups simply by listening to them recount the experience, despite the fact that they might've repeated it countless times. But it's the fact that makes even more inspiring so.
 
+And that's the best thing about such events - to be inspired to find something you're passionate about.
+
 There are other very, very amazing speakers like Bill Maris (Google Ventures), Ramona Pierson (Declara), Sam Altman and a ton more which I'd love to share more on; click <a href="http://startupgrind.com/2015/#Speakers">here</a> for the lineup of Startup Grind speakers, and <a href="https://www.youtube.com/user/StartupGrind">here</a> for Startup Grind videos.
