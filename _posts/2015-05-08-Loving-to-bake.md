@@ -80,7 +80,7 @@ Founder of Gigzolo, a marketplace for musicians and other services.
 I then came over to California on July 26, 2014.
 
 
-The first week was for settling down in this new environment with the most amazing and perfect weather. Got a house, furniture, a car, bank and mobile phone accounts set up and running for the upcoming year. Started work in a startup at Menlo Park doing marketing before I moved on to doing UX design and research. A big jump in job scope, but I definitely enjoy more of what I’m doing now because I love exploring interesting interaction designs (visit <a href="www.littlebigdetails.com">littlebigdetails</a> for little, thoughtful details that delight users in their small ways!) and building wireframes and prototypes. 
+The first week was for settling down in this new environment with the most amazing and perfect weather. Got a house, furniture, a car, bank and mobile phone accounts set up and running for the upcoming year. Started work in a startup at Menlo Park doing marketing before I moved on to doing UX design and research. A big jump in job scope, but I definitely enjoy more of what I’m doing now because I love exploring interesting interaction designs (visit <a href="http://littlebigdetails.com">littlebigdetails</a> for little, thoughtful details that delight users in their small ways!) and building wireframes and prototypes. 
 
 
 ![My helpful screenshot](/assets/house.jpg)<br>
