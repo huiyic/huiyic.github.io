@@ -1,7 +1,20 @@
+
+body {
+    background-color: "f9f9f9";
+
+
+}
+
+.welcomestick {
+    height: 200px;
+
+
+}
+
 p {
     font-size: 20px;
     font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
-    color: #5e5e5e;
+    color: #2b2b2b;
     line-height: 170%;
     
 }
@@ -13,16 +26,18 @@ p img {
 
 }
 
-.logo {
-
-
-
-}
 
 h1 {
 
-    text-align: center;
+    text-align: left;
     font-size: 4.5rem;
+    padding-bottom: 10px;
+
+}
+
+h1:hover {
+    text-decoration: none;
+    color: #404040;
 
 }
 
@@ -33,7 +48,7 @@ h1 {
 
 .welcome {
 
-    height:170px;
+    height:60px;
 
     width:100%;
 
@@ -42,11 +57,11 @@ h1 {
     opacity: 0.7;
     
     border-bottom: 1px solid #f9f9f9;
+
 }
 
-.welcome stick {
-
-    z-index: 10;
+ul {
+    list-style-type: none;
 
 }
 
@@ -66,33 +81,16 @@ h1 {
 }
 
 
-.glyphicon.glyphicon-user {
-    font-size: 0.8em;
-    color: #263238;
-    padding-right: 6px;
-}
-
-.glyphicon.glyphicon-pencil {
-    font-size: 0.8em;
-    color: #263238;
-    padding-right: 6px;
-}
-
-.glyphicon.glyphicon-briefcase {
-    font-size: 0.8em;
-    color: #263238;
-    padding-right: 6px;
-}
-
-.glyphicon.glyphicon-envelope {
-    font-size: 0.8em;
-    color: #263238;
-    padding-right: 6px;
-}
-
 .content {
 
     height:auto;
+
+}
+
+.menu {
+    display: block;
+    text-align: center;
+    padding-left: 0px !important;
 
 }
 
@@ -101,52 +99,62 @@ h1 {
     height: 100px;
 }
 
-.stick {
-
-    position:fixed;
-
-    top:0px;
+li {
+    display: inline-block;
+    text-align: center;
 
 }
 
-.menu {
+.pagination {
+    width: 100%;
 
-    display:none;
+}
 
-    /*To hide it initially*/
+.next {
+    text-align: right !important;    
+    font-size:1.2em;
+}
 
-    list-style-type: none;
+.previous {
+    font-size:1.2em;
 
-    margin: 0;
+}
 
-    padding-right: 50px;
-    padding-top: 12px;
-    
-    overflow: hidden;
-    
+.next:hover {
+    text-decoration: none;
+
+}
+
+.previous:hover {
+    text-decoration: none;
 
 }
 
 a {
-    color: #263238
+    color: #b9b9b9
+
+}
+
+.date {
+    color: #b9b9b9;
 
 }
 
 a:hover {
 
     text-decoration: none;
-    color: #546E7A;
+    color: #404040;
 
 } 
 
 .tabs {
 
-    float: right;
+    float: center;
     font-family: 'Roboto', sans-serif;
-    font-size: 17px;
+    font-size: 14px;
     font-weight: 900;
-    padding-left: 6px;
-    padding-right: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
     text-align: left;
     
 }
@@ -154,15 +162,17 @@ a:hover {
 .tabs a {
 
     display: inline-block;
-    width: 60px;
-    color: #263238;
+    width: 70px;
+    color: #b9b9b9;
     text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.5px;
 }
 
 
 .tabs a:hover {
 
-    color: #546E7A;
+    color: #404040;
     text-decoration: none;
 
 }
