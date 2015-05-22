@@ -11,6 +11,11 @@ body {
 
 }
 
+.intro {
+    width: 900px;
+
+}
+
 p {
     font-size: 20px;
     font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
@@ -44,6 +49,11 @@ h1:hover {
 .container {
     max-width: 800px;
     padding-top: 50px;
+}
+
+.profilecont {
+    padding-top: 0px;
+
 }
 
 .welcome {
