@@ -11,6 +11,11 @@ body {
 
 }
 
+.intro {
+    width: 900px;
+
+}
+
 p {
     font-size: 20px;
     font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
@@ -42,8 +47,13 @@ h1:hover {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 700px;
     padding-top: 50px;
+}
+
+#profilecont {
+    padding-top: 0px;
+
 }
 
 .welcome {
@@ -176,3 +186,50 @@ a:hover {
     text-decoration: none;
 
 }
+
+
+
+#portfolio {
+    text-align: center;
+
+
+
+}
+
+.colA {
+    padding: 0px;
+
+}
+
+.container-fluid {
+    width: 800px;
+    text-align: center;
+
+}
+
+.portfolio-caption {
+  max-width: 100%;
+  background-color: #F5F5F5;
+  height: 70px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  margin: 0 auto;
+  padding: 17px;
+}
+
+#portfolio-hover {
+width: 100%;
+color: #333333;
+-o-transition: color 0.5s linear;
+-moz-transition: color 0.5s linear;
+-khtml-transition: color 0.5s linear;
+-webkit-transition: color 0.5s linear;
+-ms-transition: color 0.5s linear;
+transition: color 0.5s linear;
+}
+
+#portfolio-hover:hover {
+color: #b50000;
+}
+
+
