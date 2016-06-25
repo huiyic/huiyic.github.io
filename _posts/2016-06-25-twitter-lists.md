@@ -12,10 +12,13 @@ I use TweetDeck to get my dose of tweets, separated into lists that I curate mys
 ![Tweet-Deck](/assets/tweetdeck.png)
 
 
-I actually find it a pity that Twitter is not fully utilising its Lists feature to engage its users. It’s a great engagement tool, it could possibly help with on boarding new users more easily, and there’s that potential for monetisation too. Here’s a list of things I thought Twitter could do with its user generated Lists.
+I actually find it a pity that Twitter is not fully utilising its Lists feature to engage its users. It’s a great engagement tool, it could possibly help with on boarding new users more easily, and there’s that potential for monetisation too. 
+
+Here’s a list of things I thought Twitter could do with its user generated Lists.
 
 
 <b>1. Recommending Lists for users to follow </b>
+
 While Twitter does a great job of suggesting users for you to follow, it doesn’t recommend Lists for users to follow. One way is to suggest to the user Lists curated by people whom he or she is following. If I follow a user, it could be that I’m interested in what he or she is tweeting. Surely the Lists curated by the person I’m following should be relevant to me too? This way, I’d get several more relevant accounts to follow at any one time, where I’d get a whole lot more interesting content.
 
 
@@ -23,10 +26,12 @@ While Twitter does a great job of suggesting users for you to follow, it doesn�
 
 
 <b>2. Monetise List feature by promoting to businesses</b>
+
 Twitter can also monetise its List feature by promoting it to businesses. For instance, media accounts such as BuzzFeed has several Twitter accounts based on interests (Sports, Entertainment, Politics,) or country based (Germany, UK journalists added into separate lists). To gain more following for the whole suite of its content, BuzzFeed can pay to promote its Lists to its followers, and get more eyeballs for its content.
 
 
 <b>3. Lists to increase user engagement</b>
+
 Lists can be a feature Twitter uses to increase its user engagement. For instance, <a href="https://www.producthunt.com/collections">Product Hunt features Collections</a> curated by its community. It’s a way of rewarding users when they invest in curating Collections. When users know that their content could possibly have a chance of being featured, they spend more effort and time into hunting for quality products and curating them into great content, that in turn, the rest of the community benefits from. The same could be applied to Twitter Lists!
 
 
@@ -34,8 +39,10 @@ Lists can be a feature Twitter uses to increase its user engagement. For instanc
 
 
 <b>4. Helping a friend get onboarded to Twitter</b>
+
 When a new user joins Twitter for the first time, Twitter could make use of social effects to onboard a new user more effectively. While it does recommend multiple accounts for a new user to follow based on the user’s input of interests, a stronger form of conversion could be through friends’ recommendations. If Twitter could detect some sort of friendship between a current account and a new account, it could prompt the current user to share his or her lists with the newer user to help him/her get started. I’d very much rather trust a friend’s recommendations.
 I’m not sure, but it seems like Twitter can already find out who my friends are vs the news/media/influencers are following; somehow it always surfaces my friends' tweets to me under the ‘While You Were Away’ section.
+
 
 
 I'm not sure how many % of Twitter's active users have used Lists, but from friends that I've asked, no one seemed to be using it. Awareness for the feature aside, I noticed that the action of adding/removing a user from Lists can be improved.
@@ -61,10 +68,10 @@ So I got to the Create New List page.
 Even after creating a new list (in this case it was the 'Marketing' list), the user wasn’t automatically added into the list I just created. It confused me for awhile that I created a list through the action that was supposed to be ‘Add/Remove (user) from Lists’.
 
 
+
 I wanted to improve the flow by changing the following:
 
 ![How-To-Add-User-To-List](/assets/createnewlist1.png)
-
 1. By changing the <a href="http://www.creativebloq.com/netmag/why-people-focus-right-hand-side-design-3146267"> CTA placement to the right </a>. Users usually read from left to right, so I thought it’s a natural progression to check the desired lists and complete the action with the right-most action.
 
 
