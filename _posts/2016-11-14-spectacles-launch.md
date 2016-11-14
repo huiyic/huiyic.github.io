@@ -17,17 +17,21 @@ Until the day when the first Spectacles vending machine landed itself at Venice 
 
 When people were frantic on the morning before they announced the location of the 2nd vending machine, it’s evidently a successful product launch.
 
+
 <b>Snap knew how to tap into FOMO.</b>
+
 People who were afraid of missing out knew to go the website to find out the next location. With the scarcity factor at play, users like me felt so left out of the whole Spectacles hunting saga.
 
 <b>Snap understood its target audience well.</b>
+
 Being the most popular social media choice of millennials, they marketed Spectacles as a super cool, elusive product that will get your friends to envy you should you lay hands on it.
 
 <b>Snap knew to rely on its users for WoM.</b>
+
 Users were generating buzz on Twitter. It was essentially free WoM marketing for Snap as users tweeted non-stop about Spectacles.
 Someone even created a <a href="https://www.producthunt.com/posts/snapbot-spotter">notification system</a> to ping you when the next location is released.
 
-![Snapchat](/assets/snapchat2.png)
+![Snapchat](/assets/snapchat2.png =100px)
 
 
 The first location at Venice Beach probably landed the pairs in the hands of the cool beach-goers.
