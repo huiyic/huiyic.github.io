@@ -31,7 +31,7 @@ Being the most popular social media choice of millennials, they marketed Spectac
 Users were generating buzz on Twitter. It was essentially free WoM marketing for Snap as users tweeted non-stop about Spectacles.
 Someone even created a <a href="https://www.producthunt.com/posts/snapbot-spotter">notification system</a> to ping you when the next location is released.
 
-![Snapchat](/assets/snapchat2.png =100px)
+![Snapchat](/assets/snapchat2.png =100x)
 
 
 The first location at Venice Beach probably landed the pairs in the hands of the cool beach-goers.
