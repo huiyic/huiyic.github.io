@@ -5,7 +5,7 @@ layout: default
 
 South by Southwest this year was nothing short of amazing, but this comes from a person that has only attended it for the 2nd time. Others who’ve been there multiple times might speak a different story.
 
-<br>
+<p></p>
 
 Because there’s over hundreds and hundreds of session and parties happening at SXSW, my takeawayes are only limited to my own personal experience.
 
