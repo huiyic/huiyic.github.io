@@ -35,7 +35,7 @@ While I’ve personally never been to China, the sessions I’ve attended encour
 
 <p></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2VYE_7LCKrE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2VYE_7LCKrE" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -43,19 +43,19 @@ While I’ve personally never been to China, the sessions I’ve attended encour
 
 ![Reddit](/assets/reddit.JPG)
 
-Reddit’s co-founder, Alexis Ohanian, gave a great session on how the team built Reddit and the whole idea that 'Pseudonyms can be the basis of real communities’. Undoubtedly, people have different personas when they interact with different groups of people, thus pseudonyms allow you to express yourself freely within your interest group, without having the fear of exposing your other selves. You could express your love for <a href="https://www.reddit.com/r/beards/">'beards'</a> for example, that you would perhaps never would have shared with co-workers.
+Reddit’s co-founder, Alexis Ohanian, gave a great session on how the team built Reddit and the whole idea that 'Pseudonyms can be the basis of real communities’. Undoubtedly, people have different personas when they interact with different groups of people, thus pseudonyms allow you to express yourself freely within your interest group, without having the fear of exposing your other selves. You could express your love for <a href="https://www.reddit.com/r/beards/">'beards'</a> for example, that you would perhaps never would have shared with co-workers.<br>
 
 <p></p>
 
-Which I agree. While we try to build a community here at Carousell by connecting people based on shared interests, it’s also one of the reasons why pseudonyms are used here, because you might not want your friends to know what you’re buying or selling. But you could still connect with another Carouseller based on the item that both of you are transacting on. If I sell a PS4 game to you, it might mean that we have the same interest in PS4 games, and I might want to know what other PS4 games you play. I do not have to tell you all about my life, but knowing that we both love PS4 games is enough to connect us together.
+Which I agree. While we try to build a community here at Carousell by connecting people based on shared interests, it’s also one of the reasons why pseudonyms are used here, because you might not want your friends to know what you’re buying or selling. But you could still connect with another Carouseller based on the item that both of you are transacting on. If I sell a PS4 game to you, it might mean that we have the same interest in PS4 games, and I might want to know what other PS4 games you play. I do not have to tell you all about my life, but knowing that we both love PS4 games is enough to connect us together.<br>
 
 <p></p>
 
-Pseudonyms do bring about the problem of trust and abuse though, that’s also why Reddit (and Carousell :)) focuses a huge effort to tackle trust issues.
+Pseudonyms do bring about the problem of trust and abuse though, that’s also why Reddit (and Carousell :)) focuses a huge effort to tackle trust issues.<br>
 
 <p></p>
 
-Pseudonymity may not work within communities of certain products though; Yik Yak was an anonymous social network, which experienced explosive growth until it slowed due to massive abuse that the team could not handle. When it introduced the concept of usernames, it destroyed the fundamental value of the product, which was being able to post anonymously. Even after they made it optional, users were already gone from the app. Here’s a great <a href="https://backchannel.com/these-failed-apps-discovered-a-hidden-rule-of-the-web-391471ca5952#.3c9dsd6nq">read</a> on anonymous apps. 
+Pseudonymity may not work within communities of certain products though; Yik Yak was an anonymous social network, which experienced explosive growth until it slowed due to massive abuse that the team could not handle. When it introduced the concept of usernames, it destroyed the fundamental value of the product, which was being able to post anonymously. Even after they made it optional, users were already gone from the app. Here’s a great <a href="https://backchannel.com/these-failed-apps-discovered-a-hidden-rule-of-the-web-391471ca5952#.3c9dsd6nq">read</a> on anonymous apps. <br>
 
 <p></p>
 
