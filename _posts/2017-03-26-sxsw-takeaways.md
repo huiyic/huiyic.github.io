@@ -93,7 +93,7 @@ Jem Young from Netflix: Strip out Javascript from your website if you want to op
 ![Jap robot](/assets/japrobot.JPG)
 Japanese robot interacting with human in English.
 
-![Visual Lens](/assets/pinterest.png)
+![Visual Lens](/assets/pinterest.PNG    )
 Trying out Pinterest's Visual Lens on a friend.
 
 
