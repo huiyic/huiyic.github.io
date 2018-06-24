@@ -17,9 +17,9 @@ I love working on marketplaces and building products that help people. My favour
 
 I had wanted to start my own cafe as I loved baking, then <a href="http://huiyichia.com/blog/Loving-to-bake/">I realised that baking and setting up your business are two entirely different things</a>. Somewhere along that journey, I joined Carousell, and developed a passion for startups and technology.
 
-I had an amazing year at Silicon Valley with <a href="https://www.loopcommerce.com/">Loop Commerce</a>, and was immersed in an incredibly inspirational environment working with talented people. Events like Startup School and SXSW made it all the more exciting to imagine the amount of impact we can make with startups and technology.
+I had an amazing year at Silicon Valley with <a href="https://www.loopcommerce.com/">Loop Commerce</a>, doing marketing and UX. I was fortunate to be immersed in an incredibly inspirational environment working with talented people. Events like Startup School and SXSW made it all the more exciting to imagine the amount of impact we can make with startups and technology.
 
-In my 2+ years at Carousell doing product, I've worked on Growth, Community, Trust and Internal products, more recently diving into improving our <a href="https://blog.carousell.com/new-carousell-chat-experience/">Chat</a>,<a href="https://blog.carousell.com/starting-discussions-on-groups/">Groups</a> and <a href="https://mobile.carousell.com">mobile web</a> experiences.
+In my 2+ years with Carousell's Product team, I've worked on Growth, Community, Trust and Internal products, more recently diving into improving our <a href="https://blog.carousell.com/new-carousell-chat-experience/">Chat</a>, <a href="https://blog.carousell.com/starting-discussions-on-groups/">Groups</a> and <a href="https://mobile.carousell.com">mobile web</a> experiences.
 
 <span class="image right"><img src="{{ "/images/anastasia.jpg" | absolute_url }}" alt="Anastasia" /></span>
 
@@ -29,9 +29,9 @@ I am also learning Japanese and have a small <a href="https://www.youtube.com/us
 I also enjoy reading books on <a href="https://www.goodreads.com/author/list/10538.Carl_Sagan">Cosmology</a> and wonder if I'll ever see extraterrestrials in my life time.<br>
 
 
-### Quote
+### FOOD FOR THOUGHT
 <div class="box">
   <p>
-We are like butterflies who flutter for a day and think it's forever. - Carl Sagan, Cosmos
+<i>We are like butterflies who flutter for a day and think it's forever. - Carl Sagan, Cosmos</i>
   </p>
 </div>
