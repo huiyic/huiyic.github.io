@@ -19,7 +19,7 @@ I had wanted to start my own cafe as I loved baking, then <a href="http://huiyic
 
 I had an amazing year at Silicon Valley with <a href="https://www.loopcommerce.com/">Loop Commerce</a>, and was immersed in an incredibly inspirational environment working with talented people. Events like Startup School and SXSW made it all the more exciting to imagine the amount of impact we can make with startups and technology.
 
-In my 2+ years at Carousell doing product, I've worked on Growth, Community, Trust and Internal products, more recently diving into improving<a href="https://blog.carousell.com/new-carousell-chat-experience/">Chat</a>,<a href="https://blog.carousell.com/starting-discussions-on-groups/">Groups</a> and our <a href="https://mobile.carousell.com">mobile web</a> experiences.
+In my 2+ years at Carousell doing product, I've worked on Growth, Community, Trust and Internal products, more recently diving into improving our <a href="https://blog.carousell.com/new-carousell-chat-experience/">Chat</a>,<a href="https://blog.carousell.com/starting-discussions-on-groups/">Groups</a> and <a href="https://mobile.carousell.com">mobile web</a> experiences.
 
 <span class="image right"><img src="{{ "/images/anastasia.jpg" | absolute_url }}" alt="Anastasia" /></span>
 
