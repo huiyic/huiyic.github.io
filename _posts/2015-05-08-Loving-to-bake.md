@@ -94,13 +94,13 @@ My VW Golf, which I've named her Betty.
 
 
 
-Classes here inspire and encourage too. Attended a speaker series which included <a href="http://huiyichia.com/2014/10/23/dont-be-afraid-to-take-risks/">Matt Rogers</a> from Nest Labs and Ben Horowitz from a16z. Because my workplace was so near school, I could easily go for seminars including <a href="http://huiyichia.com/2015/02/02/Wikipedia/">"Jimmy Wales from Wikipedia</a>, product designers from AirBnb, Google, Facebook and Pandora, and more. 
+Classes here inspire and encourage too. Attended a speaker series which included <a href="http://huiyichia.com/blog/dont-be-afraid-to-take-risks/">Matt Rogers</a> from Nest Labs and Ben Horowitz from a16z. Because my workplace was so near school, I could easily go for seminars including <a href="http://huiyichia.com/blog/Wikipedia/">"Jimmy Wales from Wikipedia</a>, product designers from AirBnb, Google, Facebook and Pandora, and more. 
 
 
 Silicon Valley encourages innovation and entrepreneurship - while you hang out with friends at a cafe on a weekend to have brunch and catch up, cafes in SV serve a different purpose. Cofounders and investors meet for coffee, and you catch the occasional SV buzzwords of ‘funding’, ‘growth hack’, ‘valuation'. Engineers hack their ideas away on Xcode. You catch glimpses of designers with their graphic tablets drawing quick illustration concepts. Sometimes you get people coming up to you for feedback on the app that they’ve been working on. This happens pretty often at Red Rock at Castro Street, Mountain View.
 
 
-Learn from the most successful founders and leaders in their own industries - I’ve had the opportunity to attend <a href="http://huiyichia.com/2014/10/27/democratizing-access-to-capital/">Startup School</a>, <a href="http://huiyichia.com/2015/02/13/startupgrind/">Startup Grind</a>, SXSW, TYPO Talks and glean insights from the stories of successful founders and thought-leaders. And why do I always repeat the stories of the same people like Matt Rogers, Kevin Systrom, Danae Ringelmann? Because they are the ones who've left the greatest impressions on me.
+Learn from the most successful founders and leaders in their own industries - I’ve had the opportunity to attend <a href="http://huiyichia.com/blog/democratizing-access-to-capital/">Startup School</a>, <a href="http://huiyichia.com/blog/startupgrind/">Startup Grind</a>, SXSW, TYPO Talks and glean insights from the stories of successful founders and thought-leaders. And why do I always repeat the stories of the same people like Matt Rogers, Kevin Systrom, Danae Ringelmann? Because they are the ones who've left the greatest impressions on me.
 
 
 Startups are EVERYWHERE. On my daily commute to work I pass by MongoDB, IDEO (granted, isn't exactly a startup but still relevant), SurveyMonkey, Palantir, Pebble. On my way home I catch glimpses of Box, Groupon, Twilio along El Camino Real. (I know Groupon isn’t along El Camino Real.) Further up Highway 101, spot big names Evernote and Salesforce. I had the chance to spend 2 weekdays up in San Francisco, and boy, was the atmosphere different from a weekend. Your typical guy in a startup-branded hoodie litters the streets. You spy people in plaid long-sleeved shirts which you suspect are designers. On the Caltrain, I spotted someone with a laptop and a Pinterest email client open, busy replying emails. It was different from the touristy atmosphere I felt on a weekend up in the city.
@@ -119,7 +119,7 @@ Despite being a non-technical person, I joined a few hackathons for fun. This in
 TreeHacks.
 ![My helpful screenshot](/assets/hack2.jpg)<br>
 
-I was fortunate to have had the chance to visit the campuses of <a href="http://huiyichia.com/2014/11/15/a-visit-to-airbnb/">AirBnb</a> and Zappos, but there’s so many campuses that I would have loved a chance to visit too.. (Facebook, Twitter, Instagram, Pinterest, Evernote, Google, Apple...)
+I was fortunate to have had the chance to visit the campuses of <a href="http://huiyichia.com/blog/a-visit-to-airbnb/">AirBnb</a> and Zappos, but there’s so many campuses that I would have loved a chance to visit too.. (Facebook, Twitter, Instagram, Pinterest, Evernote, Google, Apple...)
 
 
 Startups aside, life here in California is super laid back and relaxed. Generally, things here move slower than back in Singapore, and I am comparing the experiences of maybe, say, services like fast foods and supermarkets. My favourite coffee places of all time include the famous Philz and also the lesser known Dana at Castro Street, Mountain View. I had a period of time where I practically spent my whole weekends at cafes.

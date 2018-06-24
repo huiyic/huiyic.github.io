@@ -15,7 +15,7 @@ I’m Hui Yi, a Product Manager based in Singapore.
 
 I love working on marketplaces and building products that help people. My favourite products include Swarm, Airbnb, Product Hunt, and of course, <a href="https://carousell.com">Carousell</a>.
 
-I had wanted to start my own cafe as I loved baking, then I realised that baking and setting up your business are two entirely different things. Somewhere along that journey, I joined Carousell, and developed a passion for startups and technology.
+I had wanted to start my own cafe as I loved baking, then <a href="http://huiyichia.com/blog/Loving-to-bake/">I realised that baking and setting up your business are two entirely different things</a>. Somewhere along that journey, I joined Carousell, and developed a passion for startups and technology.
 
 I had an amazing year at Silicon Valley with <a href="https://www.loopcommerce.com/">Loop Commerce</a>, and was immersed in an incredibly inspirational environment working with talented people. Events like Startup School and SXSW made it all the more exciting to imagine the amount of impact we can make with startups and technology.
 
