@@ -1,6 +1,6 @@
 ---
 title: SXSW 2017
-layout: default
+layout: post
 ---
 
 South by Southwest this year was nothing short of amazing, but this comes from a person that has only attended it for the 2nd time. Others who’ve been there multiple times might speak a different story.
@@ -88,12 +88,15 @@ At least for myself, I don’t foresee myself using VR on a daily basis any time
 Other stuff
 
 ![Netflix](/assets/netflix.JPG)
+
 Jem Young from Netflix: Strip out Javascript from your website if you want to optimise for users with low connectivity. Scripting is usually the one that takes the most time to load.
 
 ![Jap robot](/assets/japrobot.JPG)
+
 Japanese robot interacting with human in English.
 
-![Visual Lens](/assets/pinterest.PNG    )
+![Visual Lens](/assets/pinterest.PNG)
+
 Trying out Pinterest's Visual Lens on a friend.
 
 

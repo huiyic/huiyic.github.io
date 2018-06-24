@@ -1,6 +1,6 @@
 ---
 title: I consume content.
-layout: default
+layout: post
 ---
 
 I love the internet.

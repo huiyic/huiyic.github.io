@@ -1,6 +1,6 @@
 ---
 title: Just get out there and start asking.
-layout: default
+layout: post
 ---
 
 Honestly, it's been a long time since I went out to ask for feedback on our product. Today, I went out with a fellow teammate and we’ve got super valuable insights for validating our prototypes. To my surprise, it was quite easy, and also insightful to get a different perspective. I’ve forgotten how fun it can be to talk to users.

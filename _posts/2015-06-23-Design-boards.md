@@ -1,6 +1,6 @@
 ---
 title: Put up all the user flows!
-layout: default
+layout: post
 ---
 
 One can never have enough wall space for brainstorming for ideas. I thought to share how I made some boards that are used by our design team, mainly for user research and mapping of user flows. I was super inspired by <a href="http://www.daylightdesign.com/ikeahack/">this piece</a> so I went ahead to make some.

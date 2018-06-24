@@ -1,6 +1,6 @@
 ---
 title: Exploring nav bar examples
-layout: default
+layout: post
 ---
 
 While looking around for inspiration for the site's nav bar, I came across some pretty interesting nav bar examples that I'd thought to share... they're by no means the best, and I'm no expert in this particular area.

@@ -1,6 +1,6 @@
 ---
 title: Wikipedia - Sum of all human knowledge
-layout: default
+layout: post
 ---
 
 ![My helpful screenshot](/assets/W2.jpg)

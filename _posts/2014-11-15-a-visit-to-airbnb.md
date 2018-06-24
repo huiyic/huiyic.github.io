@@ -1,6 +1,6 @@
 ---
 title: A VISIT TO AIRBNB
-layout: default
+layout: post
 ---
 
 ![My helpful screenshot](/assets/airbnb.png)<br>

@@ -1,6 +1,6 @@
 ---
 title: WORKING IN CAFES
-layout: default
+layout: post
 ---
 
 

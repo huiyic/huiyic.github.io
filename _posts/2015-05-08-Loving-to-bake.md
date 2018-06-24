@@ -1,6 +1,6 @@
 ---
 title: Loving to bake is different from starting your own cafe
-layout: default
+layout: post
 ---
 
 It is May, 2015.
@@ -42,7 +42,7 @@ I didn’t have this thing called 'Monday blues'. Every new week was a chance fo
 To this day, I owe them greatly where I'm at today.
 
 
-In general, Philadelphia is well-known for its biotech startups while New York’s a popular place for media and social startups. I had the opportunity to travel to both cities for two weeks, visiting big and small startups and companies, such as Kickstarter, Gizmodo, Chartbeat, and Bloomberg, amongst many others.
+In general, Philadelphia is well-known for its biotech startups while New York’s a popular place for media and social startups. I had the opportunity to travel to both cities for two weeks, visiting big and small startups and companies, such as Kickstarter, Gigzolo, Chartbeat, and Bloomberg, amongst many others.
 
 
 From my visits, I could feel a difference in the vibe that emanated from the startups between these two cities; it could be due to my personal interests, but I felt that New York startups were generally younger and much more exciting. Could be because I preferred the ideas of the New York startups as compared to PH’s biotechnology which I was completely unfamiliar with. Nevertheless, it was insightful to open up to the different spaces that these startups are in.

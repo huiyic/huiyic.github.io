@@ -1,6 +1,6 @@
 ---
 title: Let me know if it's perfect!
-layout: default
+layout: post
 ---
 
 Yesterday, I wote a list of resources that I visit and while I tried to explain why I liked Product Hunt, it got me mulling more over about the interactions that happen on Product Hunt itself. 

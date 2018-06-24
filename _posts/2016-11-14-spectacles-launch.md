@@ -1,6 +1,6 @@
 ---
 title: I want Snap's Spectacles.
-layout: default
+layout: post
 ---
 
 I want Snap's Spectacles. 
@@ -43,4 +43,5 @@ Being a technology company, it’s so important to keep yourself relevant to you
 
 
 ![Snapchat](/assets/snapchatlandingpage.png)
+
 Where will the next location be?

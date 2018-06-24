@@ -1,9 +1,9 @@
 ---
 title: DEMOCRATISING ACCESS TO CAPITAL
-layout: default
+layout: post
 ---
 
-![My helpful screenshot]({{ site.url }}/assets/post5.jpg)<br>
+![My helpful screenshot]({{ site.url }}/images/post5.jpg)<br>
 
 Startup School was and probably still is the best thing that has ever happened to me so far in my 3 months here.
 

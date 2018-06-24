@@ -1,6 +1,6 @@
 ---
 title: Where does this road lead to?
-layout: default
+layout: post
 ---
 
 ![My helpful screenshot](/assets/post1.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Startup Grind 2015
-layout: default
+layout: post
 ---
 
 ![My helpful screenshot](/assets/startupgrind1.jpg)<br>

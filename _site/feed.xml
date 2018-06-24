@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-06-24T18:04:13+08:00</updated><id>/</id><title type="html">Hui Yi</title><subtitle>Jekyll version of the Massively theme by HTML5UP</subtitle><entry><title type="html">Amazon Go for public transportation please!</title><link href="/blog/iot/" rel="alternate" type="text/html" title="Amazon Go for public transportation please!" /><published>2018-06-16T00:00:00+08:00</published><updated>2018-06-16T00:00:00+08:00</updated><id>/blog/iot</id><content type="html" xml:base="/blog/iot/">&lt;p&gt;Was on the bus today when I spent a good few minutes fumbling my bag to find my ez-link card.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s when I thought, why can’t we apply the same type of technologies that &lt;a href=&quot;https://www.amazon.com/b?ie=UTF8&amp;amp;node=16008589011&quot;&gt;Amazon Go&lt;/a&gt; is using to solve more of such every day problems?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Integrate computer vision in mobile phones to replace stored value cards for transport.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ezlinknfc.com/&quot;&gt;EZ-LINK’s NFC&lt;/a&gt; is a great start to replacing the card, but I think it has a consumer awareness problem, and device limitations to begin with.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.channelnewsasia.com/news/singapore/lta-to-trial-apple-pay-android-pay-on-public-transport-9205028&quot;&gt;Singapore’s LTA has also started making plans to replace the stored value cards for transport.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m sure computer vision can make transportation payment even more convenient though. When you board a bus, the Tube, or similar, and when you leave the bus or station, it auto-calculates the distance to be paid for. And auto deducts the money from your mobile wallet, like Apple Pay or Google Pay.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;While it is an exciting future for computer vision, AR, VR and other upcoming technologies, I feel that the mobile device still has a huge potential that has yet to be tapped on.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been increasingly reliant on my mobile device for everything these days - most frequently paying with Apple Pay even at Singapore’s hawker centers, or using payment methods like &lt;a href=&quot;https://help.myfave.com/hc/en-us/articles/115000178653-What-is-FavePay-and-why-should-I-use-it-&quot;&gt;FavePay&lt;/a&gt;, which is surprisingly addictive because of the perceived savings I get with its cashback. &lt;i&gt;(I hardly visit the same stores again actually… )&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Point being, computer vision and its technologies would be super helpful in our every day lives.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What if you could set an alarm on your device that doesn’t stop ringing until it senses you have left the bed for more than 5 minutes? (Feels like something I could definitely use!)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m sure this is being solved with companies working in the Internet of Things (IoT) space - such as &lt;a href=&quot;https://ruggie.co/&quot;&gt;Ruggie&lt;/a&gt;. But do I really need an additional rug just for this?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Am personally not experienced in this space, but I think that the problem would be &lt;b&gt;the fragmented usage of physical devices and home appliances&lt;/b&gt;. It would be challenging for any company working to unify the IoT experience, to develop software that integrates with each of the devices that the consumer owns. At the same time, this problem results in additional hassle to the consumer to set up that integrated experience with every new device / home appliance that they bought. Consumer has to learn to onboard again and again.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Though, what if everything could be seamlessly set up with just your personal device?&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Your mobile device would connect to every single appliance you own, and it’d be ridiculously simple to set up a similar experience as mentioned above, which would get me out of bed every time without snoozing.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Perhaps it’s on the onus on mobile operation system companies to streamline this, as they have access to the masses and consumers use them most frequently in our day-to-day lives. And why should they do it? It should result in increased engagement with their OSes, they can acquire more data about their consumers, which can be leveraged on to improve user experience, and also leads to monetisation opportunities.&lt;/p&gt;</content><summary type="html">Was on the bus today when I spent a good few minutes fumbling my bag to find my ez-link card.</summary></entry><entry><title type="html">My experience of using Snap Maps</title><link href="/blog/snapmaps/" rel="alternate" type="text/html" title="My experience of using Snap Maps" /><published>2017-06-25T00:00:00+08:00</published><updated>2017-06-25T00:00:00+08:00</updated><id>/blog/snapmaps</id><content type="html" xml:base="/blog/snapmaps/">&lt;p&gt;I heard about Snap Maps through a friend who showed me how to access the feature (“It’s so hidden, who would find the feature?”)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;After playing with it for a while, I have to say I spent a good 30 minutes browsing around the world to look at what’s happening. I ‘visited’ the West Coast to look at the neighbourhoods I’ve lived in, and I ‘visited’ New York to take a look at the happenings near Broadway. I also love Japan very much as a country, so I also took some time to ‘visit’ Japan.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/snapjpn.png&quot; alt=&quot;SnapMaps_Japan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Tokyo here I come!&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/snapny.png&quot; alt=&quot;SnapMaps_NY&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Visiting New York and am not disappointed with people singing Hamilton.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Initially a couple of friends and I thought the purpose was meant for stalking your friends (and &lt;a href=&quot;https://www.snap.com/en-US/news/post/introducing-the-snap-map/&quot;&gt;Snap confirms it&lt;/a&gt;), because you could see where your friends’ locations are. I have to say though, the initial reactions from most of my friends who use Snap is that this feature is ‘creepy’, and some of them have already gone on to switch on Ghost mode.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;For people who like to say &lt;i&gt;‘I’m on my way!’&lt;/i&gt; to the next friends’ gathering, be warned that this feature will tell your friends if you are lying or not. ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;But I’m not very bullish about the friends part of this, what’s exciting to me is the next steps where Snap is bringing Snapchat to with its worldwide discovery.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Most of us here would probably agree that content discoverability is a problem on Snap (compared to IG) where we are limited in terms of engagement, because of the limited amount of content available. I can only view my friends’ Snaps, a couple of promoted Stories now and then, and advertised Stories (currently in the form of Discover) which are mostly clickbait.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;With Snap Maps, I get to check out what’s happening at certain parts of the world, and whenever there are events like conferences or concerts or festivals happening, to allow its users to zoom into them. I’m not sure how Snap currently curates its events, but it might make sense to allow the community to curate events itself in the future for a more localised experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/snaphw.png&quot; alt=&quot;SnapMaps_HW&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;There’s a conference in Hawaii!&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s kind of like Swarm, where you can see where your friends are at.
+It’s also kind of like Twitter, where you can get updated on the streaming of live events.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;I understand IG probably has some form of discovery through hashtags too, but I don’t use it. I think there is also a difference in that IG prioritises suggesting individual content creators to you which is more of a personalised experience, and not by ‘themes’ or ‘events’. The use cases are very different.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/snapfb.png&quot; alt=&quot;SnapMaps_WC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Am I seeing some Snapchat usage at FB’s office?&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;For me however, introducing content through a map navigation is definitely much more contextual, and it makes use of the most accurate data to plot its Snaps at certain locations. You can definitely put a location which you were not at in IG, but to me it seems like SnapMaps makes use of your GPS location to determine where the Snaps are placed on the map? (except for GPS spoofing.)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;There are probably challenges in terms of user privacy and adoption; first case as mentioned would be how the initial reactions of my friends to this is ‘creepy’. Abuse of this feature can come in the form of stalking too. How will users be educated on its use, and moving on, will giving out your location like this become socially prevalent?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;I am also assuming that most Snaps in countries with low Snap adoption rate are from tourists, non-locals. To really get a glimpse of, example, an authentic behind the scenes-festival experience in Japan, you’d really require adoption from locals and a willingness from your users to be more open about their lives.&lt;br /&gt;
+Much cultural and privacy challenges ahead.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Consumption of content through bite-sized visuals appeal much more to millennials, and that’s why I think it’s a right direction towards “empower[ing] people to express themselves, live in the moment, learn about the world, and have fun together.”&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;And it is also “making the world more open and connected” at the same time. 😉&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking forward to more from Snap.&lt;/p&gt;</content><summary type="html">I heard about Snap Maps through a friend who showed me how to access the feature (“It’s so hidden, who would find the feature?”)</summary></entry><entry><title type="html">SXSW 2017</title><link href="/blog/sxsw-takeaways/" rel="alternate" type="text/html" title="SXSW 2017" /><published>2017-03-26T00:00:00+08:00</published><updated>2017-03-26T00:00:00+08:00</updated><id>/blog/sxsw-takeaways</id><content type="html" xml:base="/blog/sxsw-takeaways/">&lt;p&gt;South by Southwest this year was nothing short of amazing, but this comes from a person that has only attended it for the 2nd time. Others who’ve been there multiple times might speak a different story.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Because there’s over hundreds and hundreds of session and parties happening at SXSW, my takeawayes are only limited to my own personal experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Couple takeaways:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;1. China’s technology scene is growing faster than ever.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;From its explosive bike-sharing economy to Super applications (I.e WeChat) China’s technology improvements are keeping up with its societal changes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s worth noting that for WeChat’s case, there is a concept of product-culture fit, where the product seamlessly fits into the everyday needs of the China population, making WeChat a utility app for the masses.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;The question is, how might we fit our product to solve the needs of our markets?&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;We can learn from them, for sure, but it will not fit the needs of other markets, because WeChat is designed to solve China’s population needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;While I’ve personally never been to China, the sessions I’ve attended encourages me to visit the growing tech mecca to learn from them.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2VYE_7LCKrE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;b&gt;2. Pseudonyms can be the basis of real communities.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/reddit.JPG&quot; alt=&quot;Reddit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Reddit’s co-founder, Alexis Ohanian, gave a great session on how the team built Reddit and the whole idea that ‘Pseudonyms can be the basis of real communities’. Undoubtedly, people have different personas when they interact with different groups of people, thus pseudonyms allow you to express yourself freely within your interest group, without having the fear of exposing your other selves. You could express your love for &lt;a href=&quot;https://www.reddit.com/r/beards/&quot;&gt;‘beards’&lt;/a&gt; for example, that you would perhaps never would have shared with co-workers.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Which I agree. While we try to build a community here at Carousell by connecting people based on shared interests, it’s also one of the reasons why pseudonyms are used here, because you might not want your friends to know what you’re buying or selling. But you could still connect with another Carouseller based on the item that both of you are transacting on. If I sell a PS4 game to you, it might mean that we have the same interest in PS4 games, and I might want to know what other PS4 games you play. I do not have to tell you all about my life, but knowing that we both love PS4 games is enough to connect us together.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Pseudonyms do bring about the problem of trust and abuse though, that’s also why Reddit (and Carousell :)) focuses a huge effort to tackle trust issues.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Pseudonymity may not work within communities of certain products though; Yik Yak was an anonymous social network, which experienced explosive growth until it slowed due to massive abuse that the team could not handle. When it introduced the concept of usernames, it destroyed the fundamental value of the product, which was being able to post anonymously. Even after they made it optional, users were already gone from the app. Here’s a great &lt;a href=&quot;https://backchannel.com/these-failed-apps-discovered-a-hidden-rule-of-the-web-391471ca5952#.3c9dsd6nq&quot;&gt;read&lt;/a&gt; on anonymous apps. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;It may be the other way round too, where real identities benefit the community more than a pseudonym; because NextDoor connects you to people around your neighborhood, it makes sense to know who you’re interacting with, especially since there is a higher extent of trust and security relating to where a person resides in. If I’m going to organise a housewarming party, I would like to know who exactly would be attending.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;3. Lots of people doing VR, but are we ready for it?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;While I didn’t attend sessions on VR, the Trade Show was full of VR technology, and I was especially impressed by the demos by Japanese companies. The Sony house was also super fun, with games ranging from gold mining to interactive rock climbing.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;I understand the hype around it, because it’s cool, fun and essentially a new way to entertain. There are also business applications, to use it for educational purposes in the medical field, to visualise how a car can be built without having to build a real prototype, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;But for the technology to reach mass adoption, there are hurdles to pass, especially education and affordability.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;At least for myself, I don’t foresee myself using VR on a daily basis any time soon. Especially since I’m one of those that gets dizzy from playing games like Halo. But we’ll let time decide 😃&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Other stuff&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/netflix.JPG&quot; alt=&quot;Netflix&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jem Young from Netflix: Strip out Javascript from your website if you want to optimise for users with low connectivity. Scripting is usually the one that takes the most time to load.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/japrobot.JPG&quot; alt=&quot;Jap robot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Japanese robot interacting with human in English.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/pinterest.PNG&quot; alt=&quot;Visual Lens&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Trying out Pinterest’s Visual Lens on a friend.&lt;/p&gt;
+
+&lt;p&gt;Other perks of SXSW is the amazing free food, drinks, swag, and essentially being in a place where the most diverse and interesting of people come together. I also managed to get my hands on Snap’s Spectacles after a &lt;a href=&quot;http://huiyichia.com/2016/11/14/spectacles-launch/&quot;&gt;long wait&lt;/a&gt;, by refreshing Twitter again and again to find out Snapbot’s location at SXSW.&lt;/p&gt;
+
+&lt;p&gt;Grateful for the opportunity to be back there, together with the Product team!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/productteam.JPG&quot; alt=&quot;Product team&quot; /&gt;&lt;/p&gt;</content><summary type="html">South by Southwest this year was nothing short of amazing, but this comes from a person that has only attended it for the 2nd time. Others who’ve been there multiple times might speak a different story.</summary></entry><entry><title type="html">Just get out there and start asking.</title><link href="/blog/just-get-out-there/" rel="alternate" type="text/html" title="Just get out there and start asking." /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>/blog/just-get-out-there</id><content type="html" xml:base="/blog/just-get-out-there/">&lt;p&gt;Honestly, it’s been a long time since I went out to ask for feedback on our product. Today, I went out with a fellow teammate and we’ve got super valuable insights for validating our prototypes. To my surprise, it was quite easy, and also insightful to get a different perspective. I’ve forgotten how fun it can be to talk to users.&lt;/p&gt;
+
+&lt;p&gt;This prompted me to want to share a couple of things we’ve been doing to gather user feedback at Carousell:&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;1. Go out and talk to users.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;People are generally very willing to give feedback as long as you approach them when they’re not busy. I wished I’ve done this more often because you can meet very interesting people along the way too.&lt;/p&gt;
+
+&lt;p&gt;Sometimes, we don’t want to do things because of fear of rejection, but not even asking is giving yourself 0 chances at something. So, just do it.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;2. User Surveys&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Great for quickly validating simple assumptions by asking a few simple questions in a short survey.
+Asking questions like &lt;i&gt;“Do you have something you want to sell?”&lt;/i&gt; followed by &lt;i&gt;“Why haven’t you started selling?”&lt;/i&gt; helps us to understand why users with intent to sell have not listed anything.&lt;/p&gt;
+
+&lt;p&gt;And doing it via Google forms is simple and sufficient.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;3. User Interviews&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;User interviews are a structured way to get feedback on your product, and it allows you to deep-dive into the intent of the users by continuously asking ‘Why’. However, I understand that user interviews changes the setting, and users might not be saying or doing things they normally would have under usual circumstances. 
+I’ve had user interviews where users have said that they faced no problems with using the product, but they clearly showed signs of frustration when testing out the app during the interview itself.&lt;/p&gt;
+
+&lt;p&gt;On this, another reminder I’ve recently gotten from a fellow PM is to ease the user into usual circumstances by asking him/her to ‘imagine this scenario’.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Example:&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Interviewer: Who was the last person you chatted with on Facebook?&lt;/i&gt;
+&lt;i&gt;User: Person X.&lt;/i&gt;
+&lt;i&gt;Interview: Right, imagine you’re currently at home, and chatting with person X. He introduced you this product, and you are curious to try it out…&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Asking users to imagine scenarios makes the environment a lot more ‘normal’. Makes user interviews still a pretty solid way to get user validation.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;There is no quick and easy way to get user feedback. If you don’t have users, go out there and find them. Go to where your target audience is, and start talking to them.&lt;/p&gt;
+
+&lt;p&gt;Brian Chesky and his team went around renting on Airbnb and asking hosts for their feedback.
+In the early days of Carousell, the founders went to flea markets at *SCAPE and talked to every single seller.&lt;/p&gt;
+
+&lt;p&gt;Even better if you can find out how users are using your product through looking at data. Kevin Systrom pivoted from Burbn to Instagram when they noticed users were more interested in their friends’ photos than the check-ins. Instagram ended up being the best direction for them.&lt;/p&gt;
+
+&lt;p&gt;Today was a timely reminder that I’ve forgotten to talk to users.&lt;/p&gt;
+
+&lt;p&gt;I don’t think we’ve done enough, and I believe we can do better.&lt;/p&gt;</content><summary type="html">Honestly, it’s been a long time since I went out to ask for feedback on our product. Today, I went out with a fellow teammate and we’ve got super valuable insights for validating our prototypes. To my surprise, it was quite easy, and also insightful to get a different perspective. I’ve forgotten how fun it can be to talk to users.</summary></entry><entry><title type="html">I want Snap’s Spectacles.</title><link href="/blog/spectacles-launch/" rel="alternate" type="text/html" title="I want Snap's Spectacles." /><published>2016-11-14T00:00:00+08:00</published><updated>2016-11-14T00:00:00+08:00</updated><id>/blog/spectacles-launch</id><content type="html" xml:base="/blog/spectacles-launch/">&lt;p&gt;I want Snap’s Spectacles.&lt;/p&gt;
+
+&lt;p&gt;I wanted to be one of the first to get my hands on it.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, being here in Singapore means I don’t get first dibs, and I wallow in envy reading tweets of the lucky ones who got their hands on the pairs that got snapped up pretty quickly.&lt;/p&gt;
+
+&lt;p&gt;Which I think is exactly what Snap wanted me, as a user, to feel.&lt;/p&gt;
+
+&lt;p&gt;It’s been less than a week since Snap’s launch of Spectacles, their first venture into hardware and their 2nd product offering besides Snapchat. I’ve been following its pre-launch for a bit and I initially thought Spectacles was going to be a usual online launch, where I could get my US friend to pre-order. Something like an Apple hardware launch.&lt;/p&gt;
+
+&lt;p&gt;Until the day when the first Spectacles vending machine landed itself at Venice Beach.&lt;/p&gt;
+
+&lt;p&gt;When people were frantic on the morning before they announced the location of the 2nd vending machine, it’s evidently a successful product launch.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Snap knew how to tap into FOMO.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;People who were afraid of missing out knew to go the website to find out the next location. With the scarcity factor at play, users like me felt so left out of the whole Spectacles hunting saga.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Snap understood its target audience well.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Being the most popular social media choice of millennials, they marketed Spectacles as a super cool, elusive product that will get your friends to envy you should you lay hands on it.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Snap knew to rely on its users for WoM.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Users were generating buzz on Twitter. It was essentially free WoM marketing for Snap as users tweeted non-stop about Spectacles.
+Someone even created a &lt;a href=&quot;https://www.producthunt.com/posts/snapbot-spotter&quot;&gt;notification system&lt;/a&gt; to ping you when the next location is released.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/snapchat3.png&quot; alt=&quot;Snapchat&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first location at Venice Beach probably landed the pairs in the hands of the cool beach-goers.
+The second drop at Big Sur was assumed to be Snap bringing its users to make a little scenic drive to the beautiful coastal seas. Users who travelled to Big Sur just to get a pair of Spectacles practically YOLO-ed and lived life in the moment. Even if they didn’t manage to get a pair, they were well treated to the beautiful sight of Big Sur.&lt;/p&gt;
+
+&lt;p&gt;It fits &lt;a href=&quot;http://www.businessinsider.sg/snapchat-company-mission-ipo-2016-10/#pWJ8kTMVmqjlBzdd.97&quot;&gt;Snap’s vision&lt;/a&gt; so perfectly.&lt;/p&gt;
+
+&lt;p&gt;Being a technology company, it’s so important to keep yourself relevant to your users (and non-users), especially when the technology scene is ever-evolving. Snap has not failed to excite its users,  and at the same time stayed true to its purpose. While there are comments on its durability as a hardware product, I think it’s great brand positioning as keep things fun and casual, and a positive next step to keep us wanting more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/snapchatlandingpage.png&quot; alt=&quot;Snapchat&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Where will the next location be?&lt;/p&gt;</content><summary type="html">I want Snap’s Spectacles.</summary></entry><entry><title type="html">Twitter Lists</title><link href="/blog/twitter-lists/" rel="alternate" type="text/html" title="Twitter Lists" /><published>2016-06-25T00:00:00+08:00</published><updated>2016-06-25T00:00:00+08:00</updated><id>/blog/twitter-lists</id><content type="html" xml:base="/blog/twitter-lists/">&lt;p&gt;I am a big user of Twitter’s Lists feature.
+In fact, it is the only way I read my Twitter feed. I like to break my feed down into different areas of interest, and the tweets often seem like they’re grouped in small bunches such that I can catch up with news more easily.&lt;/p&gt;
+
+&lt;p&gt;I use TweetDeck to get my dose of tweets, separated into lists that I curate myself.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tweetdeck.png&quot; alt=&quot;Tweet-Deck&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I actually find it a pity that Twitter is not fully utilising its Lists feature to engage its users. It’s a great engagement tool, it could possibly help with on boarding new users more easily, and there’s that potential for monetisation too.&lt;/p&gt;
+
+&lt;p&gt;Here’s a list of things I thought Twitter could do with its user generated Lists.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;1. Recommending Lists for users to follow &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;While Twitter does a great job of suggesting users for you to follow, it doesn’t recommend Lists for users to follow. One way is to suggest to the user Lists curated by people whom he or she is following. If I follow a user, it could be that I’m interested in what he or she is tweeting. Surely the Lists curated by the person I’m following should be relevant to me too? This way, I’d get several more relevant accounts to follow at any one time, where I’d get a whole lot more interesting content.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/listsyoumightlike.png&quot; alt=&quot;Lists-You-Might-Like&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;2. Monetise List feature by promoting to businesses&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Twitter can also monetise its List feature by promoting it to businesses. For instance, media accounts such as BuzzFeed has several Twitter accounts based on interests (Sports, Entertainment, Politics,) or country based (Germany, UK journalists added into separate lists). To gain more following for the whole suite of its content, BuzzFeed can pay to promote its Lists to its followers, and get more eyeballs for its content.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;3. Lists to increase user engagement&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Lists can be a feature Twitter uses to increase its user engagement. For instance, &lt;a href=&quot;https://www.producthunt.com/collections&quot;&gt;Product Hunt features Collections&lt;/a&gt; curated by its community. It’s a way of rewarding users when they invest in curating Collections. When users know that their content could possibly have a chance of being featured, they spend more effort and time into hunting for quality products and curating them into great content, that in turn, the rest of the community benefits from. The same could be applied to Twitter Lists!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/producthuntcollections.png&quot; alt=&quot;Product-Hunt-Collections-90-9-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;4. Helping a friend get onboarded to Twitter&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;When a new user joins Twitter for the first time, Twitter could make use of social effects to onboard a new user more effectively. While it does recommend multiple accounts for a new user to follow based on the user’s input of interests, a stronger form of conversion could be through friends’ recommendations. If Twitter could detect some sort of friendship between a current account and a new account, it could prompt the current user to share his or her lists with the newer user to help him/her get started. I’d very much rather trust a friend’s recommendations.
+I’m not sure, but it seems like Twitter can already find out who my friends are vs the news/media/influencers are following; somehow it always surfaces my friends’ tweets to me under the ‘While You Were Away’ section.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure how many % of Twitter’s active users have used Lists, but from friends that I’ve asked, no one seemed to be using it. Awareness for the feature aside, I noticed that the action of adding/removing a user from Lists can be improved.&lt;/p&gt;
+
+&lt;p&gt;As a user trying to add an account to the list, there were some problems I faced with the flow:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/addinglist.png&quot; alt=&quot;Add-Twitter-1&quot; /&gt;
+This is how I add a user to my Lists on the web.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/screen2.png&quot; alt=&quot;Add-Twitter-2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I didn’t read the ‘Create A List’ button. I wasn’t getting feedback from the interface that the user has already been added to the list, and I thought the button meant ‘Save &amp;amp; Continue’.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/createnewlist.png&quot; alt=&quot;Add-Twitter-3&quot; /&gt;
+So I got to the Create New List page.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/addmarketing.png&quot; alt=&quot;Add-Twitter-4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Even after creating a new list (in this case it was the ‘Marketing’ list), the user wasn’t automatically added into the list I just created. It confused me for awhile that I created a list through the action that was supposed to be ‘Add/Remove (user) from Lists’.&lt;/p&gt;
+
+&lt;p&gt;I wanted to improve the flow by changing the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/createnewlist1.png&quot; alt=&quot;How-To-Add-User-To-List&quot; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;By changing the &lt;a href=&quot;http://www.creativebloq.com/netmag/why-people-focus-right-hand-side-design-3146267&quot;&gt; CTA placement to the right &lt;/a&gt;. Users usually read from left to right, so I thought it’s a natural progression to check the desired lists and complete the action with the right-most action.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Changing the ‘Create New List’ to be below the rest of the lists, to a secondary CTA. Clicking on it will bring me through the same List creation flow, but after creating the list, the new List will now be checked.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/screen4.png&quot; alt=&quot;How-To-Add-User-To-List-2&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;To successfully add the user into the selected Lists, I will then click ‘Save &amp;amp; Continue’.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There are probably other cases I didn’t consider for, such as having 0 lists, but this was a quick idea off the top of my head that I wanted to do specific to my own use case.&lt;/p&gt;
+
+&lt;p&gt;While I am not an active follower of Twitter’s plans as a company, I hope to see Twitter investing more into its Lists feature, amongst its other improvements (that include video consumption, more advertising tools, etc). But of course, that is with the understanding that the awareness and usage of Twitter Lists will first have to be worked on.&lt;/p&gt;</content><summary type="html">I am a big user of Twitter’s Lists feature.
+In fact, it is the only way I read my Twitter feed. I like to break my feed down into different areas of interest, and the tweets often seem like they’re grouped in small bunches such that I can catch up with news more easily.</summary></entry><entry><title type="html">I consume content.</title><link href="/blog/usergen-content/" rel="alternate" type="text/html" title="I consume content." /><published>2016-05-01T00:00:00+08:00</published><updated>2016-05-01T00:00:00+08:00</updated><id>/blog/usergen-content</id><content type="html" xml:base="/blog/usergen-content/">&lt;p&gt;I love the internet.&lt;/p&gt;
+
+&lt;p&gt;It allows me to check out content created and shared by people everywhere.&lt;/p&gt;
+
+&lt;p&gt;Snapchat gives me a glimpse into events that are happening all across the globe, allowing me to watch snippets of happenings from events such as Coachella or SXSW. It allows me to see what my friends are up to daily.&lt;/p&gt;
+
+&lt;p&gt;When I finish the latest chapters of the any manga or TV series that I follow, I want to know what fellow fans might think, I want to know what theories people can come up with in a way to predict what the author might be releasing next. Forums like Reddit lets me do so, connecting people of similar interests together through a shared interest.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/onepiece-ss.png&quot; alt=&quot;Reddit-OnePiece&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My favourite form of media consumption has been from YouTube these days. It’s getting so much cheaper and easier to film and upload videos to the web. Videos are much more interactive and personal. For me, I want to view demos before deciding to purchase music sheets, so I watch electone videos uploaded by others before making my decision to buy. (Partly also because Yamaha has made the process of purchasing electone music extremely challenging.)&lt;/p&gt;
+
+&lt;p&gt;Plus, because the electone is very much more known within Japan, the content I get is usually in Japanese. But the web has made translation so easy that I can easily find the music that I want.&lt;/p&gt;
+
+&lt;p&gt;I needed information on audio recording for electone, and I simply sent out messages to some electone players on YouTube. Got helpful advice within an hour.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/email-ss.png&quot; alt=&quot;Youtube-Email&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I like how the internet connects people. I like how the internet makes it so easy for people to simply start sharing.&lt;/p&gt;
+
+&lt;p&gt;I’ve always been a huge fan of user-generated content, and even more so supportive of platforms that allow users to create and upload their own content. Blogs, Medium, Pinterest, Reddit, to name a few, have allowed me to get more perspectives and insights on a variety of issues and interests.&lt;/p&gt;
+
+&lt;p&gt;Because of increasing convenience to upload our own content, the quality of content goes up too. People have more pride in the content they share and invest more time for creation. We see great content as a result of convenience, especially when some kind of reward is involved, be it in terms of monetary returns, social value, or something else that motivates the creator.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/airbnb-ss.png&quot; alt=&quot;Airbnb-SS&quot; /&gt;
+Quality of Airbnb listings are better than ever.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/listings-ss2.png&quot; alt=&quot;Listings-SS&quot; /&gt;
+When selling online, people spend more time to take photos of the items to ensure that their higher quality listings that will attract more buyers.&lt;/p&gt;
+
+&lt;p&gt;Of course, convenience might be a double-edged sword, whereby people start to curate their content to the extent where authenticity of content can be questioned, plus it could also result in the abuse of creation of content.&lt;/p&gt;
+
+&lt;p&gt;In any case, the more accessible the Internet gets, the more we get to learn and explore about everything around the world. The more convenient the Internet gets, the more quality content we can get to expect.&lt;/p&gt;</content><summary type="html">I love the internet.</summary></entry><entry><title type="html">It’s exciting, because you’re trying to solve problems that no one else has done before.</title><link href="/blog/its-exciting/" rel="alternate" type="text/html" title="It’s exciting, because you’re trying to solve problems that no one else has done before." /><published>2016-04-14T00:00:00+08:00</published><updated>2016-04-14T00:00:00+08:00</updated><id>/blog/its-exciting</id><content type="html" xml:base="/blog/its-exciting/">&lt;p&gt;And then if you fail, it’s okay.&lt;/p&gt;
+
+&lt;p&gt;You fall fast, but you learn so much more from the experience itself.&lt;/p&gt;
+
+&lt;p&gt;And then you pick yourself up. It’s just another rock in your path.&lt;/p&gt;
+
+&lt;p&gt;You’re going to run, and trip over many more rocks along the way.&lt;/p&gt;
+
+&lt;p&gt;You will meet people along your path. People who laugh at you because you tripped and fell. People who are convinced you will never make it to the finish line.&lt;/p&gt;
+
+&lt;p&gt;But then you get better at avoiding the rocks. Because you learn from experience. You trip less often.&lt;/p&gt;
+
+&lt;p&gt;You learn to climb past hills. You learn to run faster. You learn to pace yourself.&lt;/p&gt;
+
+&lt;p&gt;You don’t know when you will reach the finish line.&lt;/p&gt;
+
+&lt;p&gt;Will there be a finish line? You don’t know.&lt;/p&gt;
+
+&lt;p&gt;But does it matter?&lt;/p&gt;
+
+&lt;p&gt;You got better by learning from experience. You enjoyed the process of learning. You enjoyed discovering new ways to tackle the obstacles that come your way.&lt;/p&gt;
+
+&lt;p&gt;As long as you are getting better than the year before, the month before, or the day before, it doesn’t matter by how much, you’re improving.&lt;/p&gt;</content><summary type="html">And then if you fail, it’s okay.</summary></entry><entry><title type="html">Put up all the user flows!</title><link href="/blog/Design-boards/" rel="alternate" type="text/html" title="Put up all the user flows!" /><published>2015-06-23T00:00:00+08:00</published><updated>2015-06-23T00:00:00+08:00</updated><id>/blog/Design-boards</id><content type="html" xml:base="/blog/Design-boards/">&lt;p&gt;One can never have enough wall space for brainstorming for ideas. I thought to share how I made some boards that are used by our design team, mainly for user research and mapping of user flows. I was super inspired by &lt;a href=&quot;http://www.daylightdesign.com/ikeahack/&quot;&gt;this piece&lt;/a&gt; so I went ahead to make some.&lt;/p&gt;
+
+&lt;p&gt;Since IKEA Benjamin stools were not in production anymore, we decided to use crates instead. The most challenging part of this mini DIY project was just the sawing of the slots for the boards. Once we got past that it’s more or less complete.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/bor1.jpg&quot; alt=&quot;Board&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Foam core boards can easily be bought at art supply stores; I got ours from University Art.&lt;/p&gt;
+
+&lt;p&gt;Because it’s a hassle to physically bring the boards around the office, a dolly was velcro-taped to the crate so that it could be wheeled around easily.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/bor2.jpg&quot; alt=&quot;Board&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/bor3.jpg&quot; alt=&quot;Board&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to make some for your team, here’s a list of where I got my materials from:&lt;/p&gt;
+
+&lt;p&gt;1 &lt;a href=&quot;http://www.homedepot.com/p/Houseworks-Crates-and-Pallet-18-in-x-12-5-in-x-9-5-in-Large-Wood-Crate-94565/203153338&quot;&gt;Crates&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2 &lt;a href=&quot;http://www.universityartcatalog.com/foamboard-white-p-14451.html#.VYnfVxNViko&quot;&gt;Foam Board&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;3 &lt;a href=&quot;http://www.amazon.com/VELCRO-Sticky-Back-Strips-Black/dp/B000TGSPV6/ref=sr_1_1?ie=UTF8&amp;amp;qid=1435099006&amp;amp;sr=8-1&amp;amp;keywords=velcro&quot;&gt;Velcro Strips&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;4 &lt;a href=&quot;http://www.amazon.com/Best-Gardening-Supplies-DEV4000-04GB-Garage/dp/B00Q721W6G/ref=sr_1_15?ie=UTF8&amp;amp;qid=1435098976&amp;amp;sr=8-15&amp;amp;keywords=dolly&quot;&gt;Garage Dolly&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This wouldn’t have been possible without the help of a few of my buddies, who helped brought back the boards to the office and with the sawing of crates. Have fun!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Gify.gif&quot; alt=&quot;Board&quot; /&gt;&lt;/p&gt;</content><summary type="html">One can never have enough wall space for brainstorming for ideas. I thought to share how I made some boards that are used by our design team, mainly for user research and mapping of user flows. I was super inspired by this piece so I went ahead to make some.</summary></entry><entry><title type="html">Let me know if it’s perfect!</title><link href="/blog/Let-me-know/" rel="alternate" type="text/html" title="Let me know if it's perfect!" /><published>2015-05-25T00:00:00+08:00</published><updated>2015-05-25T00:00:00+08:00</updated><id>/blog/Let-me-know</id><content type="html" xml:base="/blog/Let-me-know/">&lt;p&gt;Yesterday, I wote a list of resources that I visit and while I tried to explain why I liked Product Hunt, it got me mulling more over about the interactions that happen on Product Hunt itself.&lt;/p&gt;
+
+&lt;p&gt;Technology dehumanizes experiences, as we all know, to a certain extent. Instead of talking to each other during lunches and gatherings, we are glued to our tiny screens, choosing to interact with other people on social media instead.&lt;/p&gt;
+
+&lt;p&gt;I too, am guilty of doing that :(&lt;/p&gt;
+
+&lt;p&gt;For products and services offering customer support, it also results in dry standard replies when I reach out to certain services - it is so obvious that I’m getting a template reply which you don’t even care less about to help me. And it’s not helping.&lt;/p&gt;
+
+&lt;p&gt;Even at work, when my teammates are just sitting right beside me, I ‘Slack’ them up.&lt;/p&gt;
+
+&lt;p&gt;So how does all these relate to me loving Product Hunt as a product?
+&lt;br /&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Quality of interactions&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Paradoxically, while technology dehumanizes experiences, it is the very same tool that connects people together, through ways that might not have been possible if not for its existence. We get to keep in touch with loved ones across the globe, interact with remote team members, and even use Periscope, Meerkat to live stream and experience events happening all around the world.&lt;/p&gt;
+
+&lt;p&gt;When users interacts with an app, a software, they can’t tell who’s behind it. How do they put a face to who or what they’re interacting with if all they’re doing are tapping on screens and interacting with the user interface?&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&amp;lt;/br&amp;gt;
+&lt;b&gt;Build delightful interactions for your users&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Small but effective copy tweaks, putting smiley faces :) and surprising them with out-of-the-norm interactions will make them remember your product, and they’ll eventually realise that there’s humans working behind all this technology. This is why &lt;a href=&quot;http://littlebigdetails.com&quot;&gt;this website&lt;/a&gt; brings me so much inspiration!&lt;/p&gt;
+
+&lt;p&gt;One instance I can think of that delighted me is Snapchat; on the Stories screen, pulling the screen down brings up their dancing ghost. Pulling it upwards shows a super cute animation of ghosts flying off the screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&amp;lt;/br&amp;gt;
+&lt;b&gt;Let me know if it’s perfect!&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This is also why I believe between two similar products, the customer’s experience will be the key differentiating factor to making the customer choose your product over the other. Does the company truly care to help you solve any difficulties you faced? Or they simply redirect you to an FAQ page with answers that barely make any sense?&lt;/p&gt;
+
+&lt;p&gt;Zappos encourages its customer support reps to &lt;a href=&quot;http://www.businessinsider.com/zappos-customer-service-crm-2012-1&quot;&gt;go out of their way&lt;/a&gt; to help their customers, even if it doesn’t really concern them. Munchery refunded me my dinner money even though I cancelled my order pretty last minute, like an hour before delivery. And this was done through live chat, done in less than 15 minutes.&lt;/p&gt;
+
+&lt;p&gt;Another example I’d like to share is Wufoo, where I was inspired by one of their very first Christmas efforts for their users…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What’s interesting is we started this practice as a result of the early days of starting Wufoo. Chris, Ryan, and I (Kevin) were talking to try to figure out what we were going to do to show users that we appreciated them around Christmas, and Chris came up with this idea where he said, &lt;i&gt;“Hey guys, a couple years ago my mom made me write thank you letters to all my relatives for my Christmas presents, and I really didn’t like to do it, but the following year all my presents were super good… so I think we should try this for our business and see how it goes.”&lt;/i&gt;
+&lt;br /&gt;&amp;lt;/br&amp;gt;So that first year we wrote handwritten Christmas cards to all of our users that first year. Second year rolls around, and we have too many customers with just the three founders. We were thinking, &lt;i&gt;“We’re kind of screwed; we don’t know what we’re going to do.”&lt;/i&gt; Well, we read a book called The Ultimate Question and in it, he talks about focusing on your most profitable users; if you just take care of them, things will work out. So we thought, &lt;i&gt;“That will work out, that’s scalable.”&lt;/i&gt; Basically we only wrote to our highest-paying customers. &lt;br /&gt;&amp;lt;/br&amp;gt;So January rolls around that second year and one of our longtime loyal users writes to us. He basically says, &lt;i&gt;“Hey guys I really loved the Christmas card you guys sent me the first year, and I just wanted you to know, I haven’t received my second card yet and I’m just looking forward to it; I know you didn’t forget about me. Thanks a lot.”&lt;/i&gt; So we were like, fuck. The best way to exceed expectations is not to set any in the beginning; we were sort of in this conundrum. What we decided after thinking about it for a while was that we had to stop doing it just one time a year; it needs to be something that happens every sort of week. And even though we’ll never catch up to all of our customers, just a practice of doing it will make all the difference.&amp;lt;/quote&amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;i&gt;From Sam Altman’s How to Start a Startup: &lt;a href=&quot;http://startupclass.samaltman.com/courses/lec07/&quot;&gt;How to Build a Product Users Love&lt;/a&gt;&lt;/i&gt;
+&lt;br /&gt;&amp;lt;/br&amp;gt;
+There’s always a choice whether or not the company chooses to go out of the way to provide a memorable customer experience. While I understand not all companies have the kind of budget to do whatever they want, at least the intention of helping your customers should be present, not because you have to do it. &lt;i&gt;There’s always a choice.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/philz.png&quot; alt=&quot;Philz&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s also partly why I go back to Philz every time - not only for the coffee, but for the friendly interaction that each cup of coffee brings. After handing me my sweet and creamy Silken Splendor, the barista (almost) always asks &lt;i&gt;‘Let me know if it’s perfect!’&lt;/i&gt; - just this small interaction makes me feel that my purchase is more than just a transaction, but it’s also a way of engaging with the customer and leaving an impression.&lt;/p&gt;
+
+&lt;p&gt;With so many products and service vying for your attention out there in the wild, this is also why I feel that this core competency of customer support should not be outsourced - the extra effort to interact with the customers like they’re your friends can leave a lasting impression on them for a long time to come.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&amp;lt;/br&amp;gt;
+&lt;b&gt;Product Hunt improves online experiences with the quality of interactions.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/phfeedback.png&quot; alt=&quot;ProductHunt&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On Product Hunt, users who leave comments are &lt;i&gt;keen to help the product improve&lt;/i&gt;, not criticise its shortcomings. Users try out the product and give feedback, and even bring similar products to the founder’s attention. From the founders who had their products ‘hunted’, some actively establish &lt;i&gt;why&lt;/i&gt; they built the product, and engage with those who are curious about their product.&lt;/p&gt;
+
+&lt;p&gt;Is this because of its initial (and still ongoing) exclusivity? Starting out, by only engaging those with a desire to help and support the community, it lays the foundation for positive feedback that will serve to benefit most, including those like myself, who are currently unable to post products, or comment. These are also the people who care most about the community. By positive feedback, I do not mean painting a pretty picture to mask the shortcomings, but insightful and actionable feedback that everyone can learn from.&lt;/p&gt;
+
+&lt;p&gt;Simple questions like - &lt;i&gt;‘Why did you choose to build X this way?’&lt;/i&gt; or &lt;i&gt;‘Have you tried to do Y? From my experience it’ll help improve your product!’&lt;/i&gt; prompts both the founder and the community to always go back to thinking why and how this particular product can better solve the problem it was built for.&lt;/p&gt;
+
+&lt;p&gt;At least that’s what I think! Product Hunt engages the most helpful and valuable community I’ve seen so far, and it’s great to know that &lt;a href=&quot;https://medium.com/@rrhoover/stay-classy-internet-b9f0d8b35321&quot;&gt;Ryan Hoover wants the same friendly community for Product Hunt too&lt;/a&gt;. And I hope it’ll continue to improve and maintain the standard even when it rolls out to the public in the future. Excited for it.&lt;/p&gt;</content><summary type="html">Yesterday, I wote a list of resources that I visit and while I tried to explain why I liked Product Hunt, it got me mulling more over about the interactions that happen on Product Hunt itself.</summary></entry></feed>

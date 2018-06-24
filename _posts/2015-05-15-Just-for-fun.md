@@ -1,6 +1,6 @@
 ---
 title: Just for fun
-layout: default
+layout: post
 ---
 
 Decided to play around with a better 'placeholder logo' kind of image for this site because the previous one is horrendous. It's always good to be able to look back and critique your own past work. 

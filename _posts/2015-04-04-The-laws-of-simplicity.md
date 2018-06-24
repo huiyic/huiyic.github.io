@@ -1,6 +1,6 @@
 ---
 title: The Laws of Simplicity
-layout: default
+layout: post
 ---
 
 Ten Laws

@@ -1,6 +1,6 @@
 ---
 title: COULDN’T BE HAPPIER
-layout: default
+layout: post
 ---
 
 

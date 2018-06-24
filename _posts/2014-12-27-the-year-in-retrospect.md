@@ -1,6 +1,6 @@
 ---
 title: The Year in Retrospect
-layout: default
+layout: post
 ---
 
 Where to start?

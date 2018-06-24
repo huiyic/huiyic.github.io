@@ -1,6 +1,6 @@
 ---
 title: Twitter Lists
-layout: default
+layout: post
 ---
 
 I am a big user of Twitter’s Lists feature.

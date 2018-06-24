@@ -1,6 +1,6 @@
 ---
 title: It’s exciting, because you’re trying to solve problems that no one else has done before.
-layout: default
+layout: post
 ---
 
 And then if you fail, it’s okay.

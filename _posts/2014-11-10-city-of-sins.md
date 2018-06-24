@@ -1,6 +1,6 @@
 ---
 title: CITY OF SINS
-layout: default
+layout: post
 ---
 
 ![My helpful screenshot](/assets/post6.jpg)<br>

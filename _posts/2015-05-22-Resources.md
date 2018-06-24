@@ -1,6 +1,6 @@
 ---
 title: Resources I find useful
-layout: default
+layout: post
 ---
 
 I’ve been keeping a mental list (or I Pocket them) of resources that I go to daily, occasionally, sometimes, whenever I’m bored; as the list expands, I thought to share them here (and will be updated periodically! whoop). They’re mostly related to technology, startups, and design. 

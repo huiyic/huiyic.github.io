@@ -1,6 +1,6 @@
 ---
 title: DON’T BE AFRAID TO TAKE RISKS.
-layout: default
+layout: post
 ---
 
 
