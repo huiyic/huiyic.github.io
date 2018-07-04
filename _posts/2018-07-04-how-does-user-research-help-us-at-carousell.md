@@ -9,7 +9,7 @@ At Carousell, each Product team owns a user journey, and I currently work with t
 
 For the case of New Seller Success, we broke down the user journey as such:
 
-![Sold Section](/assets/userjourney.jpg)<br>
+![Sold Section](/assets/userjourney.png)<br>
 
 We looked into two aspects:
 1. User research, 
