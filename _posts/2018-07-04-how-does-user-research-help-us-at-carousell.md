@@ -78,7 +78,7 @@ People did not know if the value of listing an item would be higher than the eff
 ![Brainstorm](/assets/userresearch6.jpg)<br>
 Team brainstorming for solutions, by asking a series of 'How Might We'.
 
-Learning the concept of Psych, shared by <a href="http://andrewchen.co/psychd-funnel-conversion/">Darius Contractor from Dropbox</a>, we also asked ourselves - <i>How might we motivate and encourage a person to list his/her first item soonest?</i>
+Learning the concept of Psych, as shared by <a href="http://andrewchen.co/psychd-funnel-conversion/">Darius Contractor from Dropbox</a>, we also asked ourselves - <i>How might we motivate and encourage a person to list his/her first item soonest?</i>
 
 This led us to come up with an onboarding solution, where we showed new users a section with successfully sold listings after they signed up for an account. 
 
