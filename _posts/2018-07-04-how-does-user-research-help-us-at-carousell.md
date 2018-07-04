@@ -9,7 +9,7 @@ At Carousell, each Product team owns a user journey, and I currently work with t
 
 For the case of New Seller Success, we broke down the user journey as such:
 
-![Sold Section](/assets/userjourney.png)<br>
+![Sold Section](/assets/userjourney.jpg)<br>
 
 We looked into two aspects:
 1. User research, 
@@ -88,6 +88,6 @@ We ran it as an A/B test and got a significant uplift in the conversion to first
 
 Once in awhile, we find that gleaming user insights doesn’t have to be so structured, so we’d organise a casual meet-up with our community, just to have a chat with them and understand overall problems that they face with using Carousell. I find that a mixture of this plus user interviews help us to gain a more holistic view of the problems that people face with using Carousell! 
 
-![MY Meetup](/assets/mymeetup.png)<br>
+![MY Meetup](/assets/userresearch2.jpg)<br>
 
-Carousell is looking to expand our Product team to inspire the world to start selling! If you’re excited about solving problems through user research and data analysis to make impact on millions, give me a ping, or take a look at our available positions <a href="https://careers.carousell.com">here</a>.
+Carousell is looking to expand our Product team to inspire the world to start selling! If you’re excited about solving problems through user research and data analysis to make impact on millions, give me a ping, or <a href="https://careers.carousell.com">take a look at our available positions here</a>.
