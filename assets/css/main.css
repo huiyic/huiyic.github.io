@@ -2422,10 +2422,12 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
+        width: auto;
 	}
 
 		.image img {
 			display: block;
+            width: auto;
 		}
 
 		.image.left, .image.right {
