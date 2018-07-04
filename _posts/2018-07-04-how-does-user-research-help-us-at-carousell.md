@@ -95,4 +95,4 @@ Once in awhile, we find that gleaming user insights doesn’t have to be so stru
 ![MY Meetup](/assets/userresearch2.jpg)<br>
 A community meet-up we did in Johor Bahru, Malaysia.
 
-Carousell is looking to expand our Product team to inspire the world to start selling! If you’re excited about solving problems through user research and data analysis to make impact on millions, give me a ping, or <a href="https://careers.carousell.com">take a look at our available positions here</a>.
+Carousell is looking to expand our Product team to inspire the world to start selling! If you’re excited about solving problems through user research and data to make impact on millions, give me a ping, or <a href="https://careers.carousell.com">take a look at our available positions here</a>.

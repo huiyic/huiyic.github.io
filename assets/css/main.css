@@ -16,7 +16,6 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
-        width:inherit;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -2423,12 +2422,10 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
-        width: inherit;
 	}
 
 		.image img {
 			display: block;
-            width: inherit;
 		}
 
 		.image.left, .image.right {
