@@ -36,9 +36,9 @@ Coming from Singapore, it was sometimes frustrating to have no internet access, 
 GoJek is everywhere in Indonesia.
 
 ![Jeepney](/assets/tuk.png)<br>
-Many people at a mall in Makita, Philippines, queuing to take a local <a href="https://en.wikipedia.org/wiki/Jeepney">Jeepney</a>.
+Many people at a mall in Makati, Philippines, queuing to take a local <a href="https://en.wikipedia.org/wiki/Jeepney">Jeepney</a>.
 
-They were, at the same time, fun and exciting experiences as the local country teams brought us around to eat local food and shared us how they lived their daily lives.
+These were, at the same time, fun and exciting experiences as the local country teams brought us around to eat local food and shared us how they lived their daily lives.
 
 ![HK](/assets/dimsum.jpg)<br>
 Michelle from the Hong Kong team took us to eat dim sum!
@@ -62,35 +62,37 @@ Hong Kong user interview at a Starbucks.
 
 <b>What happens after?</b>
 
-Rita, the product designer, and I would block off some time asap to consolidate the insights so that we don't forget. We also follow a couple of tips from Google’s Design Sprint process, asking HMW questions, and also speaking with the local teams (Ask The Experts) to get more understanding of the insights we’ve gotten from chatting with our users.
+Rita, the product designer, and I would block off some time asap to consolidate the insights so that we don't forget. We also follow a couple of tips from <a href="http://www.gv.com/sprint/">Google’s Design Sprint</a>, asking How Might We questions, and also speaking with the local teams (Ask The Experts) to get more understanding of the insights we’ve gotten from chatting with our users.
 
 ![Ask the experts](/assets/userresearch5.jpg)<br>
 Jing Zhi, our Growth Marketer coming in via a 'Ask The Experts' session to give insights.
 
-> User: "I don’t list something for sale because I don’t have time”
+> One of the problems we found: "I don’t list something for sale because I don’t have time”
 
 While this sounds like a valid reason from our research, we assumed this came from a bigger problem: <i>"I don't understand the value I would get from selling."</i>
 
 <b> Perceived value < perceived effort </b>
 
-Hence the person used lack of time as an excuse. Think back on your own experiences; if you really wanted to do something, even if the friction was high, wouldn’t you most likely try to do all you can to achieve what you wanted to?
+The person did not know if the value of listing an item would be higher than the effort needed to list. Hence the person might have used lack of time as an excuse. Think back on your own experiences; if you really wanted to do something, even if the friction was high, wouldn’t you most likely try to do all you can to achieve what you wanted to?
 
 ![Brainstorm](/assets/userresearch6.jpg)<br>
-Team brainstorming for solutions, by asking a series of 'How Might We'
+Team brainstorming for solutions, by asking a series of 'How Might We'.
 
-This led us to come up with an onboarding solution, where we showed new users a Sold Listings section after they successfully signed up for an account. 
+Learning the concept of Psych, shared by <a href="http://andrewchen.co/psychd-funnel-conversion/">Darius Contractor from Dropbox</a>, we also asked ourselves - <i>How might we motivate and encourage a person to list his/her first item soonest?</i>
+
+This led us to come up with an onboarding solution, where we showed new users a section with successfully sold listings after they signed up for an account. 
 
 ![Sold Section](/assets/soldsection.jpg)<br>
 
 As a person with intent to sell, and lands on the home screen, he/she would be greeted with a couple examples of how much others have earned from selling on Carousell, and how fast they got their items sold.
 
->The hypothesis: 
+>The Hypothesis: 
 If successful, sign up to first time lister conversion will increase because users are now more convinced by social proof, of the value they can get out of listing an item for sale.
 
 We ran it as an A/B test and got a significant uplift in the conversion to first time listers!
 
 
-Once in awhile, we find that gleaming user insights doesn’t have to be so structured, so we’d organise a casual meet-up with our community, just to have a chat with them and understand overall problems that they face with using Carousell. I find that a mixture of this plus user interviews help us to gain a more holistic view of the problems that people face with using Carousell! 
+Once in a while, we find that gleaming user insights doesn’t have to be so structured, so we’d organise a casual meet-up with our community, just to have a chat with them and understand overall problems that they face with using Carousell. I find that a mixture of this plus user interviews help us to gain a more holistic view of the problems that people face with using Carousell! 
 
 ![MY Meetup](/assets/userresearch2.jpg)<br>
 A community meet-up we did in Johor Bahru, Malaysia.
