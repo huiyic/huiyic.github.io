@@ -67,7 +67,7 @@ Rita, the product designer, and I would block off some time asap to consolidate 
 ![Ask the experts](/assets/userresearch5.jpg)<br>
 Jing Zhi, our Growth Marketer coming in via a 'Ask The Experts' session to give insights.
 
-> Problem: "I don’t list something for sale because I don’t have time”
+> User: "I don’t list something for sale because I don’t have time”
 
 While this sounds like a valid reason from our research, we assumed this came from a bigger problem: "I don't understand the value I would get from selling."
 
