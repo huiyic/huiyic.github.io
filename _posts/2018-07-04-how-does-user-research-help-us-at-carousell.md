@@ -35,6 +35,9 @@ Coming from Singapore, it was sometimes frustrating to have no internet access, 
 ![GoJek](/assets/gojek.jpg)<br>
 GoJek is everywhere in Indonesia.
 
+![Jeepney](/assets/tuk.png)<br>
+Many people at a mall in Makita, Philippines, queuing to take a local <a href="https://en.wikipedia.org/wiki/Jeepney">Jeepney</a>.
+
 They were, at the same time, fun and exciting experiences as the local country teams brought us around to eat local food and shared us how they lived their daily lives.
 
 ![HK](/assets/dimsum.jpg)<br>
