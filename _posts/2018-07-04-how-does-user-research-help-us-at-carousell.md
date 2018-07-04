@@ -76,7 +76,7 @@ Team brainstorming for solutions, by asking a series of 'How Might We'
 
 This led us to come up with an onboarding solution, where we showed new users a Sold Listings section. 
 
-![Sold Section](/assets/soldsection.png)<br>
+![Sold Section](/assets/soldsection.jpg)<br>
 
 As a person with intent to sell, and lands on the home screen, I would be greeted with a couple examples of how much others have earned from selling on Carousell, and how fast they got their items sold.
 
