@@ -14,6 +14,7 @@ For the case of New Seller Success, we broke down the user journey as such:
 We looked into two aspects:
 1. User research, 
 2. Data Analysis
+
 Both help us to identify the parts where we could possibly make the biggest impact. This include doing some competitors’ analysis and benchmarking to take stock of where we are at with our current situation.
 
 It takes us about one to two weeks to plan the outcome of the user research plus the list of questions, and we usually conduct the user interviews over the weekend as people are usually more available to be able to speak with us.
@@ -61,7 +62,7 @@ Hong Kong user interview at a Starbucks.
 Rita, the product designer, and I would block off some time asap to consolidate the insights so that we don't forget. We also follow a couple of tips from Google’s Design Sprint process, asking HMW questions, and also speaking with the local teams (Ask The Experts) to get more understanding of the insights we’ve gotten from chatting with our users.
 
 ![Ask the experts](/assets/userresearch5.jpg)<br>
-Jing Zhi, our Growth Marketer coming in to give insights.
+Jing Zhi, our Growth Marketer coming in via a 'Ask The Experts' session to give insights.
 
 > Problem: "I don’t list something for sale because I don’t have time”
 
