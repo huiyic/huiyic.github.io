@@ -69,20 +69,20 @@ Jing Zhi, our Growth Marketer coming in via a 'Ask The Experts' session to give 
 
 > User: "I don’t list something for sale because I don’t have time”
 
-While this sounds like a valid reason from our research, we assumed this came from a bigger problem: "I don't understand the value I would get from selling."
+While this sounds like a valid reason from our research, we assumed this came from a bigger problem: <i>"I don't understand the value I would get from selling."</i>
 
 <b> Perceived value < perceived effort </b>
 
-Hence the person used lack of time as an excuse. Think back on your own experiences; if you really wanted to do something, even if the friction was high, wouldn’t you do all you can to achieve what you wanted to?
+Hence the person used lack of time as an excuse. Think back on your own experiences; if you really wanted to do something, even if the friction was high, wouldn’t you most likely try to do all you can to achieve what you wanted to?
 
 ![Brainstorm](/assets/userresearch6.jpg)<br>
 Team brainstorming for solutions, by asking a series of 'How Might We'
 
-This led us to come up with an onboarding solution, where we showed new users a Sold Listings section. 
+This led us to come up with an onboarding solution, where we showed new users a Sold Listings section after they successfully signed up for an account. 
 
 ![Sold Section](/assets/soldsection.jpg)<br>
 
-As a person with intent to sell, and lands on the home screen, I would be greeted with a couple examples of how much others have earned from selling on Carousell, and how fast they got their items sold.
+As a person with intent to sell, and lands on the home screen, he/she would be greeted with a couple examples of how much others have earned from selling on Carousell, and how fast they got their items sold.
 
 >The hypothesis: 
 If successful, sign up to first time lister conversion will increase because users are now more convinced by social proof, of the value they can get out of listing an item for sale.
@@ -93,5 +93,6 @@ We ran it as an A/B test and got a significant uplift in the conversion to first
 Once in awhile, we find that gleaming user insights doesn’t have to be so structured, so we’d organise a casual meet-up with our community, just to have a chat with them and understand overall problems that they face with using Carousell. I find that a mixture of this plus user interviews help us to gain a more holistic view of the problems that people face with using Carousell! 
 
 ![MY Meetup](/assets/userresearch2.jpg)<br>
+A community meet-up we did in Johor Bahru, Malaysia.
 
 Carousell is looking to expand our Product team to inspire the world to start selling! If you’re excited about solving problems through user research and data analysis to make impact on millions, give me a ping, or <a href="https://careers.carousell.com">take a look at our available positions here</a>.
