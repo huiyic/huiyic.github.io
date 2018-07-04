@@ -73,7 +73,7 @@ While this sounds like a valid reason from our research, we assumed this came fr
 
 <b> Perceived value < perceived effort </b>
 
-The person did not know if the value of listing an item would be higher than the effort needed to list. Hence the person might have used lack of time as an excuse. Think back on your own experiences; if you really wanted to do something, even if the friction was high, wouldn’t you most likely try to do all you can to achieve what you wanted to?
+People did not know if the value of listing an item would be higher than the effort needed to list. Hence they might have used lack of time as an excuse. Think back on your own experiences; if you really wanted to do something, even if the friction was high, wouldn’t you most likely try to do all you can to achieve what you wanted to?
 
 ![Brainstorm](/assets/userresearch6.jpg)<br>
 Team brainstorming for solutions, by asking a series of 'How Might We'.
