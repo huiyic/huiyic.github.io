@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-06-24T18:04:13+08:00</updated><id>/</id><title type="html">Hui Yi</title><subtitle>Jekyll version of the Massively theme by HTML5UP</subtitle><entry><title type="html">Amazon Go for public transportation please!</title><link href="/blog/iot/" rel="alternate" type="text/html" title="Amazon Go for public transportation please!" /><published>2018-06-16T00:00:00+08:00</published><updated>2018-06-16T00:00:00+08:00</updated><id>/blog/iot</id><content type="html" xml:base="/blog/iot/">&lt;p&gt;Was on the bus today when I spent a good few minutes fumbling my bag to find my ez-link card.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://huiyichia.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://huiyichia.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://huiyichia.com/" rel="alternate" type="text/html" /><updated>2018-07-30T00:22:28+08:00</updated><id>http://huiyichia.com/</id><title type="html">Hui Yi</title><subtitle>Product Manager at Carousell, building Community and Growth products to inspire the world to start selling.</subtitle><entry><title type="html">How does user research help us at Carousell?</title><link href="http://huiyichia.com/blog/how-does-user-research-help-us-at-carousell/" rel="alternate" type="text/html" title="How does user research help us at Carousell?" /><published>2018-07-04T00:00:00+08:00</published><updated>2018-07-04T00:00:00+08:00</updated><id>http://huiyichia.com/blog/how-does-user-research-help-us-at-carousell</id><content type="html" xml:base="http://huiyichia.com/blog/how-does-user-research-help-us-at-carousell/">&lt;p&gt;At Carousell, each Product team owns a user journey, and I currently work with the team to look at the Community aspect of Carousell. I was previously working on New Seller Success, which focused on getting a new user to his/her first successful sale.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;How do we decide what user problems to focus on?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;For the case of New Seller Success, we broke down the user journey as such:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/userjourney.png&quot; alt=&quot;Sold Section&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We looked into two aspects:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;User research,&lt;/li&gt;
+  &lt;li&gt;Data Analysis&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Both help us to identify the parts where we could possibly make the biggest impact. This include doing some competitors’ analysis and benchmarking to take stock of where we are at with our current situation.&lt;/p&gt;
+
+&lt;p&gt;It takes us about one to two weeks to plan the outcome of the user research plus the list of questions, and we usually conduct the user interviews over the weekend as people are usually more available to be able to speak with us.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;What did we want to find out?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;From the New Seller Success journey, we mainly wanted to find out 3 problems:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Why did a person who installed the app not sign up?&lt;/li&gt;
+    &lt;li&gt;Why did a person with Sell intent not list an item for sale?&lt;/li&gt;
+    &lt;li&gt;Why did a person who listed, not make his/her first sale?&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As Carousell is focused on the South East Asia region, we wanted to understand our community from across the different countries, and so we did user research trips to Malaysia, Hong Kong, Indonesia and Philippines.&lt;/p&gt;
+
+&lt;p&gt;Every country has its own local nuances of problems that we’ve had to face - transportation, language barriers, safety, and internet connectivity(!)&lt;/p&gt;
+
+&lt;p&gt;Coming from Singapore, it was sometimes frustrating to have no internet access, as it meant that work productivity was at a limit some of the times …&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gojek.jpg&quot; alt=&quot;GoJek&quot; /&gt;&lt;br /&gt;
+GoJek is everywhere in Indonesia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tuk.png&quot; alt=&quot;Jeepney&quot; /&gt;&lt;br /&gt;
+Many people at a mall in Makati, Philippines, queuing to take a local &lt;a href=&quot;https://en.wikipedia.org/wiki/Jeepney&quot;&gt;Jeepney&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;These were, at the same time, fun and exciting experiences as the local country teams brought us around to eat local food and shared us how they lived their daily lives.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/dimsum.jpg&quot; alt=&quot;HK&quot; /&gt;&lt;br /&gt;
+Michelle from the Hong Kong team took us to eat dim sum!&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;How did we recruit people for the user interviews?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Targeting the right audience is important for us to get accurate insights. If we’d like to speak to existing users, we look at reaching out to our existing Carousell community who fulfilled the criteria (For example, recruiting Carousellers who signed up but did not list). If we wanted to speak with people who’ve never heard of or used Carousell before, we try to recruit people on local forums (lelong.com.my for M’sia) and social media (Facebook) through a series of screening questions.&lt;/p&gt;
+
+&lt;p&gt;Afterwards, it’s a process of confirming the time and place with them via whatever messaging apps they use, be it WhatsApp or WeChat (for Malaysia), or Viber (for Philippines).&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;How are the user interviews conducted?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;You can usually find us at a cafe conducting these interviews — our best bet is almost always Starbucks because it’s relatively well-known and there is internet connection (most of the time).&lt;/p&gt;
+
+&lt;p&gt;If we face language barriers, we are fortunate to be able to get the help of our local country teams to help us in doing the interviews!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/userresearch3.jpg&quot; alt=&quot;HK&quot; /&gt;&lt;br /&gt;
+Hong Kong user interview at a Starbucks.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;What happens after?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Rita, the product designer, and I would block off some time asap to consolidate the insights so that we don’t forget. We also follow a couple of tips from &lt;a href=&quot;http://www.gv.com/sprint/&quot;&gt;Google’s Design Sprint&lt;/a&gt;, asking How Might We questions, and also speaking with the local teams (Ask The Experts) to get more understanding of the insights we’ve gotten from chatting with our users.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/userresearch5.jpg&quot; alt=&quot;Ask the experts&quot; /&gt;&lt;br /&gt;
+Jing Zhi, our Growth Marketer coming in via a ‘Ask The Experts’ session to give insights.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;One of the problems we found: “I don’t list something for sale because I don’t have time”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While this sounds like a valid reason from our research, we assumed this came from a bigger problem: &lt;i&gt;“I don’t understand the value I would get from selling.”&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Perceived value &amp;lt; perceived effort &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;People did not know if the value of listing an item would be higher than the effort needed to list. Hence they might have used lack of time as an excuse. Think back on your own experiences; if you really wanted to do something, even if the friction was high, wouldn’t you most likely try to do all you can to achieve what you wanted to?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/userresearch6.jpg&quot; alt=&quot;Brainstorm&quot; /&gt;&lt;br /&gt;
+Team brainstorming for solutions, by asking a series of ‘How Might We’.&lt;/p&gt;
+
+&lt;p&gt;Learning the concept of Psych, as shared by &lt;a href=&quot;http://andrewchen.co/psychd-funnel-conversion/&quot;&gt;Darius Contractor from Dropbox&lt;/a&gt;, we also asked ourselves - &lt;i&gt;How might we motivate and encourage a person to list his/her first item soonest?&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;This led us to come up with an onboarding solution, where we showed new users a section with successfully sold listings after they signed up for an account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/soldsection.jpg&quot; alt=&quot;Sold Section&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a person with intent to sell, and lands on the home screen, he/she would be greeted with a couple examples of how much others have earned from selling on Carousell, and how fast they got their items sold.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Hypothesis: 
+If successful, sign up to first time lister conversion will increase because users are now more convinced by social proof, of the value they can get out of listing an item for sale.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We ran it as an A/B test and got a significant uplift in the conversion to first time listers!&lt;/p&gt;
+
+&lt;p&gt;Once in a while, we find that gleaming user insights doesn’t have to be so structured, so we’d organise a casual meet-up with our community, just to have a chat with them and understand overall problems that they face with using Carousell. I find that a mixture of this plus user interviews help us to gain a more holistic view of the problems that people face with using Carousell!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/userresearch2.jpg&quot; alt=&quot;MY Meetup&quot; /&gt;&lt;br /&gt;
+A community meet-up we did in Johor Bahru, Malaysia.&lt;/p&gt;
+
+&lt;p&gt;Carousell is looking to expand our Product team to inspire the world to start selling! If you’re excited about solving problems through user research and data to make impact on millions, give me a ping, or &lt;a href=&quot;https://careers.carousell.com&quot;&gt;take a look at our available positions here&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">At Carousell, each Product team owns a user journey, and I currently work with the team to look at the Community aspect of Carousell. I was previously working on New Seller Success, which focused on getting a new user to his/her first successful sale.</summary></entry><entry><title type="html">Amazon Go for public transportation please!</title><link href="http://huiyichia.com/blog/iot/" rel="alternate" type="text/html" title="Amazon Go for public transportation please!" /><published>2018-06-16T00:00:00+08:00</published><updated>2018-06-16T00:00:00+08:00</updated><id>http://huiyichia.com/blog/iot</id><content type="html" xml:base="http://huiyichia.com/blog/iot/">&lt;p&gt;Was on the bus today when I spent a good few minutes fumbling my bag to find my ez-link card.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -58,7 +159,7 @@
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;Perhaps it’s on the onus on mobile operation system companies to streamline this, as they have access to the masses and consumers use them most frequently in our day-to-day lives. And why should they do it? It should result in increased engagement with their OSes, they can acquire more data about their consumers, which can be leveraged on to improve user experience, and also leads to monetisation opportunities.&lt;/p&gt;</content><summary type="html">Was on the bus today when I spent a good few minutes fumbling my bag to find my ez-link card.</summary></entry><entry><title type="html">My experience of using Snap Maps</title><link href="/blog/snapmaps/" rel="alternate" type="text/html" title="My experience of using Snap Maps" /><published>2017-06-25T00:00:00+08:00</published><updated>2017-06-25T00:00:00+08:00</updated><id>/blog/snapmaps</id><content type="html" xml:base="/blog/snapmaps/">&lt;p&gt;I heard about Snap Maps through a friend who showed me how to access the feature (“It’s so hidden, who would find the feature?”)&lt;/p&gt;
+&lt;p&gt;Perhaps it’s on the onus on mobile operation system companies to streamline this, as they have access to the masses and consumers use them most frequently in our day-to-day lives. And why should they do it? It should result in increased engagement with their OSes, they can acquire more data about their consumers, which can be leveraged on to improve user experience, and also leads to monetisation opportunities.&lt;/p&gt;</content><summary type="html">Was on the bus today when I spent a good few minutes fumbling my bag to find my ez-link card.</summary></entry><entry><title type="html">My experience of using Snap Maps</title><link href="http://huiyichia.com/blog/snapmaps/" rel="alternate" type="text/html" title="My experience of using Snap Maps" /><published>2017-06-25T00:00:00+08:00</published><updated>2017-06-25T00:00:00+08:00</updated><id>http://huiyichia.com/blog/snapmaps</id><content type="html" xml:base="http://huiyichia.com/blog/snapmaps/">&lt;p&gt;I heard about Snap Maps through a friend who showed me how to access the feature (“It’s so hidden, who would find the feature?”)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -134,7 +235,7 @@ Much cultural and privacy challenges ahead.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;Looking forward to more from Snap.&lt;/p&gt;</content><summary type="html">I heard about Snap Maps through a friend who showed me how to access the feature (“It’s so hidden, who would find the feature?”)</summary></entry><entry><title type="html">SXSW 2017</title><link href="/blog/sxsw-takeaways/" rel="alternate" type="text/html" title="SXSW 2017" /><published>2017-03-26T00:00:00+08:00</published><updated>2017-03-26T00:00:00+08:00</updated><id>/blog/sxsw-takeaways</id><content type="html" xml:base="/blog/sxsw-takeaways/">&lt;p&gt;South by Southwest this year was nothing short of amazing, but this comes from a person that has only attended it for the 2nd time. Others who’ve been there multiple times might speak a different story.&lt;/p&gt;
+&lt;p&gt;Looking forward to more from Snap.&lt;/p&gt;</content><summary type="html">I heard about Snap Maps through a friend who showed me how to access the feature (“It’s so hidden, who would find the feature?”)</summary></entry><entry><title type="html">SXSW 2017</title><link href="http://huiyichia.com/blog/sxsw-takeaways/" rel="alternate" type="text/html" title="SXSW 2017" /><published>2017-03-26T00:00:00+08:00</published><updated>2017-03-26T00:00:00+08:00</updated><id>http://huiyichia.com/blog/sxsw-takeaways</id><content type="html" xml:base="http://huiyichia.com/blog/sxsw-takeaways/">&lt;p&gt;South by Southwest this year was nothing short of amazing, but this comes from a person that has only attended it for the 2nd time. Others who’ve been there multiple times might speak a different story.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -230,7 +331,7 @@ Much cultural and privacy challenges ahead.&lt;/p&gt;
 
 &lt;p&gt;Grateful for the opportunity to be back there, together with the Product team!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/productteam.JPG&quot; alt=&quot;Product team&quot; /&gt;&lt;/p&gt;</content><summary type="html">South by Southwest this year was nothing short of amazing, but this comes from a person that has only attended it for the 2nd time. Others who’ve been there multiple times might speak a different story.</summary></entry><entry><title type="html">Just get out there and start asking.</title><link href="/blog/just-get-out-there/" rel="alternate" type="text/html" title="Just get out there and start asking." /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>/blog/just-get-out-there</id><content type="html" xml:base="/blog/just-get-out-there/">&lt;p&gt;Honestly, it’s been a long time since I went out to ask for feedback on our product. Today, I went out with a fellow teammate and we’ve got super valuable insights for validating our prototypes. To my surprise, it was quite easy, and also insightful to get a different perspective. I’ve forgotten how fun it can be to talk to users.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/productteam.JPG&quot; alt=&quot;Product team&quot; /&gt;&lt;/p&gt;</content><summary type="html">South by Southwest this year was nothing short of amazing, but this comes from a person that has only attended it for the 2nd time. Others who’ve been there multiple times might speak a different story.</summary></entry><entry><title type="html">Just get out there and start asking.</title><link href="http://huiyichia.com/blog/just-get-out-there/" rel="alternate" type="text/html" title="Just get out there and start asking." /><published>2017-01-15T00:00:00+08:00</published><updated>2017-01-15T00:00:00+08:00</updated><id>http://huiyichia.com/blog/just-get-out-there</id><content type="html" xml:base="http://huiyichia.com/blog/just-get-out-there/">&lt;p&gt;Honestly, it’s been a long time since I went out to ask for feedback on our product. Today, I went out with a fellow teammate and we’ve got super valuable insights for validating our prototypes. To my surprise, it was quite easy, and also insightful to get a different perspective. I’ve forgotten how fun it can be to talk to users.&lt;/p&gt;
 
 &lt;p&gt;This prompted me to want to share a couple of things we’ve been doing to gather user feedback at Carousell:&lt;/p&gt;
 
@@ -273,7 +374,7 @@ In the early days of Carousell, the founders went to flea markets at *SCAPE and 
 
 &lt;p&gt;Today was a timely reminder that I’ve forgotten to talk to users.&lt;/p&gt;
 
-&lt;p&gt;I don’t think we’ve done enough, and I believe we can do better.&lt;/p&gt;</content><summary type="html">Honestly, it’s been a long time since I went out to ask for feedback on our product. Today, I went out with a fellow teammate and we’ve got super valuable insights for validating our prototypes. To my surprise, it was quite easy, and also insightful to get a different perspective. I’ve forgotten how fun it can be to talk to users.</summary></entry><entry><title type="html">I want Snap’s Spectacles.</title><link href="/blog/spectacles-launch/" rel="alternate" type="text/html" title="I want Snap's Spectacles." /><published>2016-11-14T00:00:00+08:00</published><updated>2016-11-14T00:00:00+08:00</updated><id>/blog/spectacles-launch</id><content type="html" xml:base="/blog/spectacles-launch/">&lt;p&gt;I want Snap’s Spectacles.&lt;/p&gt;
+&lt;p&gt;I don’t think we’ve done enough, and I believe we can do better.&lt;/p&gt;</content><summary type="html">Honestly, it’s been a long time since I went out to ask for feedback on our product. Today, I went out with a fellow teammate and we’ve got super valuable insights for validating our prototypes. To my surprise, it was quite easy, and also insightful to get a different perspective. I’ve forgotten how fun it can be to talk to users.</summary></entry><entry><title type="html">I want Snap’s Spectacles.</title><link href="http://huiyichia.com/blog/spectacles-launch/" rel="alternate" type="text/html" title="I want Snap's Spectacles." /><published>2016-11-14T00:00:00+08:00</published><updated>2016-11-14T00:00:00+08:00</updated><id>http://huiyichia.com/blog/spectacles-launch</id><content type="html" xml:base="http://huiyichia.com/blog/spectacles-launch/">&lt;p&gt;I want Snap’s Spectacles.&lt;/p&gt;
 
 &lt;p&gt;I wanted to be one of the first to get my hands on it.&lt;/p&gt;
 
@@ -311,7 +412,7 @@ The second drop at Big Sur was assumed to be Snap bringing its users to make a l
 
 &lt;p&gt;&lt;img src=&quot;/assets/snapchatlandingpage.png&quot; alt=&quot;Snapchat&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Where will the next location be?&lt;/p&gt;</content><summary type="html">I want Snap’s Spectacles.</summary></entry><entry><title type="html">Twitter Lists</title><link href="/blog/twitter-lists/" rel="alternate" type="text/html" title="Twitter Lists" /><published>2016-06-25T00:00:00+08:00</published><updated>2016-06-25T00:00:00+08:00</updated><id>/blog/twitter-lists</id><content type="html" xml:base="/blog/twitter-lists/">&lt;p&gt;I am a big user of Twitter’s Lists feature.
+&lt;p&gt;Where will the next location be?&lt;/p&gt;</content><summary type="html">I want Snap’s Spectacles.</summary></entry><entry><title type="html">Twitter Lists</title><link href="http://huiyichia.com/blog/twitter-lists/" rel="alternate" type="text/html" title="Twitter Lists" /><published>2016-06-25T00:00:00+08:00</published><updated>2016-06-25T00:00:00+08:00</updated><id>http://huiyichia.com/blog/twitter-lists</id><content type="html" xml:base="http://huiyichia.com/blog/twitter-lists/">&lt;p&gt;I am a big user of Twitter’s Lists feature.
 In fact, it is the only way I read my Twitter feed. I like to break my feed down into different areas of interest, and the tweets often seem like they’re grouped in small bunches such that I can catch up with news more easily.&lt;/p&gt;
 
 &lt;p&gt;I use TweetDeck to get my dose of tweets, separated into lists that I curate myself.&lt;/p&gt;
@@ -382,7 +483,7 @@ So I got to the Create New List page.&lt;/p&gt;
 &lt;p&gt;There are probably other cases I didn’t consider for, such as having 0 lists, but this was a quick idea off the top of my head that I wanted to do specific to my own use case.&lt;/p&gt;
 
 &lt;p&gt;While I am not an active follower of Twitter’s plans as a company, I hope to see Twitter investing more into its Lists feature, amongst its other improvements (that include video consumption, more advertising tools, etc). But of course, that is with the understanding that the awareness and usage of Twitter Lists will first have to be worked on.&lt;/p&gt;</content><summary type="html">I am a big user of Twitter’s Lists feature.
-In fact, it is the only way I read my Twitter feed. I like to break my feed down into different areas of interest, and the tweets often seem like they’re grouped in small bunches such that I can catch up with news more easily.</summary></entry><entry><title type="html">I consume content.</title><link href="/blog/usergen-content/" rel="alternate" type="text/html" title="I consume content." /><published>2016-05-01T00:00:00+08:00</published><updated>2016-05-01T00:00:00+08:00</updated><id>/blog/usergen-content</id><content type="html" xml:base="/blog/usergen-content/">&lt;p&gt;I love the internet.&lt;/p&gt;
+In fact, it is the only way I read my Twitter feed. I like to break my feed down into different areas of interest, and the tweets often seem like they’re grouped in small bunches such that I can catch up with news more easily.</summary></entry><entry><title type="html">I consume content.</title><link href="http://huiyichia.com/blog/usergen-content/" rel="alternate" type="text/html" title="I consume content." /><published>2016-05-01T00:00:00+08:00</published><updated>2016-05-01T00:00:00+08:00</updated><id>http://huiyichia.com/blog/usergen-content</id><content type="html" xml:base="http://huiyichia.com/blog/usergen-content/">&lt;p&gt;I love the internet.&lt;/p&gt;
 
 &lt;p&gt;It allows me to check out content created and shared by people everywhere.&lt;/p&gt;
 
@@ -414,7 +515,7 @@ When selling online, people spend more time to take photos of the items to ensur
 
 &lt;p&gt;Of course, convenience might be a double-edged sword, whereby people start to curate their content to the extent where authenticity of content can be questioned, plus it could also result in the abuse of creation of content.&lt;/p&gt;
 
-&lt;p&gt;In any case, the more accessible the Internet gets, the more we get to learn and explore about everything around the world. The more convenient the Internet gets, the more quality content we can get to expect.&lt;/p&gt;</content><summary type="html">I love the internet.</summary></entry><entry><title type="html">It’s exciting, because you’re trying to solve problems that no one else has done before.</title><link href="/blog/its-exciting/" rel="alternate" type="text/html" title="It’s exciting, because you’re trying to solve problems that no one else has done before." /><published>2016-04-14T00:00:00+08:00</published><updated>2016-04-14T00:00:00+08:00</updated><id>/blog/its-exciting</id><content type="html" xml:base="/blog/its-exciting/">&lt;p&gt;And then if you fail, it’s okay.&lt;/p&gt;
+&lt;p&gt;In any case, the more accessible the Internet gets, the more we get to learn and explore about everything around the world. The more convenient the Internet gets, the more quality content we can get to expect.&lt;/p&gt;</content><summary type="html">I love the internet.</summary></entry><entry><title type="html">It’s exciting, because you’re trying to solve problems that no one else has done before.</title><link href="http://huiyichia.com/blog/its-exciting/" rel="alternate" type="text/html" title="It’s exciting, because you’re trying to solve problems that no one else has done before." /><published>2016-04-14T00:00:00+08:00</published><updated>2016-04-14T00:00:00+08:00</updated><id>http://huiyichia.com/blog/its-exciting</id><content type="html" xml:base="http://huiyichia.com/blog/its-exciting/">&lt;p&gt;And then if you fail, it’s okay.&lt;/p&gt;
 
 &lt;p&gt;You fall fast, but you learn so much more from the experience itself.&lt;/p&gt;
 
@@ -436,7 +537,7 @@ When selling online, people spend more time to take photos of the items to ensur
 
 &lt;p&gt;You got better by learning from experience. You enjoyed the process of learning. You enjoyed discovering new ways to tackle the obstacles that come your way.&lt;/p&gt;
 
-&lt;p&gt;As long as you are getting better than the year before, the month before, or the day before, it doesn’t matter by how much, you’re improving.&lt;/p&gt;</content><summary type="html">And then if you fail, it’s okay.</summary></entry><entry><title type="html">Put up all the user flows!</title><link href="/blog/Design-boards/" rel="alternate" type="text/html" title="Put up all the user flows!" /><published>2015-06-23T00:00:00+08:00</published><updated>2015-06-23T00:00:00+08:00</updated><id>/blog/Design-boards</id><content type="html" xml:base="/blog/Design-boards/">&lt;p&gt;One can never have enough wall space for brainstorming for ideas. I thought to share how I made some boards that are used by our design team, mainly for user research and mapping of user flows. I was super inspired by &lt;a href=&quot;http://www.daylightdesign.com/ikeahack/&quot;&gt;this piece&lt;/a&gt; so I went ahead to make some.&lt;/p&gt;
+&lt;p&gt;As long as you are getting better than the year before, the month before, or the day before, it doesn’t matter by how much, you’re improving.&lt;/p&gt;</content><summary type="html">And then if you fail, it’s okay.</summary></entry><entry><title type="html">Put up all the user flows!</title><link href="http://huiyichia.com/blog/Design-boards/" rel="alternate" type="text/html" title="Put up all the user flows!" /><published>2015-06-23T00:00:00+08:00</published><updated>2015-06-23T00:00:00+08:00</updated><id>http://huiyichia.com/blog/Design-boards</id><content type="html" xml:base="http://huiyichia.com/blog/Design-boards/">&lt;p&gt;One can never have enough wall space for brainstorming for ideas. I thought to share how I made some boards that are used by our design team, mainly for user research and mapping of user flows. I was super inspired by &lt;a href=&quot;http://www.daylightdesign.com/ikeahack/&quot;&gt;this piece&lt;/a&gt; so I went ahead to make some.&lt;/p&gt;
 
 &lt;p&gt;Since IKEA Benjamin stools were not in production anymore, we decided to use crates instead. The most challenging part of this mini DIY project was just the sawing of the slots for the boards. Once we got past that it’s more or less complete.&lt;/p&gt;
 
@@ -462,65 +563,4 @@ When selling online, people spend more time to take photos of the items to ensur
 
 &lt;p&gt;This wouldn’t have been possible without the help of a few of my buddies, who helped brought back the boards to the office and with the sawing of crates. Have fun!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Gify.gif&quot; alt=&quot;Board&quot; /&gt;&lt;/p&gt;</content><summary type="html">One can never have enough wall space for brainstorming for ideas. I thought to share how I made some boards that are used by our design team, mainly for user research and mapping of user flows. I was super inspired by this piece so I went ahead to make some.</summary></entry><entry><title type="html">Let me know if it’s perfect!</title><link href="/blog/Let-me-know/" rel="alternate" type="text/html" title="Let me know if it's perfect!" /><published>2015-05-25T00:00:00+08:00</published><updated>2015-05-25T00:00:00+08:00</updated><id>/blog/Let-me-know</id><content type="html" xml:base="/blog/Let-me-know/">&lt;p&gt;Yesterday, I wote a list of resources that I visit and while I tried to explain why I liked Product Hunt, it got me mulling more over about the interactions that happen on Product Hunt itself.&lt;/p&gt;
-
-&lt;p&gt;Technology dehumanizes experiences, as we all know, to a certain extent. Instead of talking to each other during lunches and gatherings, we are glued to our tiny screens, choosing to interact with other people on social media instead.&lt;/p&gt;
-
-&lt;p&gt;I too, am guilty of doing that :(&lt;/p&gt;
-
-&lt;p&gt;For products and services offering customer support, it also results in dry standard replies when I reach out to certain services - it is so obvious that I’m getting a template reply which you don’t even care less about to help me. And it’s not helping.&lt;/p&gt;
-
-&lt;p&gt;Even at work, when my teammates are just sitting right beside me, I ‘Slack’ them up.&lt;/p&gt;
-
-&lt;p&gt;So how does all these relate to me loving Product Hunt as a product?
-&lt;br /&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Quality of interactions&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Paradoxically, while technology dehumanizes experiences, it is the very same tool that connects people together, through ways that might not have been possible if not for its existence. We get to keep in touch with loved ones across the globe, interact with remote team members, and even use Periscope, Meerkat to live stream and experience events happening all around the world.&lt;/p&gt;
-
-&lt;p&gt;When users interacts with an app, a software, they can’t tell who’s behind it. How do they put a face to who or what they’re interacting with if all they’re doing are tapping on screens and interacting with the user interface?&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&amp;lt;/br&amp;gt;
-&lt;b&gt;Build delightful interactions for your users&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Small but effective copy tweaks, putting smiley faces :) and surprising them with out-of-the-norm interactions will make them remember your product, and they’ll eventually realise that there’s humans working behind all this technology. This is why &lt;a href=&quot;http://littlebigdetails.com&quot;&gt;this website&lt;/a&gt; brings me so much inspiration!&lt;/p&gt;
-
-&lt;p&gt;One instance I can think of that delighted me is Snapchat; on the Stories screen, pulling the screen down brings up their dancing ghost. Pulling it upwards shows a super cute animation of ghosts flying off the screen.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&amp;lt;/br&amp;gt;
-&lt;b&gt;Let me know if it’s perfect!&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;This is also why I believe between two similar products, the customer’s experience will be the key differentiating factor to making the customer choose your product over the other. Does the company truly care to help you solve any difficulties you faced? Or they simply redirect you to an FAQ page with answers that barely make any sense?&lt;/p&gt;
-
-&lt;p&gt;Zappos encourages its customer support reps to &lt;a href=&quot;http://www.businessinsider.com/zappos-customer-service-crm-2012-1&quot;&gt;go out of their way&lt;/a&gt; to help their customers, even if it doesn’t really concern them. Munchery refunded me my dinner money even though I cancelled my order pretty last minute, like an hour before delivery. And this was done through live chat, done in less than 15 minutes.&lt;/p&gt;
-
-&lt;p&gt;Another example I’d like to share is Wufoo, where I was inspired by one of their very first Christmas efforts for their users…&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;What’s interesting is we started this practice as a result of the early days of starting Wufoo. Chris, Ryan, and I (Kevin) were talking to try to figure out what we were going to do to show users that we appreciated them around Christmas, and Chris came up with this idea where he said, &lt;i&gt;“Hey guys, a couple years ago my mom made me write thank you letters to all my relatives for my Christmas presents, and I really didn’t like to do it, but the following year all my presents were super good… so I think we should try this for our business and see how it goes.”&lt;/i&gt;
-&lt;br /&gt;&amp;lt;/br&amp;gt;So that first year we wrote handwritten Christmas cards to all of our users that first year. Second year rolls around, and we have too many customers with just the three founders. We were thinking, &lt;i&gt;“We’re kind of screwed; we don’t know what we’re going to do.”&lt;/i&gt; Well, we read a book called The Ultimate Question and in it, he talks about focusing on your most profitable users; if you just take care of them, things will work out. So we thought, &lt;i&gt;“That will work out, that’s scalable.”&lt;/i&gt; Basically we only wrote to our highest-paying customers. &lt;br /&gt;&amp;lt;/br&amp;gt;So January rolls around that second year and one of our longtime loyal users writes to us. He basically says, &lt;i&gt;“Hey guys I really loved the Christmas card you guys sent me the first year, and I just wanted you to know, I haven’t received my second card yet and I’m just looking forward to it; I know you didn’t forget about me. Thanks a lot.”&lt;/i&gt; So we were like, fuck. The best way to exceed expectations is not to set any in the beginning; we were sort of in this conundrum. What we decided after thinking about it for a while was that we had to stop doing it just one time a year; it needs to be something that happens every sort of week. And even though we’ll never catch up to all of our customers, just a practice of doing it will make all the difference.&amp;lt;/quote&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;i&gt;From Sam Altman’s How to Start a Startup: &lt;a href=&quot;http://startupclass.samaltman.com/courses/lec07/&quot;&gt;How to Build a Product Users Love&lt;/a&gt;&lt;/i&gt;
-&lt;br /&gt;&amp;lt;/br&amp;gt;
-There’s always a choice whether or not the company chooses to go out of the way to provide a memorable customer experience. While I understand not all companies have the kind of budget to do whatever they want, at least the intention of helping your customers should be present, not because you have to do it. &lt;i&gt;There’s always a choice.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/philz.png&quot; alt=&quot;Philz&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It’s also partly why I go back to Philz every time - not only for the coffee, but for the friendly interaction that each cup of coffee brings. After handing me my sweet and creamy Silken Splendor, the barista (almost) always asks &lt;i&gt;‘Let me know if it’s perfect!’&lt;/i&gt; - just this small interaction makes me feel that my purchase is more than just a transaction, but it’s also a way of engaging with the customer and leaving an impression.&lt;/p&gt;
-
-&lt;p&gt;With so many products and service vying for your attention out there in the wild, this is also why I feel that this core competency of customer support should not be outsourced - the extra effort to interact with the customers like they’re your friends can leave a lasting impression on them for a long time to come.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&amp;lt;/br&amp;gt;
-&lt;b&gt;Product Hunt improves online experiences with the quality of interactions.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/phfeedback.png&quot; alt=&quot;ProductHunt&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On Product Hunt, users who leave comments are &lt;i&gt;keen to help the product improve&lt;/i&gt;, not criticise its shortcomings. Users try out the product and give feedback, and even bring similar products to the founder’s attention. From the founders who had their products ‘hunted’, some actively establish &lt;i&gt;why&lt;/i&gt; they built the product, and engage with those who are curious about their product.&lt;/p&gt;
-
-&lt;p&gt;Is this because of its initial (and still ongoing) exclusivity? Starting out, by only engaging those with a desire to help and support the community, it lays the foundation for positive feedback that will serve to benefit most, including those like myself, who are currently unable to post products, or comment. These are also the people who care most about the community. By positive feedback, I do not mean painting a pretty picture to mask the shortcomings, but insightful and actionable feedback that everyone can learn from.&lt;/p&gt;
-
-&lt;p&gt;Simple questions like - &lt;i&gt;‘Why did you choose to build X this way?’&lt;/i&gt; or &lt;i&gt;‘Have you tried to do Y? From my experience it’ll help improve your product!’&lt;/i&gt; prompts both the founder and the community to always go back to thinking why and how this particular product can better solve the problem it was built for.&lt;/p&gt;
-
-&lt;p&gt;At least that’s what I think! Product Hunt engages the most helpful and valuable community I’ve seen so far, and it’s great to know that &lt;a href=&quot;https://medium.com/@rrhoover/stay-classy-internet-b9f0d8b35321&quot;&gt;Ryan Hoover wants the same friendly community for Product Hunt too&lt;/a&gt;. And I hope it’ll continue to improve and maintain the standard even when it rolls out to the public in the future. Excited for it.&lt;/p&gt;</content><summary type="html">Yesterday, I wote a list of resources that I visit and while I tried to explain why I liked Product Hunt, it got me mulling more over about the interactions that happen on Product Hunt itself.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/assets/Gify.gif&quot; alt=&quot;Board&quot; /&gt;&lt;/p&gt;</content><summary type="html">One can never have enough wall space for brainstorming for ideas. I thought to share how I made some boards that are used by our design team, mainly for user research and mapping of user flows. I was super inspired by this piece so I went ahead to make some.</summary></entry></feed>
