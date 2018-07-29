@@ -1,8 +1,7 @@
 var CACHE_NAME = 'huiyi-site';
 var urlsToCache = [
-  '/',
-  '/styles/main.css',
-  '/script/main.js'
+  'https://huiyichia.com/assets/css/main.css',
+  'https://huiyichia.com/assets/css/noscript.css'
 ];
 
 
