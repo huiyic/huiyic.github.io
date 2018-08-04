@@ -13,7 +13,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://huiyichia.com/",
   "background_color": "#404341",
   "display": "standalone",
   "scope": "/",
