@@ -18,11 +18,7 @@ self.addEventListener('install', event => {
       .then(self.skipWaiting())
   );
     
-// DevTools opening will trigger these o-i-c requests, which this SW can't handle.
-// https://github.com/paulirish/caltrainschedule.io/issues/49
-  if (request.PRECACHE === 'only-if-cached' && request.mode !== 'same-origin') return;
 
-});
 
 // The activate handler takes care of cleaning up old caches.
 self.addEventListener('activate', event => {
@@ -49,9 +45,6 @@ self.addEventListener('fetch', event => {
         if (cachedResponse) {
           return cachedResponse;
         }
-          // DevTools opening will trigger these o-i-c requests, which this SW can't handle.
-          // https://github.com/paulirish/caltrainschedule.io/issues/49
-          if (request.PRECACHE === 'only-if-cached' && request.mode !== 'same-origin') return;
 
         return caches.open(RUNTIME).then(cache => {
           return fetch(event.request).then(response => {
@@ -62,6 +55,7 @@ self.addEventListener('fetch', event => {
           });
         });
       })
+        
     );
   }
 });
