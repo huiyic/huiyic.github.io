@@ -20,7 +20,7 @@ self.addEventListener('install', event => {
     
 // DevTools opening will trigger these o-i-c requests, which this SW can't handle.
 // https://github.com/paulirish/caltrainschedule.io/issues/49
-  if (e.request.cache === 'only-if-cached' && e.request.mode !== 'same-origin') return;
+  if (request.cache === 'only-if-cached' && e.request.mode !== 'same-origin') return;
 
 });
 
@@ -51,7 +51,7 @@ self.addEventListener('fetch', event => {
         }
           // DevTools opening will trigger these o-i-c requests, which this SW can't handle.
           // https://github.com/paulirish/caltrainschedule.io/issues/49
-          if (e.request.cache === 'only-if-cached' && e.request.mode !== 'same-origin') return;
+          if (request.cache === 'only-if-cached' && request.mode !== 'same-origin') return;
 
         return caches.open(RUNTIME).then(cache => {
           return fetch(event.request).then(response => {
