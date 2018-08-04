@@ -20,7 +20,7 @@ self.addEventListener('install', event => {
     
 // DevTools opening will trigger these o-i-c requests, which this SW can't handle.
 // https://github.com/paulirish/caltrainschedule.io/issues/49
-  if (request.cache === 'only-if-cached' && e.request.mode !== 'same-origin') return;
+  if (request.cache === 'only-if-cached' && request.mode !== 'same-origin') return;
 
 });
 
