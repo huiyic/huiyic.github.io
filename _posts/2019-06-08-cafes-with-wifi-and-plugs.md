@@ -23,6 +23,9 @@ Couple plugs available on the 2nd floor, haven't seen any on the 1st floor.
 The second floor is pretty conducive. The food is great too!
 
 <b>Grids and Circles (Outram Park)</b>
+
+![Grids and Circles](https://huiyichia.com/images/grid.png)
+
 A Japan inspired cafe, food here is delicious, vibes are chill and there's plugs and wifi. Total of 3 floors for you to choose and work at.
 
 <b>Monument Lifestyle (Tanjong Pagar)</b>
