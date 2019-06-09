@@ -24,7 +24,9 @@ The second floor is pretty conducive. The food is great too!
 
 <b>Grids and Circles (Outram Park)</b>
 
-![Grids and Circles](https://huiyichia.com/images/grid.png)
+![Grids and Circles](https://huiyichia.com/images/IMG_1075.JPG)
+
+![Grids and Circles](https://huiyichia.com/images/IMG_5751.JPG)
 
 A Japan inspired cafe, food here is delicious, vibes are chill and there's plugs and wifi. Total of 3 floors for you to choose and work at.
 
