@@ -11,7 +11,7 @@ Through our year bringing our community together with Groups, we learnt that amo
 
 At the time, we were focused on improving Groups engagement, hence we focused on the people already using Groups and researched on how they felt about the previous Groups user experience:
 
-![Research Findings](https://huiyichia.com/images/groups-problem.png)
+![Research Findings](https://huiyichia.com/images/groups-problem1.png)
 Findings from our user research.
 
 To summarise:
@@ -27,7 +27,7 @@ Hence, with the goal of improving groups engagement, we decided to test the hypo
 
 After brainstorming solutions together with the team, we decided on an experiment through changing the Groups tab to a <b>personalised feed</b>.
 
-### How was the personalisation done with data?
+## How was the personalisation done with data?
 
 Determining the business goal was crucial, as it helped us to focus on the segment of customers we were looking to serve. That in turn determined what problem we were trying to solve, and eventually formed  the basis of our solution.
 
@@ -37,13 +37,10 @@ In short: We wanted to increase engagement of existing customers, by making our 
 
 To personalise the feed, our data analyst, Yi Jun, put together a model that considered several customers' behaviours on Carousell. 
 
-• <i>What previous Groups were they browsing? </i> 
-
-• <i>What discussions were they interacting on? </i>
-
-• <i>What search terms did they use? </i> 
-
-• <i>What listings did they previously viewed or chatted on?</i> 
+1. <i>What previous Groups were they browsing? </i> 
+2. <i>What discussions were they interacting on? </i>
+3. <i>What search terms did they use? </i> 
+4. <i>What listings did they previously viewed or chatted on?</i> 
 
 Each data point helped us in customising an experience that is tailored to the customer.
 
@@ -55,18 +52,17 @@ Our product designer, Rita, did several iterations of the feed, including a list
 
 In the end, we decided on the 'card' format with the main intent that it would encourage more of a browsing + exploration behaviour.
 
-![Groups tab before and after](https://huiyichia.com/images/groups-before.png)
+![Groups tab before and after](https://huiyichia.com/images/groups-before1.png)
 <i>Before and after of the Groups tab.</i>
 
-### Let's begin the experiment!
+## Let's begin the experiment!
 
 On an AB test level, we saw a statistically significant increase in the average number of times a customer opened the Carousell app. Groups engagement <i>(defined by customer liking or commenting on a discussion)</i> also increased by about 50%.
 
 Seeing positive results, we rolled out the feed to all our customers and continued to observe our metrics:
 
-• Number of Group Engagers increased by about 40%, and
-
-• Number of Groups Weekly Active Users increased by more than 20%, both metrics sustaining their increase for the months to come.
+1. Number of Group Engagers increased by about 40%, and
+2. Number of Groups Weekly Active Users increased by more than 20%, both metrics sustaining their increase for the months to come.
 
 It proved our hypothesis that <b>relevant and quality content</b> is crucial in engaging a customer.
 
