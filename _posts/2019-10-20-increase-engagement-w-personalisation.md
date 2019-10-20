@@ -44,7 +44,7 @@ To personalise the feed, our data analyst, Yi Jun, put together a model that con
 
 Each data point helped us in customising an experience that is tailored to the customer.
 
-When designing the feed together with the team, we also thought about caching and how often the feed should refresh. <i>How would the load affect our database? Would customers find content fresh and new enough to visit everyday?</i>
+When designing the feed together with the team, we also thought about caching and how often the feed should refresh. <i>How would the load affect reliability of our systems? Would customers find content fresh and new enough to visit everyday?</i>
 
 With the constraints that we had, and research on other products with feed, we then decided that the feed be updated daily.
 
