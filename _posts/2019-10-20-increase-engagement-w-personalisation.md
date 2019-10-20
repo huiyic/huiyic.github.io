@@ -19,9 +19,9 @@ To summarise:
 ![Carousell problem](https://huiyichia.com/images/group-problems.png)
 <br><i>Problems segmented by user groups.</i>
 
-Hence, with the goal of improving groups engagement, we decided to test the hypothesis:
+Hence, with the goal of improving Groups engagement, we decided to test the hypothesis:
 
-> If successful, <b>groups engagement will increase by 20%</b> because <b>customers can now not only discover groups content much more easily</b>, but also because they find the <b>content relevant and of quality</b>. This will result in customers being inspired to come back and view more content.
+> If successful, <b>groups engagement will increase by 20%</b> because <b>customers can now not only discover Groups content much more easily</b>, but also because they find the <b>content relevant and of quality</b>. This will result in customers being inspired to come back and view more content.
 
 <i>This hypothesis framework was modified from one of the sessions from <a href="https://www.reforge.com/growth-series">Reforge's Growth Series</a>. </i>
 
@@ -33,7 +33,7 @@ Determining the business goal was crucial, as it helped us to focus on the segme
 
 For the MVP, we deliberately did not focus on trying to increase adoption of Groups, as we had the challenge of low quality content which we were concurrently trying to solve with other means. Instead, we were solely focused on increasing engagement of existing Groups customers. These were customers who found enough value to come back to Groups every so often, and we wanted to improve the frequency of that happening.
 
-In short: We wanted to increase engagement of existing customers, by making our existing group of customers even happier with the browsing experience.
+In short: We wanted to increase engagement of existing Groups customers, by making them even happier with the browsing experience.
 
 To personalise the feed, our data analyst, Yi Jun, put together a model that considered several customers' behaviours on Carousell. 
 
@@ -73,4 +73,4 @@ Looking back, there are things we could have done better:
 
 This wouldn't have been a successful experiment without our team mates Rita Wang, Amelia Anasthasia, Even Chang, Tao Yi Jun, Kim Silvoza, Yong Lian Hii, Kavitha Mohan, and Yao Hui Chua in the Community Experience team!
 
-<i>Thanks Bang Hui for reviewing and making drafts of this post better!</i>
+<i>Thanks Bang Hui and Jessica Chen for reviewing and making drafts of this post better!</i>
