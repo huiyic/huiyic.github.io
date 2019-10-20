@@ -12,12 +12,12 @@ Through our year bringing our community together with Groups, we learnt that amo
 At the time, we were focused on improving Groups engagement, hence we focused on the people already using Groups and researched on how they felt about the previous Groups user experience:
 
 ![Research Findings](https://huiyichia.com/images/groups-problem1.png)
-<br>Findings from our user research.
+<br><i>Findings from our user research.</i>
 
 To summarise:
 
 ![Carousell problem](https://huiyichia.com/images/group-problems.png)
-<br>Problems segmented by user groups.
+<br><i>Problems segmented by user groups.</i>
 
 Hence, with the goal of improving groups engagement, we decided to test the hypothesis:
 
