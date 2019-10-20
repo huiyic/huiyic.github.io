@@ -2414,7 +2414,7 @@
 /* Image */
 
 #options img {
-        width: 100%;
+        width: auto;
             
     }
 
