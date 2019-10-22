@@ -46,7 +46,7 @@ Each data point helped us in customising an experience that is tailored to the c
 
 When designing the feed together with the team, we also thought about caching and how often the feed should refresh. <i>How would the load affect reliability of our systems? Would customers find content fresh and new enough to visit everyday?</i>
 
-With the constraints that we had, and research on other products with feed, we then decided that the feed be updated daily.
+After consideration on engineering costs, we then decided that the feed be updated on a daily basis.
 
 Our product designer, Rita, did several iterations of the feed, including a list and card format. I would fondly remember us having many interesting discussions (debates?) about each solution, because I found merits in the list view while she did for the card view. Even as we did usability testing on both formats, customers that we spoke to had almost an equal preference on either format.
 
@@ -70,6 +70,7 @@ Looking back, there are things we could have done better:
 1. We could get qualitative feedback from customers on their experience with using the personalised feed. 
 2. There could have been iterations of the algorithm to improve relevancy for customers. 
 3. Would have loved an opportunity to further iterate this for new Carousell customers too, to increase adoption, as it would be exciting trying to solve a 'cold start' problem!
+4. If given more time, would have also loved to evaluate a 'list view' versus a 'card view' format.
 
 This wouldn't have been a successful experiment without our team mates Rita Wang, Amelia Anasthasia, Even Chang, Tao Yi Jun, Kim Silvoza, Yong Lian Hii, Kavitha Mohan, and Yao Hui Chua in the Community Experience team!
 
