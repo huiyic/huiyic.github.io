@@ -18,6 +18,18 @@
 		vertical-align: baseline;
 	}
 
+/* Media Query for Laptops and Desktops */ 
+        @media only screen and (min-width: 1025px) {
+    img {
+        margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline;
+        max-width: 680px;
+	}
+
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
