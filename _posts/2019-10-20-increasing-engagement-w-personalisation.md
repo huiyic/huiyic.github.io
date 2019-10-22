@@ -11,12 +11,12 @@ Through our year bringing our community together with Groups, we learnt that amo
 
 At the time, we were focused on improving Groups engagement, hence we focused on the people already using Groups and researched on how they felt about the previous Groups user experience:
 
-![Research Findings](https://huiyichia.com/images/groups-problem1.png)
+![Research Findings](https://huiyichia.com/images/groups-problem1a.png)
 <br><i>Findings from our user research.</i>
 
 To summarise:
 
-![Carousell problem](https://huiyichia.com/images/group-problems.png)
+![Carousell problem](https://huiyichia.com/images/group-problems1a.png)
 <br><i>Problems segmented by user groups.</i>
 
 Hence, with the goal of improving Groups engagement, we decided to test the hypothesis:
@@ -52,7 +52,7 @@ Our product designer, Rita, did several iterations of the feed, including a list
 
 In the end, we decided on the 'card' format with the main intent that it would encourage more of a browsing + exploration behaviour.
 
-![Groups tab before and after](https://huiyichia.com/images/groups-before1.png)
+![Groups tab before and after](https://huiyichia.com/images/groups-before1a.png)
 <br><i>Before and after of the Groups tab.</i>
 
 ## Let's begin the experiment!
