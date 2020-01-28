@@ -30,7 +30,7 @@ This was how we went about the prioritisation process:
 ![Prioritisation process](https://huiyichia.com/images/process.png)
 
 
-<b>1. Defining the Charter - "Transaction First, Social Second"</b>
+<b>1. Defining the Charter  -  "Transaction First, Social Second"</b>
 
 Deciding on the long-term direction of Carousell's chat helped us focus on what to improve on chat VS what we will not improve on.
 
@@ -63,8 +63,11 @@ Besides that, we also looked at competitors in different spaces, including socia
 Eventually, we utilised the Kano Framework Model in order to help with the prioritisation.
 
 According to the Kano Model:
+
 • Customers' <b>Satisfaction</b> with our product's features depends on the <b>level of Functionality</b> that is provided (how much or how well they're implemented);
+
 • <b>Features can be classified into four categories;</b>
+
 • You can <b>determine how customers feel about a feature through a questionnaire.</b>
 
 Source: <a href="https://foldingburritos.com/kano-model/">https://foldingburritos.com/kano-model/</a>
