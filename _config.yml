@@ -1,62 +1,35 @@
-# Site
-title:              Hui Yi
-bio:                Product Manager at Carousell, building Community and Growth products to inspire the world to start selling.
-description:        Product Manager at Carousell, building Community and Growth products to inspire the world to start selling.
-locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://huiyichia.com"
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    author:
+# Setup
+title:            Hydeout
+tagline:          'A Jekyll theme'
+description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+url:              https://fongandrew.github.io
+baseurl:          '/hydeout'
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
 
-# Jekyll
-permalink:          /blog/:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
-sass:
-  sass_dir:         _sass
-  style:            compressed
+author:
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
 
-# Comments
-disqus_shortname:   default
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
 
-# Social
-analytics-id:       "UA-48785002-1"
-twitter:            c_huiyi
-linkedin:           huiyichia
-github:             huiyic
-
-# personal
-location:           Singapore
-phone:              310-318-5555
-email:              hui.ychia@gmail.com
-
-# Gems
-gems:
-  - jekyll-mentions
-  - jekyll-sitemap
+plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
 
-paginate: 6
-paginate_path: "/blog/page:num/"
-
-jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
+# Sidebar link settings
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
