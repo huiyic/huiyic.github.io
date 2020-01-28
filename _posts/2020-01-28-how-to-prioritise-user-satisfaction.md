@@ -91,7 +91,6 @@ We found that many of the top feature requests from our users were seen as 'Attr
 Segmenting the responses according to user personas also validated certain assumptions about the different user behaviours that we had.
 
 ![User Segmented Results for Chat](https://huiyichia.com/images/segment.png)
-<br><i>Pro Sellers feel that the ability to search for messages is a 'Must-Have', while it's an 'Attractive' feature for Casuals sellers.</i>
 
 For instance, the ability to search for messages in an Inbox is a 'Must-Have' for paying users, but only an 'Attractive' one for casual users.
 
