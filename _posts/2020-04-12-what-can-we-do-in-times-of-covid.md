@@ -28,9 +28,11 @@ If we look at it from a global perspective:
 Street vendors in Jakarta continue to hawk to ensure they have food for their family the next day, despite the risk of contracting covid-19 while being out. What happens if they have no sales?
 
 <a href="https://www.bbc.com/news/world-asia-india-52086274">Coronavirus: India's pandemic lockdown turns into a human tragedy</a>
+
 India's lockdown resulted in displacement of its people, with many left unpaid by their employers. Millions of workers are walking days with little food or water to go back to their homes. How long can they last before they reach home? And what does reaching home mean for them?
 
 <a href="https://abcnews.go.com/Health/homeless-americans-unaware-coronavirus-shelters-scramble-adhere-guidelines/story?id=69962473">Some homeless Americans unaware of coronavirus as shelters scramble to adhere to guidelines</a>
+
 The homeless are especially vulnerable. Covid-19 cases sprout from homeless clusters due to overcrowding. There is also unawareness that covid-19 exists, so people aren't expected to deal with the situation appropriately.
 
 <b>What can we do to help?</b>
