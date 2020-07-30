@@ -7,11 +7,12 @@ Yes, circuit breaker in Singapore has produced many circuit bakers, and I am one
 
 Though, my interest in baking came way before COVID-19 and I had always been baking for friends around me.
 
-![Some bakes I made back in 2013.](https://huiyichia.com/images/scones3.png)
+![Some bakes I made back in 2013.](https://huiyichia.com/images/scones6.png)
+Some bakes I made back in 2013 for a Carousell party.
 
 So, a couple of weeks ago, I decided to set up my online bakeshop on Instagram: <a href="https://instagram.com/sconesandcream.sg">@sconesandcream.sg</a>. 
 
-![Instagram profile!](https://huiyichia.com/images/scones1.png)
+![Instagram profile!](https://huiyichia.com/images/scones7.png)
 
 ## Why did I decide to do it?
 
