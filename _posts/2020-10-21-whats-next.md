@@ -1,5 +1,5 @@
 ---
-title: Yes I have an Instagram business
+title: What's next
 layout: post
 ---
 
