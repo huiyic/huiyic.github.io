@@ -14,7 +14,7 @@ I had an amazing year at Silicon Valley with <a href="https://www.loopcommerce.c
 
 I've been incredibly lucky to have seen Carousell grow from a team of less than 10 to over 500. In my 5 years with <a href="https://carousell.com">Carousell's</a> Product team, I've worked on Growth, Community, Monetisation, Trust and Internal products, <a href="https://blog.carousell.com/new-carousell-chat-experience/">Chat</a>, <a href="https://blog.carousell.com/starting-discussions-on-groups/">Groups</a>, <a href="https://mobile.carousell.com">mobile web</a> and Buyer experiences.
 
-I enjoy reading books on <a href="https://www.goodreads.com/author/list/10538.Carl_Sagan">Cosmology</a> and wonder if I'll ever see extraterrestrials in my life time.<br> Occasionally, I <a href="https://instagram.com/sconesandcream.sg">bake</a>, and try not to poison people in the process. 
+I enjoy reading books on <a href="https://www.goodreads.com/author/list/10538.Carl_Sagan">Cosmology</a> and wonder if I'll ever see extraterrestrials in my life time. I <a href="https://instagram.com/sconesandcream.sg">bake</a> occasionally, and try not to poison people in the process. 
 
 I'm keen to explore the areas of building communities, social commerce, F&B, making social impact and marketplaces. <a href="mailto:hui.ychia@gmail.com">Say hi</a> if you'd like to chat! 
 
