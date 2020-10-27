@@ -10,12 +10,15 @@ I've had the opportunity to read <a href="https://www.navalmanack.com/"> The Alm
 The book is a consolidation of the insights of Naval, CEO of AngelList, and it has 3 broad topics.
 
 1. Wealth
+
 Wealth generates money for you even when you are asleep. To gain financial freedom, you cannot be a salaried worker your whole life. You have to own a piece of equity, or business. And you can get rich by giving society what it wants but does not know how to get. 
 
 2. Happiness
+
 Happiness can be learned. Happiness is there when you remove the sense of something missing in your life. Remember the times when you were a kid and you were usually happy all the time? It's because you were living in the moment, instead of thinking of what happened in the past, or fretting over what's going to happen in the future. 
 
 3. Philosophy
+
 What is the meaning of life? Naval talks about 3 possible ways to look at it, but I personally ascribe to each of us defining our own meaning in life.
 
 There is a piece in the book that wasn't the main takeaway of my reading, but this is what he mentioned: 
