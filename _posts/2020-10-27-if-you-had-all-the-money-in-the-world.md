@@ -41,7 +41,7 @@ Though opportunity cost is a real pain to consider for, because we are not train
 
 But why do people's expectations of you matter as compared to you finding what you truly love doing? It is okay to spend some time figuring out what you want to commit the next few years or decades of your life to, especially since big returns in life comes from compound interest.
 
-The challenge on accruing capital to start your own thing is also a reason why Sam Altman thinks that <a href="https://blog.samaltman.com/how-to-be-successful](https://blog.samaltman.com/how-to-be-successful">universal basic income will unlock more potential in humankind</a>. Some of us would stop the rat race and focus on what truly matters to us.
+The challenge on accruing capital to start your own thing is also a reason why Sam Altman thinks that <a href="https://blog.samaltman.com/how-to-be-successful">universal basic income will unlock more potential in humankind</a>. Some of us would stop the rat race and focus on what truly matters to us.
 
 So ask yourself (and your friends):
 
