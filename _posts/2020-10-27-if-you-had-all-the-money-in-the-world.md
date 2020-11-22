@@ -3,7 +3,7 @@ title: If you had all the money in the world, what would you be doing?
 layout: post
 ---
 
-I love asking this question to people, as it gives me an indicator of what truly motivates them in life. No one I asked who's currently in a salaried job would continue the current work they'd be doing. And I shan't spoiler you with their answers, so you can have the fun of answering this yourself and posing it to your friends.
+I love asking this question to people, as it gives me an indicator of what truly motivates them in life. Most people that I've asked would consider not to continue the current work they'd be doing. And I shan't spoiler you with their answers, so you can have the fun of answering this yourself and posing it to your friends.
 
 I've had the opportunity to read <a href="https://www.navalmanack.com/"> The Almanack of Naval Ravikant</a>, and it's one of the most insightful books that I've read in awhile. I re-read it quite often (and I'm usually not one to re-read books!)
 
@@ -27,7 +27,7 @@ There is a piece in the book that wasn't the main takeaway of my reading, but th
 
 It struck me that it is not very common (at least in my social circle) to get people to start their own thing (looking at the <a href="https://data.worldbank.org/indicator/SL.EMP.SELF.ZS?locations=SG">number of employed workers vs self-employed (~14%) in Singapore</a> today). 
 
-Don't get me wrong, there's nothing wrong with working for companies. You gain learning experiences and life-long friends out of it. There is stability. I was incredibly fortunate to have been in a company where I truly enjoyed my job and working with the people around me.
+Don't get me wrong, there's nothing wrong with working for companies. You deliver a lot of value to customers and make impact. You gain learning experiences and life-long friends out of it. There is stability. I was incredibly fortunate to have been in a company where I truly enjoyed my job and working with the people around me.
 
 I get that not everyone derives purpose in starting their own thing, but I wonder if it's an awareness problem, and the challenges that come with building your own company / brand.
 
