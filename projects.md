@@ -18,6 +18,7 @@ sidebar_link: true
     width: 180px;
     height: 180px;
     border-color: #c9c9c9;
+    border-radius: 10px;
     background-color: white;
     border-width: 0.5px;
     border-style: solid;
@@ -29,6 +30,7 @@ sidebar_link: true
   width: 658px;
   height: 180px;
   border-color: #c9c9c9;
+  border-radius: 10px;
   background-color: white;
   border-width: 0.5px;
   border-style: solid;
@@ -51,11 +53,12 @@ sidebar_link: true
 
 <div class="row">
   <div class="photoicon">
-    <h2>Column 1</h2>
+![The T Podcast](/assets/podcast.png)
   </div>
-  <div class="main-paragraph">
+  <div class="main-paragraph" href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
     <h2>The T Podcast</h2>
     <p>My friend and I talk about tech, media and the meaning of life. Join us on our weekly podcasts!</p>
+<a href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">![The T Podcast Listen](/assets/spotifybadge.png)</a>
   </div>
 </div>
 
@@ -65,9 +68,9 @@ sidebar_link: true
 
 <div class="row">
   <div class="photoicon">
-    <h2 style="vertical-align: top;">Column 1</h2>
+  ![orientates](/assets/orient.png)
   </div>
-  <div class="main-paragraph" >
+  <div class="main-paragraph" href="http://orientates.wordpress.com/">
     <h2>Orientates</h2>
     <p>A career awareness platform intended to raise awareness about working in tech. Still pretty nascent while I figure out what I want to do with this.</p>
   </div>
@@ -78,9 +81,9 @@ sidebar_link: true
 
 <div class="row">
   <div class="photoicon">
-    <h2 style="vertical-align: top;">Column 1</h2>
+![scones](/assets/scones.jpg)
   </div>
-  <div class="main-paragraph" >
+  <div class="main-paragraph" href="https://www.instagram.com/sconesandcream.sg/">
     <h2>Scones&cream.sg</h2>
     <p>My part-time hobby of selling bakes on Instagram. Started out as a personal problem where I couldn't find good scones in Singapore.</p>
   </div>
@@ -89,15 +92,9 @@ sidebar_link: true
 <div class="borderpadding"></div>
 
 
-<div class="row">
-  <div class="photoicon">
-    <h2 style="vertical-align: top;">Column 1</h2>
-  </div>
-  <div class="main-paragraph" >
-    <h2>YouTube</h2>
-    <p>My recordings of playing a musical instrument called the electone.</p>
-  </div>
-</div>
+<div>Other stuff put on hold:</div>
+1. <a href="https://www.youtube.com/channel/UC5VkoUoEzqzk0IcAs3qdM5A/">Tech Bites </a>
+2. <a href="https://www.youtube.com/user/kalo4521/about">YouTube of my music covers</a>
 
 </body>
 </html>
