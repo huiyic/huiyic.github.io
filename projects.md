@@ -4,7 +4,6 @@ title: Projects
 sidebar_link: true
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,7 +13,7 @@ sidebar_link: true
 }
 
 
-.icon {
+.photoicon {
     display: inline-block;
     width: 180px;
     height: 180px;
@@ -51,7 +50,7 @@ sidebar_link: true
 
 
 <div class="row">
-  <div class="icon">
+  <div class="photoicon">
     <h2>Column 1</h2>
   </div>
   <div class="main-paragraph">
@@ -65,7 +64,7 @@ sidebar_link: true
 
 
 <div class="row">
-  <div class="icon">
+  <div class="photoicon">
     <h2 style="vertical-align: top;">Column 1</h2>
   </div>
   <div class="main-paragraph" >
@@ -78,7 +77,7 @@ sidebar_link: true
 
 
 <div class="row">
-  <div class="icon">
+  <div class="photoicon">
     <h2 style="vertical-align: top;">Column 1</h2>
   </div>
   <div class="main-paragraph" >
@@ -91,7 +90,7 @@ sidebar_link: true
 
 
 <div class="row">
-  <div class="icon">
+  <div class="photoicon">
     <h2 style="vertical-align: top;">Column 1</h2>
   </div>
   <div class="main-paragraph" >
