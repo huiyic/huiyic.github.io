@@ -55,10 +55,12 @@ sidebar_link: true
   <div class="photoicon">
 <img src="/assets/podcast.png"></img>
   </div>
-  <div class="main-paragraph" href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
-    <h2 style="padding: 5px 0 0 5px;">The T Podcast</h2>
-    <p>My friend and I talk about tech, media and the meaning of life. Join us on our weekly podcasts!</p>
-<img ref="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D" src="/assets/spotifybadge.png"></img>
+  <a href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
+  <div class="main-paragraph">
+    <h2 style="padding: 10px 0 0 5px;">The T Podcast</h2>
+    <p style="padding: 10px 0 0 5px;">My friend and I talk about tech, media and the meaning of life. Join us on our weekly podcasts!</p>
+  <img style="width:30%; height=auto" ref="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D" src="/assets/spotifybadge.png"></img>
+  </a>
   </div>
 </div>
 
@@ -68,12 +70,14 @@ sidebar_link: true
 
 <div class="row">
   <div class="photoicon">
-  ![orientates](/assets/orient.png)
+  <img src="/assets/orient.png"></img>
   </div>
-  <div class="main-paragraph" href="http://orientates.wordpress.com/">
-    <h2>Orientates</h2>
-    <p>A career awareness platform intended to raise awareness about working in tech. Still pretty nascent while I figure out what I want to do with this.</p>
+  <a href="http://orientates.wordpress.com/">
+  <div class="main-paragraph" >
+    <h2 style="padding: 10px 0 0 5px;">Orientates</h2>
+    <p style="padding: 10px 0 0 5px;">A career awareness platform intended to raise awareness about working in tech. Still pretty nascent while I figure out what I want to do with this.</p>
   </div>
+  </a>
 </div>
 
 <div class="borderpadding"></div>
@@ -81,11 +85,13 @@ sidebar_link: true
 
 <div class="row">
   <div class="photoicon">
-![scones](/assets/scones.jpg)
+  <img src="/assets/scones.jpg"></img>
   </div>
-  <div class="main-paragraph" href="https://www.instagram.com/sconesandcream.sg/">
-    <h2>Scones&cream.sg</h2>
-    <p>My part-time hobby of selling bakes on Instagram. Started out as a personal problem where I couldn't find good scones in Singapore.</p>
+  <a href="https://www.instagram.com/sconesandcream.sg/">
+  <div class="main-paragraph">
+    <h2 style="padding: 10px 0 0 5px;">Scones&cream.sg</h2>
+    <p style="padding: 10px 0 0 5px;">My part-time hobby of selling bakes on Instagram. Started out as a personal problem where I couldn't find good scones in Singapore.</p>
+  </a>
   </div>
 </div>
 
