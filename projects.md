@@ -16,7 +16,7 @@ sidebar_link: true
 .photoicon {
     display: inline-block;
     width: 180px;
-    height: 180px;
+    height: 200px;
     border-color: #f0f0f0;
     border-radius: 10px;
     background-color: white;
@@ -28,7 +28,7 @@ sidebar_link: true
 .main-paragraph {
   display: inline-block;
   width: 658px;
-  height: 180px;
+  height: 200px;
   border-color: #f0f0f0;
   border-radius: 10px;
   background-color: white;
@@ -61,7 +61,7 @@ sidebar_link: true
     <p style="padding: 0 0 0 25px;">My friend and I talk about tech, media and the meaning of life. Join us on our weekly podcasts!</p>
       </a>
       <a href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
-       <img style="width:30%; height=auto; padding: 0 0 0 10px;" src="/assets/spotifybadge.png">
+       <img style="width:30%; height=auto; padding: 0 0 0 25px;" src="/assets/spotifybadge.png">
       </a>
 
   </div>
@@ -102,6 +102,6 @@ sidebar_link: true
 <div class="borderpadding"></div>
 
 
-<div>Other stuff put on hold:</div><br>
+<div>Other stuff put on hold:</div>
 1. <a href="https://www.youtube.com/channel/UC5VkoUoEzqzk0IcAs3qdM5A/">Tech Bites </a><br>
 2. <a href="https://www.youtube.com/user/kalo4521/about">YouTube of my music covers</a>
