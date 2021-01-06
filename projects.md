@@ -53,14 +53,15 @@ sidebar_link: true
 
 <div class="row">
   <div class="photoicon">
-<img src="/assets/podcast.png"></img>
+<img src="/assets/podcast.png">
   </div>
   <div class="main-paragraph">
     <a href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
-    <h2 style="padding: 10px 0 0 5px;">The T Podcast</h2>
-    <p style="padding: 10px 0 0 5px;">My friend and I talk about tech, media and the meaning of life. Join us on our weekly podcasts!</p>
+    <h2 style="padding: 40px 0 0 5px;">The T Podcast</h2>
+    <p style="padding: 40px 0 0 5px;">My friend and I talk about tech, media and the meaning of life. Join us on our weekly podcasts!</p>
       </a>
-  <img style="width:30%; height=auto" ref="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D" src="/assets/spotifybadge.png"></img>
+      <a ref="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
+  <img style="width:30%; height=auto"  src="/assets/spotifybadge.png"></a>
 
   </div>
 </div>
@@ -71,12 +72,12 @@ sidebar_link: true
 
 <div class="row">
   <div class="photoicon">
-  <img src="/assets/orient.png"></img>
+  <img src="/assets/orient.png">
   </div>
-  <a href="http://orientates.wordpress.com/">
   <div class="main-paragraph" >
-    <h2 style="padding: 10px 0 0 5px;">Orientates</h2>
-    <p style="padding: 10px 0 0 5px;">A career awareness platform intended to raise awareness about working in tech. Still pretty nascent while I figure out what I want to do with this.</p>
+    <a href="http://orientates.wordpress.com/">
+    <h2 style="padding: 40px 0 0 5px;">Orientates</h2>
+    <p style="padding: 40px 0 0 5px;">A career awareness platform intended to raise awareness about working in tech. Still pretty nascent while I figure out what I want to do with this.</p>
   </div>
   </a>
 </div>
@@ -86,12 +87,12 @@ sidebar_link: true
 
 <div class="row">
   <div class="photoicon">
-  <img src="/assets/scones.jpg"></img>
+  <img src="/assets/scones.jpg">
   </div>
-  <a href="https://www.instagram.com/sconesandcream.sg/">
   <div class="main-paragraph">
-    <h2 style="padding: 10px 0 0 5px;">Scones&cream.sg</h2>
-    <p style="padding: 10px 0 0 5px;">My part-time hobby of selling bakes on Instagram. Started out as a personal problem where I couldn't find good scones in Singapore.</p>
+    <a href="https://www.instagram.com/sconesandcream.sg/">
+    <h2 style="padding: 40px 0 0 5px;">Scones&cream.sg</h2>
+    <p style="padding: 40px 0 0 5px;">My part-time hobby of selling bakes on Instagram. Started out as a personal problem where I couldn't find good scones in Singapore.</p>
   </a>
   </div>
 </div>
@@ -99,9 +100,6 @@ sidebar_link: true
 <div class="borderpadding"></div>
 
 
-<div>Other stuff put on hold:</div>
-1. <a href="https://www.youtube.com/channel/UC5VkoUoEzqzk0IcAs3qdM5A/">Tech Bites </a>
+<div>Other stuff put on hold:</div><br>
+1. <a href="https://www.youtube.com/channel/UC5VkoUoEzqzk0IcAs3qdM5A/">Tech Bites </a><br>
 2. <a href="https://www.youtube.com/user/kalo4521/about">YouTube of my music covers</a>
-
-</body>
-</html>
