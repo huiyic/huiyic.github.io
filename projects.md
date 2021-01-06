@@ -17,7 +17,7 @@ sidebar_link: true
     display: inline-block;
     width: 180px;
     height: 180px;
-    border-color: #c9c9c9;
+    border-color: #f0f0f0;
     border-radius: 10px;
     background-color: white;
     border-width: 0.5px;
@@ -29,7 +29,7 @@ sidebar_link: true
   display: inline-block;
   width: 658px;
   height: 180px;
-  border-color: #c9c9c9;
+  border-color: #f0f0f0;
   border-radius: 10px;
   background-color: white;
   border-width: 0.5px;
@@ -49,7 +49,7 @@ sidebar_link: true
 </style>
 </head>
 <body>
-
+<div class="borderpadding"></div>
 
 <div class="row">
   <div class="photoicon">
@@ -61,7 +61,7 @@ sidebar_link: true
     <p style="padding: 0 0 0 25px;">My friend and I talk about tech, media and the meaning of life. Join us on our weekly podcasts!</p>
       </a>
       <a href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
-       <img style="width:20%; height=auto; padding: 0 0 0 25px;" src="/assets/spotifybadge.png">
+       <img style="width:30%; height=auto; padding: 0 0 0 10px;" src="/assets/spotifybadge.png">
       </a>
 
   </div>
