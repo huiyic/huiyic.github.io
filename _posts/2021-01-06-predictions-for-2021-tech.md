@@ -72,7 +72,7 @@ While I understand podcasts and its growth and funding have been on the rise, an
 
 If I were to mention a certain source that raised awareness from the mass consumer regarding tech ethics, it'd be the Netflix documentary <a href="https://theconversation.com/netflixs-the-social-dilemma-highlights-the-problem-with-social-media-but-whats-the-solution-147351">The Social Dilemma</a>. Basically, the data that tech companies have on users, in some way or another, allows them to 'manipulate' certain user behaviours by applying learnings of user psychology. 
 
-How do we make the user visit the app more frequently, how do we get this user to spend money on items they may not need... these questions that tech companies have always been thinking of optimising for are now worth a re-look into how they are bringing value. Is the value brought to the people, or just for the company itself?
+<i>How do we make the user visit the app more frequently, how do we get this user to spend money on items they may not need...</i> these questions that tech companies have always been thinking of optimising for are now worth a re-look into how they are bringing value. Is the value brought to the people, or just for the company itself?
 
 I'm currently also taking this <a href="https://cs50.harvard.edu/">CS50x course on EdX</a>, and they also added in a new topic on Ethics. Which goes to show that it will be a topic brought up for awareness.
 
