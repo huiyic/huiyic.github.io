@@ -1,5 +1,5 @@
 ---
-title: How was your 2020?
+title: 2021 Predictions for Tech
 layout: post
 ---
 
