@@ -28,7 +28,7 @@ To note, there are nuances between the group buy models; for example, Pin Duo Du
 During lockdown situations, many manufacturers and suppliers had their sales affected when dine-in establishments had to close down temporarily. Suppliers had to tweak their operations to <a href="https://www.straitstimes.com/lifestyle/food/supplying-the-great-singapore-bake-off">re-package their inventory that were in bigger quantities into smaller quantities to sell direct to consumers</a>. They also sold direct to consumers via group buy channels. 
 
 
-![Angliss](https://huiyichia.com/assets/angliss.jpg)
+![Angliss](https://huiyichia.com/assets/angliss.png)
 <i>Example of Angliss, a Singapore based food supplier promoting its catalogue within a Telegram Group Buy channel.</i>
 
 While retail still plays an important part in the consumer's buying experience, more suppliers will cut out the middleman and reduce the need to pay for expensive shelves spaces, utilising social media channels for visibility instead. Customer service and <a href="http://supernova.xyz/">branding</a> will differentiate brands from one another. This also means manufacturers and suppliers have to review their existing processes - from warehousing to inventory management to fulfillment to delivery - to support D2C. 
