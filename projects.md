@@ -61,7 +61,8 @@ sidebar_link: true
     <p style="padding: 0 0 0 25px;">My friend and I talk about tech, media and the meaning of life. Join us on our weekly podcasts!</p>
       </a>
       <a ref="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
-  <img style="width:30%; height=auto"  src="/assets/spotifybadge.png"></a>
+       <img style="width:30%; height=auto"  src="/assets/spotifybadge.png">
+      </a>
 
   </div>
 </div>
@@ -78,8 +79,9 @@ sidebar_link: true
     <a href="http://orientates.wordpress.com/">
     <h2 style="padding: 0 0 0 5px;">Orientates</h2>
     <p style="padding: 0 0 0 5px;">A career awareness platform intended to raise awareness about working in tech. Still pretty nascent while I figure out what I want to do with this.</p>
+    </a>
   </div>
-  </a>
+
 </div>
 
 <div class="borderpadding"></div>
