@@ -53,12 +53,12 @@ sidebar_link: true
 
 <div class="row">
   <div class="photoicon">
-![The T Podcast](/assets/podcast.png)
+<img src="/assets/podcast.png"></img>
   </div>
   <div class="main-paragraph" href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
-    <h2>The T Podcast</h2>
+    <h2 style="padding: 5px 0 0 5px;">The T Podcast</h2>
     <p>My friend and I talk about tech, media and the meaning of life. Join us on our weekly podcasts!</p>
-<a href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">![The T Podcast Listen](/assets/spotifybadge.png)</a>
+<img ref="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D" src="/assets/spotifybadge.png"></img>
   </div>
 </div>
 
