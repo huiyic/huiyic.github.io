@@ -58,10 +58,10 @@ sidebar_link: true
   <div class="main-paragraph">
     <a href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
     <h2 style="padding: 0 0 0 25px;">The T Podcast</h2>
-    <p style="padding: 0 0 0 25px;">My friend and I talk about tech, media and the meaning of life. Join us on our weekly podcasts!</p>
+    <p style="padding: 0 0 0 25px; margin-bottom: 10px;">My friend and I talk about tech, media and life. Join us on our weekly podcasts!</p>
       </a>
       <a href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
-       <img style="width:30%; height=auto; padding: 0 0 0 25px;" src="/assets/spotifybadge.png">
+       <img style="width:35%; height=auto; padding: 0 0 0 25px;" src="/assets/spotifybadge.png">
       </a>
 
   </div>
@@ -94,7 +94,7 @@ sidebar_link: true
   <div class="main-paragraph">
     <a href="https://www.instagram.com/sconesandcream.sg/">
     <h2 style="padding: 0 0 0 25px;">Scones&cream.sg</h2>
-    <p style="padding: 0 0 0 25px;">My part-time hobby of selling bakes on Instagram. Started out as a personal problem where I couldn't find good scones in Singapore.</p>
+    <p style="padding: 0 0 0 25px;">Just a little hobby of selling bakes occasionally on Instagram. Started out as a personal problem where I couldn't find good scones in Singapore.</p>
   </a>
   </div>
 </div>
