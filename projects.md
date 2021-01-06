@@ -60,8 +60,8 @@ sidebar_link: true
     <h2 style="padding: 0 0 0 25px;">The T Podcast</h2>
     <p style="padding: 0 0 0 25px;">My friend and I talk about tech, media and the meaning of life. Join us on our weekly podcasts!</p>
       </a>
-      <a ref="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
-       <img style="width:30%; height=auto"  src="/assets/spotifybadge.png">
+      <a href="https://open.spotify.com/show/11KfxTr0zAHwh3rOnyJI8D">
+       <img style="width:20%; height=auto; padding: 0 0 0 25px;" src="/assets/spotifybadge.png">
       </a>
 
   </div>
@@ -77,8 +77,8 @@ sidebar_link: true
   </div>
   <div class="main-paragraph" >
     <a href="http://orientates.wordpress.com/">
-    <h2 style="padding: 0 0 0 5px;">Orientates</h2>
-    <p style="padding: 0 0 0 5px;">A career awareness platform intended to raise awareness about working in tech. Still pretty nascent while I figure out what I want to do with this.</p>
+    <h2 style="padding: 0 0 0 25px;">Orientates</h2>
+    <p style="padding: 0 0 0 25px;">A career awareness platform intended to raise awareness about working in tech. Still pretty nascent while I figure out what I want to do with this.</p>
     </a>
   </div>
 
@@ -93,8 +93,8 @@ sidebar_link: true
   </div>
   <div class="main-paragraph">
     <a href="https://www.instagram.com/sconesandcream.sg/">
-    <h2 style="padding: 0 0 0 5px;">Scones&cream.sg</h2>
-    <p style="padding: 0 0 0 5px;">My part-time hobby of selling bakes on Instagram. Started out as a personal problem where I couldn't find good scones in Singapore.</p>
+    <h2 style="padding: 0 0 0 25px;">Scones&cream.sg</h2>
+    <p style="padding: 0 0 0 25px;">My part-time hobby of selling bakes on Instagram. Started out as a personal problem where I couldn't find good scones in Singapore.</p>
   </a>
   </div>
 </div>
