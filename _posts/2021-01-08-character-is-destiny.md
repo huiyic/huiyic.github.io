@@ -5,16 +5,14 @@ layout: post
 
 I was having a conversation with a good friend of mine about life in general, and it went like this:
 
-> <i>Friend: "...so as I've previously mentioned to you, character is destiny."<br>Me: "...? I'm very sure you didn't mention this to me before."<br>Friend: "Oh, I didn't? Can't remember where I saw it also... Anyway it just means that who you are as a person shapes how your life would be."</i>
+> <i><b>Friend:</b> "...so as I've previously mentioned to you, character is destiny."<br><b>Me:</b> "...? I'm very sure you didn't mention this to me before."<br><b>Friend:</b> "Oh, I didn't? Can't remember where I saw it also... Anyway it just means that who you are as a person shapes how your life would be."</i>
 
 I was intrigued by this chat mainly because of two things:
 
 1. I usually remember things that people tell me. So I was very sure he hadn't mentioned the phrase to me before.
 2. It sounded like a neat way to rephrase another similar line from a well-known poem, Invictus by William Ernest Henley: 
 
-> <i>"I am the master of my fate:</i>
-
-> <i>I am the captain of my soul."</i>
+> <i>"I am the master of my fate:<br>I am the captain of my soul."</i>
 
 ## Do you have regrets in life?
 
@@ -24,9 +22,7 @@ To provide a recent example, I was ready to find myself an overseas opportunity 
 
 After a few more months, I interviewed with a local company which I feel is solving a meaningful and challenging problem. When asked about my longer term plan, I did mention that I'd like to work overseas someday and COVID disrupted my plans. We had the following conversation:
 
-> <i>Him: "Does this mean when travel gets back to normal, you'd quit our company and go overseas?"</i>
-
-> <i>Me: "Going overseas to work is not the only thing I would like to do in life. If I don't have the opportunity to go overseas, it doesn't mean I'm not excited by other things, such as working with your company, or being open to other opportunities that come along."</i>
+> <i><b>Him:</b> "Does this mean when travel gets back to normal, you'd quit our company and go overseas?"<br></b>Me:</b> "Going overseas to work is not the only thing I would like to do in life. If I don't have the opportunity to go overseas, it doesn't mean I'm not excited by other things, such as working with your company, or being open to other opportunities that come along."</i>
 
 A couple of other interviews happened in-between, and serendipitously, I scored myself an opportunity to work overseas, which I am currently preparing to move for. 
 
@@ -51,8 +47,7 @@ But what you can control is how you choose to, for instance, perform at your job
 
 There is a comment in <a href="https://www.navalmanack.com/">The Almanack of Naval Ravikant</a>,where he mentions:
 
-><i>"...There are tons and tons of options. We live on a planet of seven billion people, and we are connected to everybody on the internet. There are hundreds of thousands of careers available to you. There are so many choices. </i>
-><i>You're biologically not built to realize how many choices there are. Historically, we've all evolved in tribes of 150 people."</i>
+><i>"...There are tons and tons of options. We live on a planet of seven billion people, and we are connected to everybody on the internet. There are hundreds of thousands of careers available to you. There are so many choices. <br>You're biologically not built to realize how many choices there are. Historically, we've all evolved in tribes of 150 people."</i>
 
 If you don't get what you want, it doesn't mean you can't do a million other things in life. I personally feel it's about how open you are to opportunities, and also how badly you want it.
 
@@ -60,8 +55,7 @@ If you don't get what you want, it doesn't mean you can't do a million other thi
 
 I will never forget an analogy one of my ex-bosses positioned to me, when we were chatting about product development and about reducing friction for customers to attain a certain goal. 
 
-><i>Me: "How much friction should we reduce in the user flow?"</i>
-><i>Boss: "You see, imagine you have a $10,000 bill on the other side of a very high wall. Most people will do whatever it takes to climb over that wall, no matter the amount of friction. Find a ladder, train hard to be able to jump over, whatever. But if you remove the wall, and also remove the $10,000, why would the person even walk to the same spot?"</i>
+><i><b>Me:</b> "How much friction should we reduce in the user flow?" <br><b>Boss:</b> "You see, imagine you have a $10,000 bill on the other side of a very high wall. Most people will do whatever it takes to climb over that wall, no matter the amount of friction. Find a ladder, train hard to be able to jump over, whatever. But if you remove the wall, and also remove the $10,000, why would the person even walk to the same spot?"</i>
 
 Think back of a time where you wanted to learn something new, or fulfil certain New Year resolutions that you've set for yourself. Coding? Exercising? Learning a new language? You know it is painful because it's something unfamiliar. 
 
