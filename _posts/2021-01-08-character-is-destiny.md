@@ -6,7 +6,9 @@ layout: post
 I was having a conversation with a good friend of mine about life in general, and it went like this:
 
 > <i>Friend: "...so as I've previously mentioned to you, character is destiny."</i>
+
 > <i>Me: "...? I'm very sure you didn't mention this to me before."</i>
+
 > <i>Friend: "Oh, I didn't? Can't remember where I saw it also... Anyway it just means that who you are as a person shapes how your life would be."</i>
 
 I was intrigued by this chat mainly because of two things:
@@ -14,8 +16,9 @@ I was intrigued by this chat mainly because of two things:
 1. I usually remember things that people tell me. So I was very sure he hadn't mentioned the phrase to me before.
 2. It sounded like a neat way to rephrase another similar line from a well-known poem, Invictus by William Ernest Henley: 
 
-<i>"I am the master of my fate:
-I am the captain of my soul."</i>
+> <i>"I am the master of my fate:</i>
+
+> <i>I am the captain of my soul."</i>
 
 ## Do you have regrets in life?
 
