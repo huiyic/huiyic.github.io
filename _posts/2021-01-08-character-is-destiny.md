@@ -22,7 +22,7 @@ To provide a recent example, I was ready to find myself an overseas opportunity 
 
 After a few more months, I interviewed with a local company which I feel is solving a meaningful and challenging problem. When asked about my longer term plan, I did mention that I'd like to work overseas someday and COVID disrupted my plans. We had the following conversation:
 
-> <i><b>Him:</b> "Does this mean when travel gets back to normal, you'd quit our company and go overseas?"<br></b>Me:</b> "Going overseas to work is not the only thing I would like to do in life. If I don't have the opportunity to go overseas, it doesn't mean I'm not excited by other things, such as working with your company, or being open to other opportunities that come along."</i>
+> <i><b>Him:</b> "Does this mean when travel gets back to normal, you'd quit our company and go overseas?"<br><b>Me:</b> "Going overseas to work is not the only thing I would like to do in life. If I don't have the opportunity to go overseas, it doesn't mean I'm not excited by other things, such as working with your company, or being open to other opportunities that come along."</i>
 
 A couple of other interviews happened in-between, and serendipitously, I scored myself an opportunity to work overseas, which I am currently preparing to move for. 
 
@@ -45,7 +45,7 @@ But what you can control is how you choose to, for instance, perform at your job
 
 ## It's not your only option
 
-There is a comment in <a href="https://www.navalmanack.com/">The Almanack of Naval Ravikant</a>,where he mentions:
+There is a comment in <a href="https://www.navalmanack.com/">The Almanack of Naval Ravikant</a>, where he mentions:
 
 ><i>"...There are tons and tons of options. We live on a planet of seven billion people, and we are connected to everybody on the internet. There are hundreds of thousands of careers available to you. There are so many choices. <br>You're biologically not built to realize how many choices there are. Historically, we've all evolved in tribes of 150 people."</i>
 
