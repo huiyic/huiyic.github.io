@@ -73,12 +73,12 @@ sidebar_link: true
 
 <div class="row">
   <div class="photoicon">
-  <img src="/assets/orient.png">
+  <img src="/assets/substack.png">
   </div>
   <div class="main-paragraph" >
-    <a href="http://orientates.wordpress.com/">
+    <a href="https://orientate.substack.com/">
     <h2 style="padding: 0 0 0 25px;">Orientates</h2>
-    <p style="padding: 0 0 0 25px;">A career awareness platform intended to raise awareness about working in tech. Still pretty nascent while I figure out what I want to do with this.</p>
+    <p style="padding: 0 0 0 25px;">A mishmash of my thoughts and musings. Still pretty nascent while I figure out what I want to do with this.</p>
     </a>
   </div>
 
