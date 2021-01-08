@@ -5,11 +5,7 @@ layout: post
 
 I was having a conversation with a good friend of mine about life in general, and it went like this:
 
-> <i>Friend: "...so as I've previously mentioned to you, character is destiny."</i>
-
-> <i>Me: "...? I'm very sure you didn't mention this to me before."</i>
-
-> <i>Friend: "Oh, I didn't? Can't remember where I saw it also... Anyway it just means that who you are as a person shapes how your life would be."</i>
+> <i>Friend: "...so as I've previously mentioned to you, character is destiny."<br>Me: "...? I'm very sure you didn't mention this to me before."<br>Friend: "Oh, I didn't? Can't remember where I saw it also... Anyway it just means that who you are as a person shapes how your life would be."</i>
 
 I was intrigued by this chat mainly because of two things:
 
@@ -29,6 +25,7 @@ To provide a recent example, I was ready to find myself an overseas opportunity 
 After a few more months, I interviewed with a local company which I feel is solving a meaningful and challenging problem. When asked about my longer term plan, I did mention that I'd like to work overseas someday and COVID disrupted my plans. We had the following conversation:
 
 > <i>Him: "Does this mean when travel gets back to normal, you'd quit our company and go overseas?"</i>
+
 > <i>Me: "Going overseas to work is not the only thing I would like to do in life. If I don't have the opportunity to go overseas, it doesn't mean I'm not excited by other things, such as working with your company, or being open to other opportunities that come along."</i>
 
 A couple of other interviews happened in-between, and serendipitously, I scored myself an opportunity to work overseas, which I am currently preparing to move for. 
@@ -39,7 +36,7 @@ If for some reason you are unable to get what you want, and it isn't due to the 
 
 Stoicism. As unorthodox as it may seem, the first time I noticed this concept was when I was watching a Pewdiepie video (when his house got robbed). If you know the world's most famous YouTuber, he is actually a huge proponent of stoicism. 
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/bMpgsD5o8bs](https://www.youtube.com/embed/bMpgsD5o8bs)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bMpgsD5o8bs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 There are two main principles of stoicism:
 
