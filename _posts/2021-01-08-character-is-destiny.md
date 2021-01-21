@@ -24,9 +24,7 @@ After a few more months, I interviewed with a local company which I feel is solv
 
 > <i><b>Him:</b> "Does this mean when travel gets back to normal, you'd quit our company and go overseas?"<br><b>Me:</b> "Going overseas to work is not the only thing I would like to do in life. If I don't have the opportunity to go overseas, it doesn't mean I'm not excited by other things, such as working with your company, or being open to other opportunities that come along."</i>
 
-A couple of other interviews happened in-between, and serendipitously, I scored myself an opportunity to work overseas, which I am currently preparing to move for. 
-
-If for some reason you are unable to get what you want, and it isn't due to the fact that you didn't do your best, there is nothing to regret. Sometimes, certain things are not within our control, and it's okay. In my case, I was extremely fortunate to still get what I set out to do initially.
+If for some reason you are unable to get what you want, and it isn't due to the fact that you didn't do your best, there is nothing to regret. Sometimes, certain things are not within our control, and it's okay. There's so many other things to try in life.
 
 ## Stoicism: Things you can and cannot control
 
