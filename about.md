@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-Hello! I’m Hui Yi, a Product Manager based in Singapore.
+Hello! I’m Hui Yi, a Product Manager based in Shanghai.
 
 I love exploring marketplace products and building stuff that makes people happy. My favourite products include Swarm, Airbnb, Product Hunt, and of course, <a href="https://carousell.com">Carousell</a>.
 
@@ -16,7 +16,7 @@ I've been incredibly lucky to have seen Carousell grow from a team of less than 
 
 I enjoy reading books on <a href="https://www.goodreads.com/author/list/10538.Carl_Sagan">Cosmology</a> and wonder if I'll ever see extraterrestrials in my life time. I <a href="https://instagram.com/sconesandcream.sg">bake</a> occasionally, and try not to poison people in the process. 
 
-I'm keen to explore the areas of building communities, social commerce, F&B, making social impact and marketplaces. <a href="mailto:hui.ychia@gmail.com">Say hi</a> if you'd like to chat! 
+I'm keen to explore the areas of building communities, the Creator Economy, F&B, making social impact and marketplaces. <a href="mailto:hui.ychia@gmail.com">Say hi</a> if you'd like to chat! 
 
 <p class="message">
   We are like butterflies who flutter for a day and think it's forever. 

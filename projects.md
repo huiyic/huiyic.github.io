@@ -78,7 +78,7 @@ sidebar_link: true
   <div class="main-paragraph" >
     <a href="https://orientate.substack.com/">
     <h2 style="padding: 0 0 0 25px;">Orientates</h2>
-    <p style="padding: 0 0 0 25px;">A mishmash of my thoughts and musings. Still pretty nascent while I figure out what I want to do with this.</p>
+    <p style="padding: 0 0 0 25px;">Writings on China tech, product and life.</p>
     </a>
   </div>
 
@@ -86,22 +86,7 @@ sidebar_link: true
 
 <div class="borderpadding"></div>
 
-
-<div class="row">
-  <div class="photoicon">
-  <img src="/assets/scones.jpg">
-  </div>
-  <div class="main-paragraph">
-    <a href="https://www.instagram.com/sconesandcream.sg/">
-    <h2 style="padding: 0 0 0 25px;">Scones&cream.sg</h2>
-    <p style="padding: 0 0 0 25px;">Just a little hobby of selling bakes occasionally on Instagram. Started out as a personal problem where I couldn't find good scones in Singapore.</p>
-  </a>
-  </div>
-</div>
-
-<div class="borderpadding"></div>
-
-
 <div>Other stuff put on hold:</div>
 1. <a href="https://www.youtube.com/channel/UC5VkoUoEzqzk0IcAs3qdM5A/">Tech Bites </a><br>
 2. <a href="https://www.youtube.com/user/kalo4521/about">YouTube of my music covers</a>
+3. <a href="https://www.instagram.com/sconesandcream.sg/">scones&cream Homebakes</a>
