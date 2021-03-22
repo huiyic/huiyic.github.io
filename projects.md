@@ -88,5 +88,5 @@ sidebar_link: true
 
 <div>Other stuff put on hold:</div>
 1. <a href="https://www.youtube.com/channel/UC5VkoUoEzqzk0IcAs3qdM5A/">Tech Bites </a><br>
-2. <a href="https://www.youtube.com/user/kalo4521/about">YouTube of my music covers</a>
+2. <a href="https://www.youtube.com/user/kalo4521/about">YouTube of my music covers</a><br>
 3. <a href="https://www.instagram.com/sconesandcream.sg/">scones&cream Homebakes</a>
