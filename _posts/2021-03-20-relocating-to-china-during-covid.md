@@ -41,7 +41,7 @@ In China's case, you have to declare that you've been tested negative for both t
 
 ## Flying during COVID-19
 
-![Friends](https://huiyichia.com/assets/friends1.png)
+![Friends](https://huiyichia.com/assets/friends.png)
 Grateful for friends and family who woke early to send me off, will miss you guys!
 
 On the day of my flight, the airport was pretty empty, but my flight was more packed than I expected. A couple passengers donned PPE suits. Fortunately I had a whole aisle to myself, which I could, you know, lie on and cry about being separated from my friends and family during the flight. (I'm a human being!!!)
@@ -52,7 +52,7 @@ The flight was pretty uneventful. Watched Coco the movie and then went to sleep.
 
 It took us 1.5 hours to disembark the plane after landing due to COVID-19 restrictions. Upon disembarkation, you'd have to go through a process of filling in a health declaration form to get a QR code. You have to show the QR code to the health officials through the process of getting out of the airport. We had to take a nasal and throat swab test again. It was at a makeshift outdoor facility where there were rows and rows of officials swabbing people at counters. I almost suffocated as I didn't dare to breathe when they were doing the nasal swab for me. 
 
-![Swab](https://huiyichia.com/assets/swab1.png)
+![Swab](https://huiyichia.com/assets/swab.png)
 You get a test tube with your name on it, and head towards the facility to do your swab tests.
 
 Once you're done with the swab tests and checking out at the immigration, the next steps is to get to a hotel for a 14D (or 7+7) quarantine. They'd ask for your local address or at least the next place you intend to stay at after the quarantine, and then direct you to booths with the specific districts. For my case, I was going to stay at Qingpu district, so they also gave me the option of either staying at Holiday Inn or Mercure Hotels. I picked Mercure.
@@ -64,17 +64,17 @@ This was created by a Singaporean within some of the WeChat groups that I'm in. 
 
 ## Quarantining
 
-![Hotel check-in](https://huiyichia.com/assets/checkin1.png)
+![Hotel check-in](https://huiyichia.com/assets/checkin.png)
 Upon reaching the hotel, we were brought through a 'back door' and this was the check-in lobby.
 
 So yes, I'm serving my quarantine now. To be honest, it's kind of similar to when Singapore was in its circuit breaker phase, save for the fact I am now confined to a room (with no signs of the sun) instead of having a house to run around in. I wish I brought more snacks for myself, given that it's currently the 6th day and I'm absolutely sick and tired of the food.
 
 Also, I should've gotten a China phone number before going over, since I can't use their local food delivery apps like Meituan or Eleme without one. 
 
-![Hotel](https://huiyichia.com/assets/quarantinehotel1.png)
+![Hotel](https://huiyichia.com/assets/quarantinehotel.png)
 Hotel room. 
 
-![China food](https://huiyichia.com/assets/qfood1.png)
+![China food](https://huiyichia.com/assets/qfood.png)
 Breakfast and lunch. This happens when I wake up late for breakfast and they've also sent the lunch over.
 
 I did a <a href="https://open.spotify.com/episode/2pfkUCTnJaBtjXp2cXHQqf?si=LCHI643jTlWXju-RHVOr0g">podcast</a> with my friend on my relocation experience here, and also made a <a href="https://www.tiktok.com/music/Home-6754036344701339650](https://www.tiktok.com/music/Home-6754036344701339650">TikTok</a> about the day I flew.
