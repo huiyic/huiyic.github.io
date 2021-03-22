@@ -41,7 +41,7 @@ In China's case, you have to declare that you've been tested negative for both t
 
 ## Flying during COVID-19
 
-![Friends](https://huiyichia.com/assets/friends.png)
+![Friends](https://huiyichia.com/assets/friends2.png)
 Grateful for friends and family who woke early to send me off, will miss you guys!
 
 On the day of my flight, the airport was pretty empty, but my flight was more packed than I expected. A couple passengers donned PPE suits. Fortunately I had a whole aisle to myself, which I could, you know, lie on and cry about being separated from my friends and family during the flight. (I'm a human being!!!)
