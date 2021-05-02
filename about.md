@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-Hello! I’m Hui Yi, a Product Manager based in Shanghai.
+Hello! I’m Hui Yi, and am currently a Product Manager at Bytedance based in Shanghai. I'm with the Creator Marketplace team, exploring how we can help creators monetise while doing what they love!
 
 I love exploring marketplace products and building stuff that makes people happy. My favourite products include Swarm, Airbnb, Product Hunt, and of course, <a href="https://carousell.com">Carousell</a>.
 
