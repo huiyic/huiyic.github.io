@@ -15,7 +15,7 @@ Having been in a single company for so long, I realized that I took a lot of thi
 
 And despite my Onboarding Guidebook which I thought answered most questions, my new peers always had more questions (which were specific to certain domains). But in most cases, I knew almost exactly where to get answers for them, or knew who to direct them to. It was like most things were clockwork, and I was just Googling my brain to sieve out the information.
 
-Now that I’m in the shoes of a newcomer, I get to see for myself what it’s like to get newly onboarded to an already running company with years of decisions being made. (as opposed to being someone in a place relatively early on.)
+Now that I’m in the shoes of a newcomer, I get to see for myself what it’s like to get newly onboarded to an already running company with years of decisions already made. (as opposed to being someone in a place relatively early on.)
 
 There were lots of context to catch up in the first few days / weeks. You open document after document, with more hyperlinks to even more documents. (Are these documents even up to date, you wonder?) You get directed from person to person, trying to extract the information that you need. You attempt to understand the stakeholders and the organizational structure, and start to form your own mental model around how things work here.
 
