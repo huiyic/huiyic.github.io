@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-Hello! I’m Hui Yi, and am currently a Product Manager at Bytedance based in Shanghai. I'm with the Creator Marketplace team, exploring how we can help creators monetise while doing what they love!
+Hello! I’m currently a product manager at Ox Street, a platform to shop authentic sneakers & streetwear. I previously worked on TikTok Creator Marketplace at Bytedance, Shanghai, and also spent most of my early years at Carousell.
 
 I love exploring marketplace products and building stuff that makes people happy. My favourite products include Swarm, Airbnb, Product Hunt, and of course, <a href="https://carousell.com">Carousell</a>.
 
