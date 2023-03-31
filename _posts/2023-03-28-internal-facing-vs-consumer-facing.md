@@ -3,9 +3,9 @@ title: What I learnt 3 months into internal facing products
 layout: post
 ---
 
-I’ve mostly been working on consumer facing products throughout almost 10 years of my PM journey, ranging from growth, monetisation to community engagement. Quite frankly, that’s where my expertise lies in too.
+I’ve mostly been working on consumer facing products throughout my PM journey, ranging from growth, monetisation to community engagement. 
 
-However, post Carousell’s re-organisation, I’ve been working on the Post Orders journey, which looks at the customer journey when someone completes a purchase on Carousell.
+Post Carousell’s re-organisation, I’ve been working on the Post Orders journey, which looks at the customer journey when someone completes a purchase on Carousell.
 
 It’s still somewhat consumer facing, but some of my key metrics now revolve around solving for internal stakeholders. This includes:
 
@@ -31,9 +31,9 @@ To that, I realised I should approach an internal facing product domain vs a con
 
 Don’t get me wrong, we are still here to deliver value to our users, but the approach may differ.
 
-Throughout my previous consumer facing domains, the broad(ish) product process I usually go with starts off with user research and data analysis. Finding out key user problems is the most important part of my role as a PM. Following that would be workshops to brainstorm and align on problems and solutions, prioritisation, before rolling out features as AB tests. It continues on with conclusion of experiments depending on outcome, and we decide whether to iterate on the features or not.
+Throughout my previous consumer facing domains, the broad(ish) product process I usually go with starts off with user research and data analysis. Finding out key user problems is the most crucial aspect; following that would be workshops to brainstorm and align on problems and solutions, prioritisation, before rolling out features as AB experiments. It continues on with conclusion of experiments depending on outcome, and we decide whether to iterate on the features or not.
 
-But, there seems to be little upside in doing AB tests when focusing on making internal tools more efficient. Truth be told, I felt uneasy not ‘validating’ my work with AB tests, as it was more common in my growth product domains. To that, I ask the question: *Why do we need to do AB tests in the first place?*
+But, there seems to be little upside in doing AB experiments when focusing on making internal tools more efficient. Truth be told, I felt uneasy not ‘validating’ my work with AB experiments, as it was more common in my growth product domains. To that, I ask the question: *Why do we need to do AB experiments in the first place?*
 
 **Do I run AB experiments when serving internal stakeholders?**
 
