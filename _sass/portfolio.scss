@@ -1,0 +1,146 @@
+.portfolio-page-shell > main {
+  max-width: var(--max);
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+.portfolio-page-shell > main > header {
+  display: none;
+}
+
+.portfolio-intro {
+  padding: 2vw 0 5vw;
+  border-bottom: 1px solid var(--line);
+}
+
+.portfolio-intro p {
+  max-width: 720px;
+  margin: 0;
+  font-family: 'Manrope', sans-serif;
+  font-size: clamp(34px, 4.5vw, 64px);
+  line-height: 1.08;
+  letter-spacing: -.04em;
+}
+
+.project-feature {
+  display: grid;
+  grid-template-columns: minmax(0, .9fr) minmax(420px, 1.1fr);
+  gap: 7vw;
+  align-items: center;
+  padding: 8vw 0 2vw;
+}
+
+.project-meta {
+  margin: 0 0 24px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.project-copy h2 {
+  margin: 0 0 32px;
+  font-family: 'Manrope', sans-serif;
+  font-size: clamp(52px, 6.6vw, 94px);
+  line-height: .92;
+  letter-spacing: -.04em;
+}
+
+.project-copy > p:not(.project-meta) {
+  max-width: 540px;
+  margin: 0 0 34px;
+  color: #46453f;
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+.project-link {
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 7px;
+}
+
+.project-visual {
+  position: relative;
+  display: block;
+  min-height: 510px;
+  overflow: hidden;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+}
+
+.visual-label,
+.visual-question,
+.visual-result,
+.visual-action {
+  position: absolute;
+}
+
+.visual-label {
+  top: 34px;
+  left: 38px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .16em;
+}
+
+.visual-question {
+  top: 94px;
+  left: 38px;
+  font-family: 'Manrope', sans-serif;
+  font-size: clamp(31px, 3.8vw, 56px);
+  font-weight: 700;
+  line-height: 1.04;
+  letter-spacing: -.04em;
+}
+
+.visual-result {
+  right: -22px;
+  bottom: -125px;
+  color: rgba(255,255,255,.16);
+  font-family: 'Manrope', sans-serif;
+  font-size: 420px;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.visual-action {
+  right: 38px;
+  bottom: 34px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.project-visual:hover .visual-action {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+
+@media (max-width: 800px) {
+  .portfolio-page-shell > main {
+    padding-left: 7vw;
+    padding-right: 7vw;
+  }
+
+  .portfolio-intro {
+    padding: 7vw 0 12vw;
+  }
+
+  .project-feature {
+    grid-template-columns: 1fr;
+    gap: 14vw;
+    padding-top: 16vw;
+  }
+
+  .project-visual {
+    min-height: 420px;
+  }
+
+  .visual-result {
+    font-size: 340px;
+  }
+}

@@ -7,14 +7,13 @@
   <meta name="description" content="Hui Yi is a Product Manager at Amazon who writes about products, marketplaces, technology, and life.">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
-<body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
+<body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}{% if page.body_class %} {{ page.body_class }}{% endif %}">
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Hui Yi home">HUI YI<span>.</span></a>
     <nav aria-label="Primary navigation">
       <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
       <a href="{{ '/projects/' | relative_url }}"{% if page.url == '/projects/' %} aria-current="page"{% endif %}>Portfolio</a>
-      <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
       <a href="mailto:hui.ychia@gmail.com" aria-label="Email Hui Yi">↗</a>
     </nav>
   </header>

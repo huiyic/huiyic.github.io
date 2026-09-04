@@ -14,4 +14,4 @@ The homepage is a calm, high-contrast personal portfolio that borrows the refere
 
 ### Content rules
 
-Lead with current truth (“Product Manager at Amazon”). Do not invent Amazon work, portfolio projects, metrics, testimonials, or dates. Keep the portfolio intentionally open until side projects are ready; preserve the writing archive as the durable proof of thinking.
+Lead with current truth (“Product Manager at Amazon”). Do not invent Amazon work, project metrics, testimonials, or dates. Present verified side projects as full-width editorial features, beginning with Furusato Calculator; preserve the writing archive as the durable proof of thinking.
