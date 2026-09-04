@@ -18,9 +18,7 @@ sidebar_link: true
     <a class="project-link" href="https://furusato-calculator.com/">Open Furusato Calculator <span aria-hidden="true">↗</span></a>
   </div>
   <a class="project-visual" href="https://furusato-calculator.com/" aria-label="Open Furusato Calculator">
-    <span class="visual-label">FURUSATO NOZEI</span>
-    <span class="visual-question">How much can<br>you donate?</span>
-    <span class="visual-result">¥</span>
-    <span class="visual-action">Calculate your limit <span aria-hidden="true">→</span></span>
+    <img src="{{ '/assets/furusato-calculator-preview.png' | relative_url }}" width="1185" height="520" alt="Furusato Calculator showing income fields and a recommended donation of ¥102,000">
+    <span class="visual-action">Try the calculator <span aria-hidden="true">↗</span></span>
   </a>
 </section>
