@@ -1,0 +1,89 @@
+body.page > main,
+body.post > main,
+body.tags > main,
+body.search > main {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 9vw 5vw 12vw;
+}
+
+body.page > main > header,
+body.post > main > header {
+  margin-bottom: 48px;
+}
+
+.page-title,
+.post-title {
+  margin: 0;
+  font-family: 'Manrope', sans-serif;
+  font-size: clamp(42px, 6vw, 72px);
+  line-height: 1.04;
+  letter-spacing: -.04em;
+}
+
+.content {
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+.content p,
+.content ul,
+.content ol,
+.content blockquote {
+  margin-top: 0;
+  margin-bottom: 1.5em;
+}
+
+.content h2,
+.content h3 {
+  margin-top: 2.25em;
+  margin-bottom: .65em;
+  font-family: 'Manrope', sans-serif;
+  line-height: 1.2;
+  letter-spacing: -.025em;
+}
+
+.content a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.content img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  margin: 2.25em auto;
+}
+
+.content blockquote {
+  margin-left: 0;
+  padding-left: 24px;
+  border-left: 1px solid var(--ink);
+  color: var(--muted);
+}
+
+.post-meta {
+  margin-top: 18px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+pre,
+code {
+  overflow-x: auto;
+}
+
+@media (max-width: 800px) {
+  body.page > main,
+  body.post > main,
+  body.tags > main,
+  body.search > main {
+    padding: 18vw 7vw 22vw;
+  }
+
+  .content {
+    font-size: 17px;
+  }
+}

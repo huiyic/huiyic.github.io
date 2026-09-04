@@ -5,7 +5,7 @@ layout: post
 
 For the past 6 months, my team and I have been working on improving the stability and the user experience of Carousell's messaging platform.
 
-![Carousell's Inbox and Chat features.](https://huiyichia.com/images/inbox.gif)
+![Carousell's Inbox and Chat features.](/images/inbox.gif)
 <br><i>Carousell's Inbox and Chat features.</i>
 
 For a peer to peer marketplace, there is always some element of risk in dealing with a stranger online.
@@ -14,7 +14,7 @@ For a peer to peer marketplace, there is always some element of risk in dealing 
 
 The messaging platform is one of Carousell's core user journeys. Without it, our users will not be able to communicate with one another or to deal a transaction.
 
-![A typical buyer journey on Carousell.](https://huiyichia.com/images/buyerjourney.png)
+![A typical buyer journey on Carousell.](/images/buyerjourney.png)
 <br><i>A typical buyer journey on Carousell.</i>
 
 The goal of the team was focused on improving the stability of our messaging platform, of which the success could be measured by reducing the error rates faced by our users when they used Chat. Given this direction, we thought it would be an excellent opportunity to address some of the long-requested-for improvements by our users, alongside improving stability of the messaging platform.
@@ -27,7 +27,7 @@ But how do we prioritise features that are not focused on improving certain grow
 
 This was how we went about the prioritisation process:
 
-![Prioritisation process](https://huiyichia.com/images/process.png)
+![Prioritisation process](/images/process.png)
 
 
 <b>1. Defining the Charter  -  "Transaction First, Social Second"</b>
@@ -42,7 +42,7 @@ With this <i>'Transaction First, Social Second'</i> direction, we will also buil
 
 With a Transaction First direction, we could also prioritise surfacing complementary listings or services post-transaction, to value-add to the user's previous purchase through the messaging platform itself.
 
-![Example of what a post-transaction experience in Chat could look like.](https://huiyichia.com/images/posttxn.png)
+![Example of what a post-transaction experience in Chat could look like.](/images/posttxn.png)
 <br><i>Example of what a post-transaction experience in Chat could look like.</i>
 
 And once we can enable both sellers and buyers to make transactions that benefit them, marketplace liquidity and all other metrics can be improved.
@@ -85,12 +85,12 @@ An example of a series of questions that related to a specific feature would be 
 
 We found that many of the top feature requests from our users were seen as 'Attractive' features. This means without them, it will not stop someone from using Carousell.
 
-![Snapshot of the results of the feature requests surveyed.](https://huiyichia.com/images/featurebox.png)
+![Snapshot of the results of the feature requests surveyed.](/images/featurebox.png)
 <br><i>Snapshot of the results of the feature requests surveyed.</i>
 
 Segmenting the responses according to user personas also validated certain assumptions about the different user behaviours that we had.
 
-![User Segmented Results for Chat](https://huiyichia.com/images/segment.png)
+![User Segmented Results for Chat](/images/segment.png)
 
 For instance, the ability to search for messages in an Inbox is a 'Must-Have' for paying users, but only an 'Attractive' one for casual users.
 

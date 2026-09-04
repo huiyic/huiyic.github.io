@@ -1,42 +1,6 @@
 ---
 layout: default
 ---
-
-<div class="content">
-  {% include pagination-newer.html %}
-
-  {{ content }}
-
-  {% for post in paginator.posts %}
-  <article class="post-body">
-    <h2 class="post-title">
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-    {% include post-meta.html post=post %}
-
-    {% if post.excerpt %}
-      {{ post.excerpt }}
-    {% else %}
-      {{ post.content }}
-    {% endif %}
-
-    {% if post.excerpt %}
-      {% comment %}Excerpt may be equal to content. Check.{% endcomment %}
-      {% capture content_words %}
-        {{ post.content | number_of_words }}
-      {% endcapture %}
-      {% capture excerpt_words %}
-        {{ post.excerpt | number_of_words }}
-      {% endcapture %}
-
-      {% if content_words != excerpt_words %}
-        <a href="{{ post.url | relative_url }}">More &hellip;</a>
-      {% endif %}
-    {% endif %}
-  </article>
-  {% endfor %}
-
-  {% include pagination-older.html %}
-</div>
+<!-- THESIS: A product manager's homepage can feel like a working notebook: direct, specific, and personal—not a generic portfolio shell. OWN-WORLD: Chalk white, ink black, deep vermilion, crisp rules, and an asymmetrical collage of process fragments. STORY: Hui Yi builds products at Amazon Japan, draws on marketplace experience, makes videos, and writes in public. FIRST VIEWPORT: A compact statement and personal introduction sit beside an irregular process mosaic; the writing index follows directly. FORM: Mosaic-led editorial homepage, approved composition direction. FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, and DESIGN.md -->
+<section class="hero shell"><div class="hero-copy"><p class="eyebrow">Product management</p><h1>I build stuff<span class="accent">.</span></h1><p class="hero-intro">I'm currently building products at Amazon Japan. Previously spent most of my time in growth, community building and understanding how marketplaces work at Carousell and TikTok.<br><br>When I'm free, I <a href="https://www.youtube.com/@huiyiinjapan">make videos</a> of my Japan life as a way to keep my memories.</p><div class="hero-links"><a class="button button-dark" href="#writing">Read the writing <span aria-hidden="true">→</span></a><a class="text-link" href="{{ '/about/' | relative_url }}">About me <span aria-hidden="true">↗</span></a></div></div><div class="collage" aria-label="A collage of product notes, interface fragments, and everyday observations"><figure class="tile tile-notes"><img src="{{ '/assets/userresearch2.jpg' | relative_url }}" alt="Notes from user research"></figure><figure class="tile tile-screen"><img src="{{ '/assets/screen2.png' | relative_url }}" alt="A product interface fragment"></figure><figure class="tile tile-photo"><img src="{{ '/assets/alley.jpg' | relative_url }}" alt="An everyday street observation"></figure><div class="tile tile-principle"><span>WORKING PRINCIPLES</span><ol><li>Start with real needs.</li><li>Make trade-offs explicit.</li><li>Ship to learn.</li></ol></div><figure class="tile tile-archive"><img src="{{ '/assets/post3.jpg' | relative_url }}" alt="A page from the writing archive"></figure></div></section>
+<section class="writing shell" id="writing" aria-labelledby="writing-title"><div class="writing-aside"><p class="eyebrow">From the archive</p><h2 id="writing-title">Writing<span class="accent">.</span></h2><p>A long-running collection of notes on product management, marketplaces, technology, and life.</p><a class="text-link" href="{{ '/tags/' | relative_url }}">Browse all writing <span aria-hidden="true">→</span></a></div><div class="post-index">{% assign featured_posts = site.posts | slice: 0, 6 %}{% for post in featured_posts %}<a class="post-row" href="{{ post.url | relative_url }}"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%b %Y' }}</time><span class="post-title">{{ post.title }}</span><span class="post-arrow" aria-hidden="true">↗</span></a>{% endfor %}</div></section>

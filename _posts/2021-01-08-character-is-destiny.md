@@ -59,7 +59,7 @@ Think back of a time where you wanted to learn something new, or fulfil certain 
 
 But if you stopped, why did you stop doing it? Did you really want it badly enough? Do you want that $10,000 bill enough to find all ways and means to climb over the wall? <i>(My boss' point was not only about friction, but <a href="https://andrewchen.co/psychd-funnel-conversion/">motivation</a> too.)</i>
 
-![Wall](https://huiyichia.com//assets/wall.png)
+![Wall](/assets/wall.png)
 <i>Do you want the $10,000? How will you get it?</i>
 
 People who I look up to have sacrificed a lot personally to get to where they are today. They've always been relentlessly resourceful in trying to get things done, and they are always an inspiration to me.

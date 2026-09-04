@@ -7,12 +7,12 @@ Yes, circuit breaker in Singapore has produced many circuit bakers, and I am one
 
 Though, my interest in baking came way before COVID-19 and I had always been baking for friends around me.
 
-![Some bakes I made back in 2013.](https://huiyichia.com/images/scones6.png)
+![Some bakes I made back in 2013.](/images/scones6.png)
 Some bakes I made back in 2013 for a Carousell party.
 
 So, a couple of weeks ago, I decided to set up my online bakeshop on Instagram: <a href="https://instagram.com/sconesandcream.sg">@sconesandcream.sg</a>. 
 
-![Instagram profile!](https://huiyichia.com/images/scones7.png)
+![Instagram profile!](/images/scones7.png)
 
 ## Why did I decide to do it?
 
@@ -25,7 +25,7 @@ Back in 2012, I actually wanted to try selling my bakes online. However, I didn'
 
 ## How did I decide on the menu?
 
-![Coffee or tea with scones?](https://huiyichia.com/images/scones4.png)
+![Coffee or tea with scones?](/images/scones4.png)
 
 I was quite adamant on specialising in scones. This came from a personal problem where I couldn't find a place in Singapore selling decent scones. So why not make them myself, I thought.
 
@@ -54,7 +54,7 @@ My first delivery route had me deliver across the whole Singapore — I travelle
 
 I was exhausted. And hungry. I ate a test scone early in the morning, and could only have lunch at 3pm after all the deliveries. But, somehow I just felt a sense of fulfilment, especially when people write to you saying that they love what you baked!
 
-![Encouraging reviews from happy customers!](https://huiyichia.com/images/scones2.png)
+![Encouraging reviews from happy customers!](/images/scones2.png)
 
 It's super heartwarming to also receive messages that people are waiting for the order form to be opened - although I didn't receive a lot of such messages, these were little signs that I appreciated. Plus repeat customers, who either bought again for themselves or gifted them as care packages to their friends.
 
@@ -66,7 +66,7 @@ The most tiring parts to me are 2 things:
 
 Over time, I managed to source for 3rd party delivery services which meant I didn't have to go out to deliver anymore.
 
-![Out for delivery.](https://huiyichia.com/images/scones5.png)
+![Out for delivery.](/images/scones5.png)
 
 
 ## What's next?

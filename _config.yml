@@ -5,8 +5,8 @@ highlighter:      rouge
 # Setup
 title:            Hui Yi
 tagline:          'Hui Yi'
-description:      'Startups & Product Management'
-url:              https://huiyichia.com
+description:      'Product management, writing, and curiosity'
+url:              https://huiyic.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

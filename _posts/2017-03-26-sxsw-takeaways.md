@@ -100,7 +100,7 @@ Japanese robot interacting with human in English.
 Trying out Pinterest's Visual Lens on a friend.
 
 
-Other perks of SXSW is the amazing free food, drinks, swag, and essentially being in a place where the most diverse and interesting of people come together. I also managed to get my hands on Snap’s Spectacles after a <a href="http://huiyichia.com/2016/11/14/spectacles-launch/">long wait</a>, by refreshing Twitter again and again to find out Snapbot’s location at SXSW.
+Other perks of SXSW is the amazing free food, drinks, swag, and essentially being in a place where the most diverse and interesting of people come together. I also managed to get my hands on Snap’s Spectacles after a <a href="/2016/11/14/spectacles-launch/">long wait</a>, by refreshing Twitter again and again to find out Snapbot’s location at SXSW.
 
 Grateful for the opportunity to be back there, together with the Product team!
 

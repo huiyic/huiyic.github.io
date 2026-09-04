@@ -24,7 +24,7 @@ We take our home and family for granted. For some, staying at home sometimes isn
 If we look at it from a global perspective:
 
 <a href="https://www.youtube.com/watch?v=xRQ8GfSggAU">FACING COVID-19: Jakarta's Street Food Vendors</a>
-![Source: Our Grandfather Story](https://huiyichia.com/images/covid.png)
+![Source: Our Grandfather Story](/images/covid.png)
 Street vendors in Jakarta continue to hawk to ensure they have food for their family the next day, despite the risk of contracting covid-19 while being out. What happens if they have no sales?
 
 <a href="https://www.bbc.com/news/world-asia-india-52086274">Coronavirus: India's pandemic lockdown turns into a human tragedy</a>
@@ -40,7 +40,7 @@ The homeless are especially vulnerable. Covid-19 cases sprout from homeless clus
 If you are wondering how to help people affected by covid-19, here's a few ways to do so locally in Singapore:
 
 1. Order from local F&B businesses. There are many ways for you to do so; Grab has its new section on Local Heroes, Carousell has also started new sub-categories on Local F&Bs so you can order from local F&Bs through personal shoppers. Take out food with your personal utensils to help your local businesses reduce cost.
-![Source: Help our local F&Bs](https://huiyichia.com/images/grabcarousell.png)
+![Source: Help our local F&Bs](/images/grabcarousell.png)
 2. Help migrant workers or others affected, through many funding initiatives started by people on <a href="https://www.giving.sg/">giving.sg</a>.
 3. <a href="https://sites.google.com/view/madwish2020/home">Sign up for a programme</a> to teach migrant workers English so they can be equipped with better skills.
 4. Stay at home! Flatten the curve to help alleviate the load of our resources and protect your loved ones. I must admit this was the hardest thing for me to do, but it's something we'd just have to do to help each other tide through.
