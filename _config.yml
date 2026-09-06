@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Hui Yi
 tagline:          'Hui Yi'
-description:      'Product management, writing, and curiosity'
+description:      'Product management'
 url:              https://huiyic.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"

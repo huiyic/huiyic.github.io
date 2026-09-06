@@ -1,0 +1,40 @@
+.tile-notes {
+  width: 62%;
+  height: 46%;
+  right: 0;
+  top: 0;
+}
+
+.tile-photo {
+  width: 52%;
+  height: 54%;
+  left: 0;
+  top: 24%;
+}
+
+.tile-archive {
+  width: 54%;
+  height: 32%;
+  right: 0;
+  bottom: 0;
+}
+
+@media (max-width: 800px) {
+  .tile-notes {
+    width: 64%;
+    height: 44%;
+    right: 0;
+  }
+
+  .tile-photo {
+    width: 56%;
+    height: 50%;
+    top: 25%;
+  }
+
+  .tile-archive {
+    width: 58%;
+    height: 30%;
+    right: 0;
+  }
+}
