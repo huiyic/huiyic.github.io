@@ -13,6 +13,7 @@
     <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Hui Yi home">HUI YI<span>.</span></a>
     <nav aria-label="Primary navigation">
       <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/writing/' | relative_url }}"{% if page.url == '/writing/' or page.layout == 'post' %} aria-current="page"{% endif %}>Writing</a>
       <a href="{{ '/projects/' | relative_url }}"{% if page.url == '/projects/' %} aria-current="page"{% endif %}>Portfolio</a>
       <a href="mailto:hui.ychia@gmail.com" aria-label="Email Hui Yi">↗</a>
     </nav>

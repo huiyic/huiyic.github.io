@@ -1,0 +1,23 @@
+---
+layout: page
+title: Writing
+permalink: /writing/
+body_class: writing-page-shell
+---
+
+<p class="archive-intro">
+  A long-running collection of notes on product management, marketplaces,
+  technology, and life.
+</p>
+
+<div class="post-index archive-index">
+  {% for post in site.posts %}
+    <a class="post-row" href="{{ post.url | relative_url }}">
+      <time datetime="{{ post.date | date: '%Y-%m-%d' }}">
+        {{ post.date | date: '%b %Y' }}
+      </time>
+      <span class="post-title">{{ post.title }}</span>
+      <span class="post-arrow" aria-hidden="true">↗</span>
+    </a>
+  {% endfor %}
+</div>

@@ -70,6 +70,30 @@ body.post > main > header {
   font-size: 13px;
 }
 
+.writing-page-shell > main {
+  max-width: 980px;
+}
+
+.archive-intro {
+  max-width: 620px;
+  margin: -24px 0 56px;
+  color: var(--muted);
+  font-size: 19px;
+}
+
+.archive-index {
+  border-top: 1px solid var(--line);
+}
+
+.archive-index .post-row {
+  grid-template-columns: 110px minmax(0, 1fr) 20px;
+  color: var(--ink);
+}
+
+.archive-index .post-row:hover {
+  color: var(--accent);
+}
+
 pre,
 code {
   overflow-x: auto;
@@ -85,5 +109,15 @@ code {
 
   .content {
     font-size: 17px;
+  }
+
+  .archive-intro {
+    margin-top: -18px;
+    margin-bottom: 40px;
+    font-size: 17px;
+  }
+
+  .archive-index .post-row {
+    grid-template-columns: 72px minmax(0, 1fr) 14px;
   }
 }
